@@ -152,24 +152,35 @@ tabs:
         lang: en
 
   - id: world
-    name: עולם
+    name: העולם
     emoji: "🌍"
-    max: 10
+    max: 12
     sources:
       - name: BBC
         url: https://feeds.bbci.co.uk/news/world/rss.xml
         lang: en
       - name: וואלה עולם
         url: https://rss.walla.co.il/feed/2
+      - name: N12 עולם
+        url: https://rcs.mako.co.il/rss/news-world.xml
+        google: "site:mako.co.il עולם"
       - name: The Guardian
         url: https://www.theguardian.com/world/rss   # עם תמונות (Bing לא מחזיר כלום לחיפוש כללי כמו "world news")
         google: "site:theguardian.com world"
         lang: en
+      - name: Sky News
+        url: https://feeds.skynews.com/feeds/rss/world.xml
+        google: "site:news.sky.com world"
+        lang: en
+      - name: NPR
+        url: https://feeds.npr.org/1004/rss.xml
+        google: "site:npr.org world"
+        lang: en
 
   - id: trump
-    name: טראמפ והעולם
+    name: טראמפ
     emoji: "🇺🇸"
-    max: 6
+    max: 10
     sources:
       - name: Bing News
         bing: "Trump announces"
@@ -178,7 +189,14 @@ tabs:
       - name: Bing News
         bing: "Trump Truth Social post"
         lang: en
-      - name: Google News
+      - name: Bing News
+        bing: "Trump says"
+        lang: en
+      - name: Bing News
+        bing: "Trump executive order"
+        lang: en
+      - name: Bing חדשות
+        bing: "טראמפ"                                 # כותרות בעברית מאתרי חדשות ישראליים, עם תמונות
         google: "טראמפ הודיע OR טראמפ הכריז"
 
   - id: economy
