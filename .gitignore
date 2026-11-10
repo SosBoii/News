@@ -1,0 +1,10 @@
+# secret – never commit
+gemini_key.txt
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.tmp
+_*.js
+_*.py
+_upload/
