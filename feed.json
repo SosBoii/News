@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:11:42+00:00",
+ "generated_at": "2026-11-10T17:30:18+00:00",
  "tabs": [
   {
    "id": "israel",
@@ -8,12 +8,12 @@
   },
   {
    "id": "world",
-   "name": "עולם",
+   "name": "העולם",
    "emoji": "🌍"
   },
   {
    "id": "trump",
-   "name": "טראמפ והעולם",
+   "name": "טראמפ",
    "emoji": "🇺🇸"
   },
   {
@@ -53,6 +53,447 @@
   }
  ],
  "articles": [
+  {
+   "id": "6a57c5a01714",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "שלושה נפצעו בקטטה בין משפחות בעיר העתיקה בירושלים, ארבעה נעצרו",
+   "summary": "שלושה בני אדם נפצעו היום (שלישי) בקטטה שהתפתחה בין שתי משפחות בעיר העתיקה בירושלים, בהם אחד במצב בינוני ושניים במצב קל. שוטרים שהוזעקו למקום הפסיקו את הקטטה ועצרו ארבעה חשודים שהועברו לחקירה. נסיבות האירוע נבדקות.",
+   "link": "https://www.walla.co.il/news/breaking-news/383960888",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-10T17:16:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "שלושה בני אדם נפצעו בקטטה משפחתית בעיר העתיקה בירושלים והמשטרה עצרה ארבעה חשודים.",
+   "score": 2,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "e704b87817a5",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "הרמטכ\"ל מסמן את אחת הסיבות ל-7 באוקטובר - ומצטט את רבין",
+   "summary": "הרמטכ\"ל התייחס למחדל 7 באוקטובר במהלך אירוע לזכר יצחק רבין, והצביע על תרבות ה\"יהיה בסדר\" כאחת הסיבות לאסון. הוא קרא למפקדי צה\"ל לאמץ גישה אחרת: \"אל תאמר 'יהיה בסדר', אמור 'אני אחראי'\"",
+   "link": "https://www.maariv.co.il/news/military/article-1387120",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1157725",
+   "published": "2026-11-10T17:12:21+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "הפגישה של הרמטכ״ל בה הדגיש את החשיבות של לקיחת אחריות אישית בצבא במקום לסמוך על ה״יהיה בסדר״.",
+   "score": 3,
+   "top": 2,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "2951f283fa83",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
+   "summary": "פיט הגסת' כינס מסיבת עיתונאים ראשונה זה חצי שנה, אחרי שחבר הקונגרס תומאס מאסי הגיש לבית הנבחרים הצעה לפתוח נגדו בהליך הדחה, בעיקר בגלל המלחמה נגד טהרן: \"הכול פוליטי, זו חבלה מכוונת. משדרים לאויבים שצופים בנו שארה\"ב תעניש את חייליה על פעולות צבאיות חוקיות ומוצלחות\". הוא הדגיש: \"גאה שיצאנו למלחמה הזאת\". טראמפ: \"ציון A+++ להגסת', מאסי לוזר מוחלט!\"",
+   "link": "https://www.ynet.co.il/news/article/syqkajgamx",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/SyySH2xRfl/SyySH2xRfl_0_87_3000_1689_0_medium.jpg",
+   "published": "2026-11-10T15:23:59+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "שר ההגנה האמריקאי דוחה את ניסיונות ההדחה נגדו בעקבות המתיחות מול איראן.",
+   "score": 3,
+   "top": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "e5aa5d2cfc35",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "חייהם התהפכו ב-7/10 ובמלחמה. היום הם הושבעו לכנסת",
+   "summary": "טליק גואילי, גדי איזנקוט, רפי בן שטרית, שירה שפירא ומיכל נגרי ששכלו את בניהם ב-7/10 ובעזה. שרון שרעבי שאחיו יוסי נרצח בשבי. משה פייגלין ששכל את נכדו ועמרי רונן שסבתו נרצחה בביתה. וגם אלישע מדן שנפצע קשה ואיבד את שתי רגליו בבית חאנון. אלה חברי הכנסת ה-26 שחייהם התהפכו במלחמה",
+   "link": "https://www.ynet.co.il/news/article/hjyhc8x0ml",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/BkreL00gRfl/BkreL00gRfl_0_0_850_479_0_medium.jpg",
+   "published": "2026-11-10T15:14:03+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "שורת חברי כנסת חדשים הושבעו לתפקידם לאחר שאיבדו את יקיריהם במלחמת חרבות ברזל.",
+   "score": 3,
+   "top": 4,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "9778891c7a0a",
+   "tab": "world",
+   "feed": "world:4",
+   "title": "Police officer dies and another seriously injured after explosion in northern Spain",
+   "summary": "One police officer has died and another has lost a leg after an explosive device detonated at the scene of a shooting in northern Spain.",
+   "link": "https://news.sky.com/story/police-officer-dies-and-another-seriously-injured-after-explosion-in-northern-spain-13610563",
+   "source": "Sky News",
+   "lang": "en",
+   "image": "https://e3.365dm.com/26/11/1920x1080/skynews-spain-oviedo-otero_7402877.jpg?20261110104723",
+   "published": "2026-11-10T11:17:00+00:00",
+   "quiet": false,
+   "also": [
+    "BBC"
+   ],
+   "feeds": [
+    "world:4",
+    "world:0"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "שוטר ספרדי נהרג ואחר נפצע קשה לאחר פיצוץ מטען חבלה בצפון ספרד.",
+   "score": 3,
+   "top": 5,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "d315fb5c2e3a",
+   "tab": "world",
+   "feed": "world:4",
+   "title": "FBI investigating Nvidia CEO over affair with alleged Chinese spy",
+   "summary": "Donald Trump has said the FBI is looking into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy - but insisted he is a \"very honourable man\".",
+   "link": "https://news.sky.com/story/fbi-to-investigate-nvidia-ceo-over-affair-with-alleged-chinese-spy-trump-says-13610382",
+   "source": "Sky News",
+   "lang": "en",
+   "image": "https://e3.365dm.com/26/11/1920x1080/skynews-jensen-huang-nvidia_7402606.jpg?20261110022343",
+   "published": "2026-11-10T02:06:00+00:00",
+   "quiet": false,
+   "also": [
+    "BBC"
+   ],
+   "feeds": [
+    "world:4",
+    "world:0"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "ה-FBI חוקר את מנכ״ל ענקית השבבים אנבידיה בעקבות קשר עם אישה החשודה כמרגלת סינית.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "dc54cd1e24ad",
+   "tab": "world",
+   "feed": "world:5",
+   "title": "Iran denies it was behind cyber fridge attacks targeting France",
+   "summary": "The denial comes a day after the French government blamed Iranian military hackers for last month's attack on refrigeration systems at around 700 retail sites, which spoiled millions of dollars' worth of food.",
+   "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+   "source": "NPR",
+   "lang": "en",
+   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F5a%2F249abfba43bea5b714f1d6e355d2%2Fgettyimages-2299339600.jpg",
+   "published": "2026-11-09T22:30:49+00:00",
+   "quiet": false,
+   "also": [
+    "BBC"
+   ],
+   "feeds": [
+    "world:5",
+    "world:0"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "איראן מכחישה מעורבות במתקפת סייבר שהשביתה מערכות קירור באלפי אתרי מסחר בצרפת.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "4cf88472cddb",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+   "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/b5143f50-dcf4-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-11-10T16:07:51+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": true,
+   "multi": 1,
+   "ai_summary": "12 בני אדם נהרגו ועשרות נפצעו בתאונות שרשרת המוניות בערפל כבד בבולגריה.",
+   "score": 4,
+   "important_reason": "ai",
+   "top": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "f3eab5015521",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "Iran live updates: Hegseth says Trump 'kicked their teeth in'",
+   "summary": "Hegseth said the U.S. remains \"locked and loaded\" for renewed strikes.",
+   "link": "https://www.msn.com/en-us/news/other/iran-live-updates-hegseth-says-trump-kicked-their-teeth-in/ar-AA2h3thB",
+   "source": "ABC News on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.yDT_fV1CgDcX7WCHmvxFFA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T09:10:36+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "שר ההגנה האמריקאי מצהיר כי ארה״ב מוכנה לתקיפות נוספות מול איראן במידת הצורך.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "03031a6cb7ed",
+   "tab": "trump",
+   "feed": "trump:1",
+   "title": "Trump says Hegseth should be praised, not impeached",
+   "summary": "President Trump on Monday shot back at efforts to impeach Defense Secretary Pete Hegseth. “Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most ...",
+   "link": "https://thehill.com/homenews/administration/6209668-trump-defends-hegseth-impeachment/",
+   "source": "The Hill",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.ztPEoMoBQCs8OPTi0rhyQw&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T08:14:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "הנשיא טראמפ יצא להגנת שר ההגנה שלו ודחה את ניסיונות ההדחה נגדו.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "1c502ced8f62",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "Trump Says Nvidia Chief Was Unaware Chinese Woman Was Suspected Spy",
+   "summary": "President Trump on Monday said the Nvidia C.E.O. Jensen Huang told him he did not know that the businesswoman he was having an affair with was an operative for China’s government.",
+   "link": "https://www.nytimes.com/video/technology/100000011274337/nvidia-jensen-huang-affair-spy-trump-china.html",
+   "source": "The New York Times",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.FbHNT0ISBdxicQxO5s5Bgw&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T07:33:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "טראמפ טוען כי מנכ״ל אנבידיה לא ידע שבת זוגו לשעבר חשודה כמרגלת עבור סין.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "6216f995bbb1",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "טראמפ רועד: פינוי דרמטי חדש של מטוסי צבא בבריטניה - בגלל איום איראני",
+   "summary": "10 מטוסי תדלוק ושלושה מטוסי אוספריי הועברו מבסיס בבריטניה לאחר איום איראני קונקרטי | כל זה מתרחש בזמן שאיראן וארה\"ב מקיימות שיחות עקיפות דרך קטאר | רמת הכוננות הועלתה לרמה גבוהה | המהלך השני בתוך חודש ...",
+   "link": "https://www.kikar.co.il/world-news/us-evacuates-13-aircraft-uk-iran-threat",
+   "source": "כיכר השבת",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.8_IGhtc2yd4H_5XvGZnDLA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T05:57:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מטוסי צבא אמריקאי פונו מבסיס בבריטניה בשל התרעה ביטחונית הקשורה לאיראן.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "85505e36cb67",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens",
+   "summary": "By Steve Holland, Courtney Rozen, Karen Freifeld and David Shepardson WASHINGTON, Nov 9 (Reuters) - US President Donald Trump said on Monday the FBI was looking into Nvidia CEO Jensen Huang's affair ...",
+   "link": "https://www.msn.com/en-us/news/other/trump-says-fbi-probing-nvidia-ceo-huang-as-china-controversy-deepens/ar-AA2h8E4f",
+   "source": "Reuters on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.-ME4soYf1Zx-61ILQVacuw&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T03:54:24+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ה-FBI פתח בבדיקת קשריו של מנכ״ל אנבידיה על רקע פרשת הריגול הסיני לכאורה.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "0c45be1dd466",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "אופטימיות זהירה בארה\"ב: רוסיה ואוקראינה חידשו את שיחות השלום, טראמפ מעריך שהסכם מתקרב",
+   "summary": "נציגי רוסיה ואוקראינה נפגשו באבו דאבי לשיחות ראשונות מאז פברואר • בארה\"ב חושפים: קייב ומוסקווה מגלות פתיחות וגמישות בשיחות סגורות ...",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-45f4f6518d4c1a1026.htm",
+   "source": "mako",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.KRBCoyhgehHIt0fVm9uYbw&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T03:50:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "470ad74bfb62",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "דיווח: נתניהו לוחץ על טראמפ לחדש את המלחמה באיראן",
+   "summary": "לפי הפייננשל טיימס, נתניהו פועל לשכנע את טראמפ לחדש את התקיפות באיראן, בעוד מנהיגים במזרח התיכון קוראים לנשיא להימנע מהסלמה.",
+   "link": "https://www.inn.co.il/news/710438",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.wz5ENLJCVCNPxeX32FAYiA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T02:11:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "22bb29078fa9",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "Trump says deportation push hasn’t put 'same pressure' on farm workers, hotel staff: 'Not even close'",
+   "summary": "President Donald Trump says his mass deportation push has not targeted waitresses and farm workers with the same pressure as violent criminals.",
+   "link": "https://www.msn.com/en-us/news/other/trump-says-deportation-push-hasn-t-put-same-pressure-on-farm-workers-hotel-staff-not-even-close/ar-AA2h7Gsg",
+   "source": "Fox News on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.NlXU4CwRzpD4dH312FW_Pw&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-09T23:53:54+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "2bfebc9833c9",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "מתי נהוג לבחור את יו\"ר הכנסת?",
+   "summary": "יו\"ר הכנסת היוצאת אמיר אוחנה הגיב לצעדים להחליף אותו - וטען כי זו שבירה של כללי המשחק המקובלים • הנתונים מראים שההתנהלות של גוש איזנקוט די דומה לעבר • המשרוקית של גלובס",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562615#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794242437/%D7%9E%D7%A9%D7%A8%D7%95%D7%A7%D7%99%D7%AA-%D7%A6%D7%99%D7%95%D7%A0%D7%99%D7%9D-800_yc1w2l.png",
+   "published": "2026-11-10T17:04:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "17ecc55c2df4",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "שדה תעופה פונה בעקבות משחק Call of Duty",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nTlJDZFd4aXE5NkhYRWZEeVFETUJFVHl4YWJkWDhMVlRQQTlpR1gyWGlhUjF0b0FsaW5ZWXI1Vk90RzB1X2s3S296TGVCdElBS2Vaak1Dc0FpMWpJeERYaUlrMGU3dm9WbzRLWGVJQjlzUQ?oc=5",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-10T13:22:08+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "745135eaf860",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "וויקס קנתה אותה ב-80 מיליון דולר, אבל עכשיו Base44 מכניסה 250 מיליון דולר בשנה",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCRXgtc2ZxUXUtT2FYd3ctUzFzdVRwVGo1ejI3NXR3WjFDeUwxZnhmRkx5dUJldlR3NXYxMG9UbzNnb1lDdVQ5eWtidVZEWkRNcWNham5LLWNwYzJtenl6cWpPQUM3QnpCU1R5VEtLRklfX3JVbHpGMFpTVTd1dw?oc=5",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-10T10:16:12+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
+  {
+   "id": "a31e2fe1ef95",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "עקיצה או הברקה? בדקתי את הפיתוח הישראלי שמעלים יתושים בעזרת יתושים",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBodFllaWoyMmowUUpLVFFjalpmcnpJT2oyMzJTUldPd2ctbmxBREtHaFltSG9ka3pNbGRfWkVDeFhjTkQzMGZocFUtVmtEMXdwaHZ1a3ZweXVfS3FVdDVndHFpeG9YYVNhSkhPXw?oc=5",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-10T10:10:02+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T17:30:18+00:00"
+  },
   {
    "id": "256259a2da09",
    "tab": "israel",
@@ -161,7 +602,6 @@
    "multi": 1,
    "ai_summary": "היעדר תקציב מדינה מאושר מעכב הצטיידות צבאית ותשתיות עבור חיילי צה״ל בצפון ובדרום.",
    "score": 4,
-   "top": 2,
    "first_seen": "2026-11-10T17:11:42+00:00"
   },
   {
@@ -184,7 +624,6 @@
    "multi": 1,
    "ai_summary": "ארצות הברית, רוסיה ואוקראינה מקיימות שיחות באבו דאבי במטרה להגיע להסדר לסיום המלחמה.",
    "score": 4,
-   "top": 3,
    "first_seen": "2026-11-10T17:11:42+00:00"
   },
   {
@@ -251,7 +690,6 @@
    "multi": 1,
    "ai_summary": "ירידות שערים בוול סטריט בעקבות נתוני אינפלציה גבוהים מהצפוי ונפילה חדה במניית אנבידיה.",
    "score": 4,
-   "top": 4,
    "first_seen": "2026-11-10T17:11:42+00:00"
   },
   {
@@ -274,7 +712,6 @@
    "multi": 1,
    "ai_summary": "נשיא ארצות הברית טראמפ הצהיר כי המערכה הצבאית מול איראן למעשה הסתיימה אך נזהר מהכרזה רשמית.",
    "score": 5,
-   "top": 1,
    "first_seen": "2026-11-10T17:11:42+00:00"
   },
   {
@@ -297,7 +734,6 @@
    "multi": 1,
    "ai_summary": "אישה בת 61 שלא התחסנה מאושפזת במצב קריטי עקב שפעת קשה, לצד מקרים קשים נוספים בקרב צעירים.",
    "score": 4,
-   "top": 5,
    "first_seen": "2026-11-10T17:11:42+00:00"
   },
   {
@@ -1632,10 +2068,10 @@
   {
    "tab": "israel",
    "name": "כאן חדשות",
-   "ok": false,
-   "via": null,
-   "count": 0,
-   "error": "google: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Akan.org.il+when%3A2d&hl=he&gl"
+   "ok": true,
+   "via": "google",
+   "count": 100,
+   "error": null
   },
   {
    "tab": "israel",
@@ -1650,7 +2086,7 @@
    "name": "BBC",
    "ok": true,
    "via": "rss",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -1663,6 +2099,14 @@
   },
   {
    "tab": "world",
+   "name": "N12 עולם",
+   "ok": true,
+   "via": "rss",
+   "count": 20,
+   "error": null
+  },
+  {
+   "tab": "world",
    "name": "The Guardian",
    "ok": true,
    "via": "rss",
@@ -1670,11 +2114,27 @@
    "error": null
   },
   {
+   "tab": "world",
+   "name": "Sky News",
+   "ok": true,
+   "via": "rss",
+   "count": 10,
+   "error": null
+  },
+  {
+   "tab": "world",
+   "name": "NPR",
+   "ok": true,
+   "via": "rss",
+   "count": 10,
+   "error": null
+  },
+  {
    "tab": "trump",
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 10,
+   "count": 9,
    "error": null
   },
   {
@@ -1687,11 +2147,27 @@
   },
   {
    "tab": "trump",
-   "name": "Google News",
-   "ok": false,
-   "via": null,
-   "count": 0,
-   "error": "google: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D7%98%D7%A8%D7%90%D7%9E%D7%A4+%D7%9"
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 11,
+   "error": null
+  },
+  {
+   "tab": "trump",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 10,
+   "error": null
+  },
+  {
+   "tab": "trump",
+   "name": "Bing חדשות",
+   "ok": true,
+   "via": "bing",
+   "count": 12,
+   "error": null
   },
   {
    "tab": "economy",
@@ -1737,8 +2213,8 @@
    "tab": "tech",
    "name": "גיקטיים",
    "ok": true,
-   "via": "rss",
-   "count": 30,
+   "via": "google",
+   "count": 43,
    "error": null
   },
   {
@@ -1762,7 +2238,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 12,
+   "count": 11,
    "error": null
   },
   {
@@ -1834,7 +2310,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 9,
+   "count": 6,
    "error": null
   },
   {
@@ -1856,10 +2332,10 @@
   {
    "tab": "weird",
    "name": "Bing News",
-   "ok": false,
-   "via": null,
-   "count": 0,
-   "error": "bing: empty; google: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=amazing+discovery+OR+bizarre+when%3A"
+   "ok": true,
+   "via": "google",
+   "count": 25,
+   "error": null
   },
   {
    "tab": "sports",
@@ -1882,7 +2358,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 10,
+   "count": 9,
    "error": null
   }
  ],
@@ -1890,50 +2366,43 @@
   "used": true,
   "model": "gemini-3.5-flash-lite",
   "skipped_models": [
-   "gemini-flash-latest: ModelUnavailable",
+   "gemini-flash-latest: QuotaExceeded",
    "gemini-3.6-flash: QuotaExceeded",
    "gemini-3.5-flash: QuotaExceeded",
    "gemini-flash-lite-latest: ModelUnavailable",
    "gemini-3.5-flash-lite: ModelUnavailable",
    "gemini-3-flash-preview: ModelUnavailable"
   ],
-  "batches": 3,
-  "failed_batches": 2,
-  "removed": 22,
+  "batches": 2,
+  "failed_batches": 4,
+  "removed": 15,
   "rescued": 0,
-  "summarized": 58,
+  "summarized": 25,
   "reason": "no model available (quota/overload) – rest without AI",
   "removed_titles": [
-   "אוחנה הודיע: ההצבעה לבחירת יו\"ר הכנסת תתקיים ביום שלישי הבא",
-   "איזנקוט על נאום נתניהו: \"הזוי, מפלג ומלא שנאה\"",
-   "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
-   "חייהם התהפכו ב-7/10 ובמלחמה. היום הם הושבעו לכנסת",
-   "\"זה רכב שמאיץ ב-200 קמ\"ש\": הפריצה של ליברמן לממשלה עם החרדים - והפלונטר",
-   "'It's a farce': Hegseth's defiant response to impeachment effort",
-   "Trump’s media company finds customers seeking special access to president’s posts",
-   "Fact Check: Did Trump announce changing JD Vance’s name to Judas in a social media post?",
-   "Trump announces special envoy for manufacturing",
-   "Melania Trump's Latest Announcement Has Critics Reaching For The Mute Button",
-   "Trump administration announces $10B in awards for Rural Health Transformation Program’s second year",
-   "Katie Miller Announces She’s Quitting Her Podcast After Husband Stephen Named Trump Chief of Staff",
-   "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students",
-   "Trump calls for DOJ to investigate Democrats, Sen. Slotkin in Truth Social post",
-   "מבנק מזרחי טפחות ועד טבע וכאל: יו\"ר ועדת הכספים החדשה מגיעה עם שק של ניגודי עניינים",
-   "ראש הממשלה בנאום חריג: קרא להקמת ממשלת אחדות ותקף את המפלגות הערביות; סיעת ישר הגישה מעל 61 חתימות להחלפת יו\"ר הכנסת",
    "איזנקוט הגיש הצעות חוק להקמת ועדת חקירה ממלכתית ולהגבלת כהונת ראש הממשלה",
+   "אוחנה: ההצבעה על החלפת יו\"ר הכנסת תתקיים עוד שבוע",
    "הרצוג בהשבעת הכנסת: \"עליכם לעשות הכל כדי להימנע מבחירות חוזרות\"",
-   "Eisenkot vows not to fold on service for all, as potential UTJ allies insist on draft exemptions",
+   "איזנקוט יכול לנצח את נתניהו בכנסת, אך עלול להפסיד את המאבק על הקמת הממשלה",
+   "הכוורת | פרק 48",
+   "חיים רמון מפוצץ את רעיון ממשלת האחדות: \"לא יקרה, זה אשליות\"",
+   "יחכה עד הרגע האחרון: אוחנה הודיע - ההצבעה על החלפתו תתקיים בשבוע הבא",
+   "איזנקוט על נאום נתניהו: \"הזוי, מפלג ומלא שנאה\"",
    "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו",
    "הנאום החריג של נתניהו - והתפרצות בנט: \"מה עם היועצים הקטארים שלך?\"",
-   "לפיד לא מחכה שניה: הנקמה שלו בנתניהו יצאה לדרך"
+   "לפיד לא מחכה שניה: הנקמה שלו בנתניהו יצאה לדרך",
+   "גליק ותמר | 10.11.26",
+   "חברי הכנסת ה-26 הצהירו אמונים במליאת הכנסת",
+   "Indonesia's VP offers resignation as questions mount over his eligibility",
+   "ממדאני כבר מתכנן את בחירות 2028: המהלך שנועד להבטיח מועמד שמאלי לנשיאות ארה\"ב"
   ],
-  "retried_old": 64
+  "retried_old": 54
  },
  "stats": {
-  "fetched": 747,
-  "too_old": 297,
-  "blocked": 14,
-  "allow_matched": 4,
+  "fetched": 953,
+  "too_old": 296,
+  "blocked": 19,
+  "allow_matched": 5,
   "images_filled": 0
  }
 }
