@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:37:13+00:00",
+ "generated_at": "2026-11-10T17:11:42+00:00",
  "tabs": [
   {
    "id": "israel",
@@ -54,27 +54,361 @@
  ],
  "articles": [
   {
-   "id": "fbe014311e0a",
+   "id": "256259a2da09",
    "tab": "israel",
    "feed": "israel:1",
-   "title": "איזנקוט הגיש הצעות חוק להקמת ועדת חקירה ממלכתית ולהגבלת כהונת ראש הממשלה",
-   "summary": "סיעת ישר! בראשות גדי איזנקוט הגישה היום (שלישי), עם פתיחת הכנסת ה-26 ובשיתוף סיעות נוספות, שורת הצעות חוק, בהן הקמת ועדת חקירה ממלכתית לאירועי 7 באוקטובר והגבלת תקופת כהונתו של ראש הממשלה.",
-   "link": "https://www.walla.co.il/news/breaking-news/383960858",
+   "title": "בכיר איראני: לא מתקיימות כעת שיחות בין איראן לארה\"ב",
+   "summary": "בכיר הביטחון האיראני מוחסן רזאאי אמר היום (שלישי) בריאיון לערוץ הלבנוני הפרו-איראני אל-מיאדין כי נכון לעכשיו לא מתקיים משא ומתן בין טהרן לוושינגטון.",
+   "link": "https://www.walla.co.il/news/breaking-news/383960882",
    "source": "וואלה",
    "lang": "he",
    "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
-   "published": "2026-11-10T15:03:16+00:00",
+   "published": "2026-11-10T16:52:23+00:00",
    "quiet": false,
-   "also": [
-    "כאן 11"
-   ],
+   "also": [],
    "feeds": [
-    "israel:1",
-    "israel:4"
+    "israel:1"
    ],
    "important": false,
-   "multi": 2,
-   "first_seen": "2026-11-10T16:37:13+00:00"
+   "multi": 1,
+   "ai_summary": "בכיר ביטחוני באיראן הבהיר כי נכון לעכשיו לא מתקיים משא ומתן בין טהרן לוושינגטון.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "6426c57fc504",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "חצה את הגבול ללבנון ונתפס ע\"י חיילי האו\"ם: האירוע החריג שמעסיק את צה\"ל",
+   "summary": "אירוע חריג בגבול לבנון: אזרח ישראלי חצה את גבול לבנון באזור שבאחריות אוגדה 91. הוא נתפס ע\"י חיילי האו\"ם והוחזר ארץ לחקירה משטרה. בצה\"ל אישרו את האירוע ופתחו בתחקיר, אך טרם סיפקו הסברים לאירוע",
+   "link": "https://www.maariv.co.il/news/military/article-1387116",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/872880",
+   "published": "2026-11-10T16:50:38+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "אזרח ישראלי חצה את הגבול ללבנון, נתפס על ידי כוחות האו״ם והועבר לחקירת המשטרה.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "c964002f70d6",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "שלושה פורעים ישראלים נעצרו במהלך פינוי ארבעה מאחזים בלתי חוקיים בבנימין",
+   "summary": "כוחות צה\"ל ומג\"ב פינו ביומיים האחרונים ארבעה מאחזים בלתי חוקיים באזור בנימין. במהלך הפעילות הוצבו חסימות, יודו אבנים והוצתו צמיגים בידי פורעים ישראלים. שני כלי רכב של כוחות הביטחון ניזוקו ושלושה ישראלים נעצרו לחקירה.",
+   "link": "https://www.walla.co.il/news/breaking-news/383960879",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-10T16:34:28+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "כוחות הביטחון פינו ארבעה מאחזים בלתי חוקיים בבנימין ועצרו שלושה ישראלים בחשד להפרות סדר.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "27b4db81a04a",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "הזוועה באריאל: מומחית שפת גוף מסבירה - שימו לב לדפוסים האלו אצל הילדים",
+   "summary": "פרשת התעללות המזעזעת באריאל מעלה שאלה שמטרידה הורים רבים - איך מזהים מצוקה אצל פעוט שעוד מתקשה לספר מה עובר עליו? מומחית לשפת גוף מסבירה לאילו סימנים ושינויים כדאי לשים לב אצל הילדים וכיצד לזהות אותם",
+   "link": "https://www.maariv.co.il/news/education/article-1387073",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1157682",
+   "published": "2026-11-10T15:27:23+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מומחית מסבירה כיצד הורים יכולים לזהות סימני מצוקה ושפת גוף אצל פעוטות בעקבות מקרה התעללות.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "2812f898da4b",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "גם ההכנות לאיראן נפגעות: כך משפיע המשבר התקציבי על החייל בקצה",
+   "summary": "כפי שפורסם ב-ynet, היעדר תקציב מדינה מאושר מעכב עסקאות רכש חשובות לקראת אפשרות של חידוש האש - וכבר משפיע על המענה לחיילים בשטח: בצפון נדרשים פתרונות חורף ותשתיות למוצבים, בדרום עדיין חסרים מטבחים בחלק מהמוצבים הפלוגתיים, ובצה\"ל מתקשים לקדם שדרוג של תשתיות בלבנון ובעזה",
+   "link": "https://www.ynet.co.il/news/article/hyvtp5l0zg",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/Hyl8F9DLYze/Hyl8F9DLYze_531_411_958_540_0_medium.jpg",
+   "published": "2026-11-10T14:59:45+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "היעדר תקציב מדינה מאושר מעכב הצטיידות צבאית ותשתיות עבור חיילי צה״ל בצפון ובדרום.",
+   "score": 4,
+   "top": 2,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "799d3791f46a",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
+   "summary": "First substantive peace talks since February include US proposal for ‘long-term security architecture’ between Moscow and Europe Europe live – latest updates US officials have said they are seeking a “final end” to the war between Russia and Ukraine as trilateral talks got under way in Abu Dhabi, the first substantive negotiations between the two countries since February. The talks, which are set ",
+   "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363",
+   "published": "2026-11-10T16:59:04+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ארצות הברית, רוסיה ואוקראינה מקיימות שיחות באבו דאבי במטרה להגיע להסדר לסיום המלחמה.",
+   "score": 4,
+   "top": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "ed112b9d1f6d",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
+   "summary": "German chancellor has signalled he will block budget with no aid deal, complaining that burden is ‘carried mostly by only a few member states’ Friedrich Merz has signalled he will block the EU’s seven-year budget unless there is a deal on financial aid for Ukraine, triggering accusations of “typical blackmail” from some other European leaders and setting the stage for stormy talks later this month",
+   "link": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/823635c4e546870d84ad7228dcb95c9f59bc5629/398_0_5949_4760/master/5949.jpg?width=140&quality=85&auto=format&fit=max&s=6237de79d5955f7dc0202e70c7de73ff",
+   "published": "2026-11-10T16:44:27+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "קנצלר גרמניה מרץ מאיים לחסום את תקציב האיחוד האירופי אם לא יוגדל הסיוע הכספי לאוקראינה.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "adf593f41910",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-10T14:46:50+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חברת הבינה המלאכותית אנתרופיק מתכוננת להנפקה בבורסה לפי שווי נמוך מהתחזיות המוקדמות.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "a63b10e73296",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "ירידות בוול סטריט; אנבידיה שוב יורדת, איבדה כחצי טריליון דולר משוויה ביומיים",
+   "summary": "נאסד\"ק יורד ב-0.6% • מדד המחירים לצרכן בארה\"ב לחודש אוקטובר הציג עלייה חודשית של 0.4%, מעט מעל לציפיות הכלכלנים • תשואות האג\"ח בארה\"ב מזנקות",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562654#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
+   "published": "2026-11-10T17:00:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ירידות שערים בוול סטריט בעקבות נתוני אינפלציה גבוהים מהצפוי ונפילה חדה במניית אנבידיה.",
+   "score": 4,
+   "top": 4,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "2f28dcc21496",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "טראמפ: מבחינה צבאית, המלחמה עם איראן \"למעשה הסתיימה\"",
+   "summary": "נשיא ארה\"ב הבהיר כי אינו רוצה להכריז רשמית על סיום המלחמה עם איראן לפני שיוודא שבעלות בריתו בטוחות • מזכיר המועצה העליונה לביטחון לאומי של איראן: \"המלחמה ריסקה את הממשל האמריקאי\" • דיווחים על פיצוצים בשלושה כפרים בדרום לבנון • צבא ארה\"ב הגביר את אמצעי האבטחה בבסיסים בבריטניה • דיווחים שוטפים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562685#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1781697046/direct/AP26168422564376_kt31aq.jpg",
+   "published": "2026-11-10T16:40:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "נשיא ארצות הברית טראמפ הצהיר כי המערכה הצבאית מול איראן למעשה הסתיימה אך נזהר מהכרזה רשמית.",
+   "score": 5,
+   "top": 1,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "391cc70b19b1",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "בת 61 שלא התחסנה נגד שפעת מאושפזת במצב קריטי",
+   "summary": "האישה הגיעה לבית החולים מאיר בכפר סבא אחרי חמישה ימים של שפעת קשה בבית, עם חום גבוה וקוצר נשימה חריף, ומצבה הידרדר גם אחרי שהורדמה והונשמה. בשבועות האחרונים אושפזו בעקבות שפעת ילדה בת שמונה ונערה בת 17. מנהלת היחידה למניעת זיהומים במאיר: \"גם אנשים צעירים ובריאים עלולים למצוא את עצמם במצב קשה\"",
+   "link": "https://www.ynet.co.il/health/article/hk11qjagrgl",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/HJb3ewwHGe/HJb3ewwHGe_1_80_1001_563_0_medium.jpg",
+   "published": "2026-11-10T17:00:16+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "אישה בת 61 שלא התחסנה מאושפזת במצב קריטי עקב שפעת קשה, לצד מקרים קשים נוספים בקרב צעירים.",
+   "score": 4,
+   "top": 5,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "6564caf39041",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "דיוויד ווליאמס (\"בריטניה גוט טאלנט\") מואשם בהטרדות ובתקיפה מינית של קטינה",
+   "summary": "תחקיר של \"הגארדיאן\" ו-ITV, שנמשך כשלוש שנים, חושף עדויות על טיפוח קשרים עם מעריצות קטינות לצורך ניצול מיני והטרדות מיניות במקום העבודה. אחת הנשים טוענת כי הקומיקאי וסופר הילדים הבריטי תקף אותה מינית כשהייתה בת 15. ווליאמס, שמכחיש את הטענות, ניסה למנוע את פרסום התחקיר באמצעות צו מניעה וטען בבית המשפט כי קיים סיכוי גבוה שינסה לשים קץ לחייו אם יתפרסם - בקשתו נדחתה",
+   "link": "https://www.ynet.co.il/entertainment/article/hyugealafg",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/HywRb6xCzl/HywRb6xCzl_360_142_1485_836_0_medium.jpg",
+   "published": "2026-11-10T16:41:28+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "הקומיקאי הבריטי דיוויד ווליאמס מואשם בתחקיר עיתונאי בהטרדות ובתקיפה מינית של קטינה, טענות שהוא מכחיש.",
+   "score": 2,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "042d69c782a3",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "טלטלה בצמרת DC: ג'יימס גאן ופיטר ספרן עוזבים את תפקידיהם, איש מארוול יחליף אותם",
+   "summary": "אחרי ארבע שנים שבהן הובילו את אולפני DC וניסו לבנות מחדש את יקום גיבורי-העל המתחרה של מארוול, ג'יימס גאן ופיטר ספרן עוזבים את תפקידי המנכ\"לים המשותפים . מי שיחליף אותם הוא ג'רמי לאצ'ם, לשעבר בכיר במארוול שהיה מעורב בהפקת סרטי \"איירון מן\", \"שומרי הגלקסיה\", \"ספיידרמן\" ו\"הנוקמים\". גאן וספרן ימשיכו להיות מעורבים בפרויקטים, בהם סרט ההמשך ל\"סופרמן\"",
+   "link": "https://www.ynet.co.il/entertainment/article/h1wtetjazg",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/12/20/Hkby8cW1to/Hkby8cW1to_0_46_3000_1689_0_medium.jpg",
+   "published": "2026-11-09T17:43:57+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ראשי אולפני גיבורי-על DC עוזבים את תפקידם, ובכיר לשעבר במארוול צפוי להחליפם.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "2f996f605a27",
+   "tab": "weird",
+   "feed": "weird:1",
+   "title": "רשות הטבע והגנים מזהירה: אל תצללו עם הכרישים בחדרה",
+   "summary": "הכרישים, ממינים עפרורי וסנפירתן, מתקבצים מדי שנה באזור תחנת הכוח בחדרה בחיפוש אחר מים חמים. ברשות הטבע והגנים מזהירים מפני התקרבות אליהם ומזכירים כי האזור מסוכן גם בשל זרמים חזקים ומערבולות",
+   "link": "https://www.ynet.co.il/environment-science/article/b13c0egcgx",
+   "source": "ynet בעלי חיים",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/02/ByZFCLEyWg/ByZFCLEyWg_0_0_812_458_0_medium.jpg",
+   "published": "2026-11-10T07:01:09+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "רשות הטבע והגנים מזהירה את הציבור מפני סכנת צלילה ליד כרישים בחדרה בשל זרמים חזקים ומים חמים.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "7f0043f98450",
+   "tab": "weird",
+   "feed": "weird:1",
+   "title": "הכלבת מתפשטת, אך שיתוף הפעולה עם צה\"ל הופסק: \"הסכר נפרץ\"",
+   "summary": "פרסום ראשון: 118 מקרי כלבת מתחילת השנה, להקות כלבי פרא חודרות מלבנון והחשש מהתפשטות המחלה גובר. הרשויות טוענות כי צה\"ל הפסיק את שיתוף הפעולה עם השירותים הווטרינריים בשל קיצוצים; בצבא טוענים כי הם פועלים לשיקום הפרצות בגדר ולטיפול בכלבים המשוטטים, אך לא השיבו ישירות לטענות על הפסקת ההסכם",
+   "link": "https://www.ynet.co.il/environment-science/article/sk8y6ojafg",
+   "source": "ynet בעלי חיים",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/12/rk2WrcqYke/rk2WrcqYke_132_817_1405_791_0_medium.jpg",
+   "published": "2026-11-10T05:41:35+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "זינוק بمקרי הכלבת בישראל לצד כניסת להקות כלבי פרא מגבול לבנון, בזמן ששיתוף הפעולה עם צה״ל בנושא נפגע.",
+   "score": 4,
+   "first_seen": "2026-11-10T17:11:42+00:00"
+  },
+  {
+   "id": "c0b9191249ce",
+   "tab": "weird",
+   "feed": "weird:1",
+   "title": "שלוש זכיות במקום הראשון ותואר אחד היסטורי: ההישג של צלם הטבע הישראלי",
+   "summary": "עמית אשל זכה להכרה יוצאת דופן על עבודתו רבת השנים, במסגרת תחרות הצילום הבינלאומית היוקרתית Golden Turtle. לצד זכייה בשתי קטגוריות שונות ובתואר צלם השנה של התחרות, קיבל אשל הכרה חסרת תקדים נוספת: זכייה בתואר הצלם הטוב ביותר בתולדות התחרות – שמציינת 20 שנות פעילות. \"זהו ללא ספק אחד הרגעים המרגשים והמשמעותיים בקריירה שלי\", הוא שיתף",
+   "link": "https://www.ynet.co.il/environment-science/article/ryrtcqyafe",
+   "source": "ynet בעלי חיים",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/20/BkK00mrnQAll/BkK00mrnQAll_0_86_2048_1153_0_medium.jpg",
+   "published": "2026-11-10T05:23:51+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "צלם הטבע הישראלי עמית אשל זכה במספר מקומות ראשונים ובתואר היסטורי בתחרות צילום בינלאומית.",
+   "score": 3,
+   "first_seen": "2026-11-10T17:11:42+00:00"
   },
   {
    "id": "19e8b5f4affc",
@@ -97,7 +431,9 @@
    ],
    "important": false,
    "multi": 2,
-   "first_seen": "2026-11-10T16:37:13+00:00"
+   "first_seen": "2026-11-10T16:37:13+00:00",
+   "ai_summary": "הפרקליטות הגישה הצהרת תובע against עבריין מין מפוקח שפרץ לדירת צעירה בתל אביב ואנס אותה.",
+   "score": 4
   },
   {
    "id": "5d0386fcb76d",
@@ -120,30 +456,9 @@
    ],
    "important": false,
    "multi": 2,
-   "first_seen": "2026-11-10T16:37:13+00:00"
-  },
-  {
-   "id": "0e915a9766ce",
-   "tab": "israel",
-   "feed": "israel:4",
-   "title": "הרצוג בהשבעת הכנסת: \"עליכם לעשות הכל כדי להימנע מבחירות חוזרות\"",
-   "summary": "הכנסת ה-26 הושבעה בטקס חגיגי במעמד הנשיא, זמן קצר אחרי הגשת החתימות להחלפת היו\"ר אוחנה. הרצוג הפציר בח\"כים לפעול לאחדות, \"להושיט יד לפשרה\" ולפתור את משבר הגיוס. אוחנה עקץ אחרי חשיפת ynet: \"ברור שחמאס ארגון טרור\". הפצוע שאיבד את שתי רגליו קם להישבע אמונים לכנסת, המליאה הריעה",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BZjYzdE5oYk9jNDFSUFhITl9UT0I3VTZuZm5qQl9YcmpyaU5zUnd3Z0w4QW0wMXFuMkFLYTdVWEtkNjlZRmdMaTFJUVV3NTQ1c0pLVnBwNlpxRzFjb0pfNnlyZk5PaUE?oc=5",
-   "source": "כאן 11",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/SySXPjxAMg/SySXPjxAMg_0_75_1280_721_0_medium.jpg",
-   "published": "2026-11-10T04:59:42+00:00",
-   "quiet": false,
-   "also": [
-    "ynet"
-   ],
-   "feeds": [
-    "israel:4",
-    "israel:0"
-   ],
-   "important": false,
-   "multi": 2,
-   "first_seen": "2026-11-10T16:37:13+00:00"
+   "first_seen": "2026-11-10T16:37:13+00:00",
+   "ai_summary": "עבריין מין סדרתי שהיה תחת פיקוח פרץ לדירת צעירה בתל אביב, אנס אותה ואף חזר למקום שבועיים לאחר מכן.",
+   "score": 4
   },
   {
    "id": "a8dc1b907298",
@@ -163,27 +478,9 @@
    ],
    "important": false,
    "multi": 1,
-   "first_seen": "2026-11-10T16:37:13+00:00"
-  },
-  {
-   "id": "768e918c5d5d",
-   "tab": "israel",
-   "feed": "israel:5",
-   "title": "Eisenkot vows not to fold on service for all, as potential UTJ allies insist on draft exemptions",
-   "summary": "Eisenkot promises new government ASAP, though obstacles remain, with Haredi party demanding preservation of religious status quo and Liberman dismissing reliance on Arab parties",
-   "link": "https://www.timesofisrael.com/eisenkot-vows-not-to-fold-on-service-for-all-as-potential-utj-allies-insist-on-draft-exemptions/",
-   "source": "Times of Israel",
-   "lang": "en",
-   "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261110YS104-1024x640.jpg",
-   "published": "2026-11-10T16:24:15+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:5"
-   ],
-   "important": false,
-   "multi": 1,
-   "first_seen": "2026-11-10T16:37:13+00:00"
+   "first_seen": "2026-11-10T16:37:13+00:00",
+   "ai_summary": "בכיר ביטחוני באיראן הצהיר כי ארצו דורשת מארצות הברית תשובה ברורה לתנאים שהציבה.",
+   "score": 3
   },
   {
    "id": "a3bf0fd2ab1a",
@@ -203,67 +500,9 @@
    ],
    "important": false,
    "multi": 1,
-   "first_seen": "2026-11-10T16:37:13+00:00"
-  },
-  {
-   "id": "e9ae1839291f",
-   "tab": "israel",
-   "feed": "israel:0",
-   "title": "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו",
-   "summary": "עם פתיחת הכנסת ה-26, ולפני שהוקמה ממשלה חדשה, הגישה סיעת ישר! שורת הצעות חוק - ובהן הקמת ועדת חקירה ממלכתית ל-7/10, הגבלת כהונת רה\"מ וביטול חוקי המהפכה המשפטית. במקביל, לפיד מקדם את עיגון מגילת העצמאות בחוק יסוד והסדרת ברית זוגיות: \"נמשיך להיות הקול של הציבור הליברלי בכנסת\"",
-   "link": "https://www.ynet.co.il/news/article/skg5qhgrzg",
-   "source": "ynet",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/13/HkBRDmqhZe/HkBRDmqhZe_285_0_566_319_0_medium.jpg",
-   "published": "2026-11-10T16:14:25+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "first_seen": "2026-11-10T16:37:13+00:00"
-  },
-  {
-   "id": "85fa992f3e29",
-   "tab": "israel",
-   "feed": "israel:0",
-   "title": "הנאום החריג של נתניהו - והתפרצות בנט: \"מה עם היועצים הקטארים שלך?\"",
-   "summary": "קרב בלימה: באירוע הצילום המסורתי בכנסת - רגע אחרי שהושבעה - קרא רה\"מ ל\"ממשלת אחדות לאומית\", ומיד אחר כך הקדיש את דבריו למתקפה על המפלגות הערביות והמשא ומתן של גוש השינוי עם רע\"מ. דבריו עוררו סערה: יאיר גולן יצא במחאה וקריב הורחק, בנט התפרץ ובן גביר צעק - וגם שרה נתניהו התערבה",
-   "link": "https://www.ynet.co.il/news/article/h1jgohxcmx",
-   "source": "ynet",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/Syxxw3heCfl/Syxxw3heCfl_0_85_1280_721_0_medium.jpg",
-   "published": "2026-11-10T15:47:08+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "first_seen": "2026-11-10T16:37:13+00:00"
-  },
-  {
-   "id": "29110ceeb836",
-   "tab": "israel",
-   "feed": "israel:2",
-   "title": "לפיד לא מחכה שניה: הנקמה שלו בנתניהו יצאה לדרך",
-   "summary": "ברקע פתיחת מושב הכנסת הראשון לאחר הבחירות, לפיד חתם על שורת הצעות חוק, ביניהן עיגון מגילת העצמאות בחוק יסוד, הגבלת כהונת ראש הממשלה לשמונה שנים וברית זוגיות שתעניק שוויון זכויות לכל זוג",
-   "link": "https://www.maariv.co.il/news/politics/article-1387092",
-   "source": "מעריב",
-   "lang": "he",
-   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1147724",
-   "published": "2026-11-10T15:39:49+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "first_seen": "2026-11-10T16:37:13+00:00"
+   "first_seen": "2026-11-10T16:37:13+00:00",
+   "ai_summary": "משטרת ישראל עצרה חמישה חשודים בהפעלת מערך סחר בקריפטו בלתי חוקי בהיקף של כ-16 מיליון שקל.",
+   "score": 3
   },
   {
    "id": "e3a030c1e1fc",
@@ -1393,25 +1632,25 @@
   {
    "tab": "israel",
    "name": "כאן חדשות",
-   "ok": true,
-   "via": "google",
-   "count": 100,
-   "error": null
+   "ok": false,
+   "via": null,
+   "count": 0,
+   "error": "google: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Akan.org.il+when%3A2d&hl=he&gl"
   },
   {
    "tab": "israel",
    "name": "Times of Israel",
-   "ok": true,
-   "via": "rss",
-   "count": 12,
-   "error": null
+   "ok": false,
+   "via": null,
+   "count": 0,
+   "error": "rss: 403 Client Error: Forbidden for url: https://www.timesofisrael.com/feed/"
   },
   {
    "tab": "world",
    "name": "BBC",
    "ok": true,
    "via": "rss",
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
@@ -1435,7 +1674,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 9,
+   "count": 10,
    "error": null
   },
   {
@@ -1449,10 +1688,10 @@
   {
    "tab": "trump",
    "name": "Google News",
-   "ok": true,
-   "via": "google",
-   "count": 13,
-   "error": null
+   "ok": false,
+   "via": null,
+   "count": 0,
+   "error": "google: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%D7%98%D7%A8%D7%90%D7%9E%D7%A4+%D7%9"
   },
   {
    "tab": "economy",
@@ -1523,7 +1762,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 10,
+   "count": 12,
    "error": null
   },
   {
@@ -1617,10 +1856,10 @@
   {
    "tab": "weird",
    "name": "Bing News",
-   "ok": true,
-   "via": "google",
-   "count": 25,
-   "error": null
+   "ok": false,
+   "via": null,
+   "count": 0,
+   "error": "bing: empty; google: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=amazing+discovery+OR+bizarre+when%3A"
   },
   {
    "tab": "sports",
@@ -1643,33 +1882,58 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 8,
+   "count": 10,
    "error": null
   }
  ],
  "ai": {
-  "used": false,
-  "model": "gemini-flash-latest",
+  "used": true,
+  "model": "gemini-3.5-flash-lite",
   "skipped_models": [
    "gemini-flash-latest: ModelUnavailable",
-   "gemini-3.6-flash: ModelUnavailable",
-   "gemini-3.5-flash: ModelUnavailable",
+   "gemini-3.6-flash: QuotaExceeded",
+   "gemini-3.5-flash: QuotaExceeded",
    "gemini-flash-lite-latest: ModelUnavailable",
    "gemini-3.5-flash-lite: ModelUnavailable",
    "gemini-3-flash-preview: ModelUnavailable"
   ],
-  "batches": 1,
-  "failed_batches": 4,
-  "removed": 0,
+  "batches": 3,
+  "failed_batches": 2,
+  "removed": 22,
   "rescued": 0,
-  "summarized": 0,
-  "reason": "no model available (quota/overload) – rest without AI"
+  "summarized": 58,
+  "reason": "no model available (quota/overload) – rest without AI",
+  "removed_titles": [
+   "אוחנה הודיע: ההצבעה לבחירת יו\"ר הכנסת תתקיים ביום שלישי הבא",
+   "איזנקוט על נאום נתניהו: \"הזוי, מפלג ומלא שנאה\"",
+   "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
+   "חייהם התהפכו ב-7/10 ובמלחמה. היום הם הושבעו לכנסת",
+   "\"זה רכב שמאיץ ב-200 קמ\"ש\": הפריצה של ליברמן לממשלה עם החרדים - והפלונטר",
+   "'It's a farce': Hegseth's defiant response to impeachment effort",
+   "Trump’s media company finds customers seeking special access to president’s posts",
+   "Fact Check: Did Trump announce changing JD Vance’s name to Judas in a social media post?",
+   "Trump announces special envoy for manufacturing",
+   "Melania Trump's Latest Announcement Has Critics Reaching For The Mute Button",
+   "Trump administration announces $10B in awards for Rural Health Transformation Program’s second year",
+   "Katie Miller Announces She’s Quitting Her Podcast After Husband Stephen Named Trump Chief of Staff",
+   "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students",
+   "Trump calls for DOJ to investigate Democrats, Sen. Slotkin in Truth Social post",
+   "מבנק מזרחי טפחות ועד טבע וכאל: יו\"ר ועדת הכספים החדשה מגיעה עם שק של ניגודי עניינים",
+   "ראש הממשלה בנאום חריג: קרא להקמת ממשלת אחדות ותקף את המפלגות הערביות; סיעת ישר הגישה מעל 61 חתימות להחלפת יו\"ר הכנסת",
+   "איזנקוט הגיש הצעות חוק להקמת ועדת חקירה ממלכתית ולהגבלת כהונת ראש הממשלה",
+   "הרצוג בהשבעת הכנסת: \"עליכם לעשות הכל כדי להימנע מבחירות חוזרות\"",
+   "Eisenkot vows not to fold on service for all, as potential UTJ allies insist on draft exemptions",
+   "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו",
+   "הנאום החריג של נתניהו - והתפרצות בנט: \"מה עם היועצים הקטארים שלך?\"",
+   "לפיד לא מחכה שניה: הנקמה שלו בנתניהו יצאה לדרך"
+  ],
+  "retried_old": 64
  },
  "stats": {
-  "fetched": 893,
-  "too_old": 295,
-  "blocked": 19,
-  "allow_matched": 5,
+  "fetched": 747,
+  "too_old": 297,
+  "blocked": 14,
+  "allow_matched": 4,
   "images_filled": 0
  }
 }
