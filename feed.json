@@ -1,0 +1,1675 @@
+{
+ "generated_at": "2026-11-10T16:37:13+00:00",
+ "tabs": [
+  {
+   "id": "israel",
+   "name": "בארץ",
+   "emoji": "🇮🇱"
+  },
+  {
+   "id": "world",
+   "name": "עולם",
+   "emoji": "🌍"
+  },
+  {
+   "id": "trump",
+   "name": "טראמפ והעולם",
+   "emoji": "🇺🇸"
+  },
+  {
+   "id": "economy",
+   "name": "כלכלה וכסף",
+   "emoji": "💰"
+  },
+  {
+   "id": "tech",
+   "name": "טכנולוגיה ו-AI",
+   "emoji": "💻"
+  },
+  {
+   "id": "science",
+   "name": "מדע וחלל",
+   "emoji": "🚀"
+  },
+  {
+   "id": "health",
+   "name": "בריאות",
+   "emoji": "🩺"
+  },
+  {
+   "id": "culture",
+   "name": "טיולים ותרבות",
+   "emoji": "✈️"
+  },
+  {
+   "id": "weird",
+   "name": "מעניין / מוזר",
+   "emoji": "💡"
+  },
+  {
+   "id": "sports",
+   "name": "ספורט",
+   "emoji": "⚽"
+  }
+ ],
+ "articles": [
+  {
+   "id": "fbe014311e0a",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "איזנקוט הגיש הצעות חוק להקמת ועדת חקירה ממלכתית ולהגבלת כהונת ראש הממשלה",
+   "summary": "סיעת ישר! בראשות גדי איזנקוט הגישה היום (שלישי), עם פתיחת הכנסת ה-26 ובשיתוף סיעות נוספות, שורת הצעות חוק, בהן הקמת ועדת חקירה ממלכתית לאירועי 7 באוקטובר והגבלת תקופת כהונתו של ראש הממשלה.",
+   "link": "https://www.walla.co.il/news/breaking-news/383960858",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-10T15:03:16+00:00",
+   "quiet": false,
+   "also": [
+    "כאן 11"
+   ],
+   "feeds": [
+    "israel:1",
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "19e8b5f4affc",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "חשד לאונס בתל אביב: עקב אחר צעירה לביתה ופרץ לדירתה",
+   "summary": "פרקליטות מחוז תל אביב הגישה היום (שלישי) הצהרת תובע נגד אדם יאסין, בן 42 ממזרח ירושלים, בחשד שעקב אחר צעירה בשנות ה-20 לחייה לאחר שיצאה ממועדון במרכז תל אביב, פרץ לדירתה ואנס אותה בחדר השינה. לפי המידע שנמסר, החשוד הוא בעל עבר פלילי בעבירות מין, לרבות עבירת מין בקטינה בשנת 2022, ונמצא בפיקוח יחידת צור בשירות בתי הסוהר.",
+   "link": "https://www.walla.co.il/news/breaking-news/383960806",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-10T09:39:14+00:00",
+   "quiet": false,
+   "also": [
+    "מעריב"
+   ],
+   "feeds": [
+    "israel:1",
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "5d0386fcb76d",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "עבריין מין סדרתי ומפוקח פרץ לבית צעירה בת\"א, אנס אותה - וחזר אחרי שבועיים",
+   "summary": "אדם יאסין, מפוקח מין ממזרח י-ם שחוזר לסורו שוב ושוב חרף הרשעותיו והפיקוח כביכול, עקב אחר הצעירה שיצאה ממועדון ואנס אותה בחדר השינה. הוא גנב את המפתחות, וכעבור שבועיים חזר לזירת הפשע - וניסה לגעת בה תוך שהוא מצלם אותה. בעבר תקף מינית ילדה שאסף מביתה, וגם מטופלת בבית חולים",
+   "link": "https://www.ynet.co.il/news/article/bjrmbwxcmx",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/tg3lFw8dBBp/tg3lFw8dBBp_0_36_848_478_0_medium.jpg",
+   "published": "2026-11-10T09:36:28+00:00",
+   "quiet": false,
+   "also": [
+    "כאן 11"
+   ],
+   "feeds": [
+    "israel:0",
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "0e915a9766ce",
+   "tab": "israel",
+   "feed": "israel:4",
+   "title": "הרצוג בהשבעת הכנסת: \"עליכם לעשות הכל כדי להימנע מבחירות חוזרות\"",
+   "summary": "הכנסת ה-26 הושבעה בטקס חגיגי במעמד הנשיא, זמן קצר אחרי הגשת החתימות להחלפת היו\"ר אוחנה. הרצוג הפציר בח\"כים לפעול לאחדות, \"להושיט יד לפשרה\" ולפתור את משבר הגיוס. אוחנה עקץ אחרי חשיפת ynet: \"ברור שחמאס ארגון טרור\". הפצוע שאיבד את שתי רגליו קם להישבע אמונים לכנסת, המליאה הריעה",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BZjYzdE5oYk9jNDFSUFhITl9UT0I3VTZuZm5qQl9YcmpyaU5zUnd3Z0w4QW0wMXFuMkFLYTdVWEtkNjlZRmdMaTFJUVV3NTQ1c0pLVnBwNlpxRzFjb0pfNnlyZk5PaUE?oc=5",
+   "source": "כאן 11",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/SySXPjxAMg/SySXPjxAMg_0_75_1280_721_0_medium.jpg",
+   "published": "2026-11-10T04:59:42+00:00",
+   "quiet": false,
+   "also": [
+    "ynet"
+   ],
+   "feeds": [
+    "israel:4",
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "a8dc1b907298",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "בכיר איראני: דרשנו מארה\"ב תשובה ברורה ומפורשת לתנאינו",
+   "summary": "בכיר הביטחון האיראני רזאי אמר בריאיון לערוץ הלבנוני אל-מיאדין כי איראן ביקשה מארצות הברית לספק תשובה ברורה ומפורשת לתנאים שהציבה.",
+   "link": "https://www.walla.co.il/news/breaking-news/383960878",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-10T16:27:10+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "768e918c5d5d",
+   "tab": "israel",
+   "feed": "israel:5",
+   "title": "Eisenkot vows not to fold on service for all, as potential UTJ allies insist on draft exemptions",
+   "summary": "Eisenkot promises new government ASAP, though obstacles remain, with Haredi party demanding preservation of religious status quo and Liberman dismissing reliance on Arab parties",
+   "link": "https://www.timesofisrael.com/eisenkot-vows-not-to-fold-on-service-for-all-as-potential-utj-allies-insist-on-draft-exemptions/",
+   "source": "Times of Israel",
+   "lang": "en",
+   "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261110YS104-1024x640.jpg",
+   "published": "2026-11-10T16:24:15+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:5"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "a3bf0fd2ab1a",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "קבוצת וואטסאפ אחת, 16 מיליון שקל: החשד שהוביל למעצרים",
+   "summary": "חמישה חשודים נעצרו בחשד להפעלת מערך לסחר במטבעות קריפטוגרפיים באמצעות קבוצת וואטסאפ, בהיקף של כ-16 מיליון שקל. החוקרים בודקים כיצד הוצגו העברות כספים כהלוואות לגיטימיות",
+   "link": "https://www.maariv.co.il/news/law/article-1387109",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1157709",
+   "published": "2026-11-10T16:21:51+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "e9ae1839291f",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו",
+   "summary": "עם פתיחת הכנסת ה-26, ולפני שהוקמה ממשלה חדשה, הגישה סיעת ישר! שורת הצעות חוק - ובהן הקמת ועדת חקירה ממלכתית ל-7/10, הגבלת כהונת רה\"מ וביטול חוקי המהפכה המשפטית. במקביל, לפיד מקדם את עיגון מגילת העצמאות בחוק יסוד והסדרת ברית זוגיות: \"נמשיך להיות הקול של הציבור הליברלי בכנסת\"",
+   "link": "https://www.ynet.co.il/news/article/skg5qhgrzg",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/13/HkBRDmqhZe/HkBRDmqhZe_285_0_566_319_0_medium.jpg",
+   "published": "2026-11-10T16:14:25+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "85fa992f3e29",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "הנאום החריג של נתניהו - והתפרצות בנט: \"מה עם היועצים הקטארים שלך?\"",
+   "summary": "קרב בלימה: באירוע הצילום המסורתי בכנסת - רגע אחרי שהושבעה - קרא רה\"מ ל\"ממשלת אחדות לאומית\", ומיד אחר כך הקדיש את דבריו למתקפה על המפלגות הערביות והמשא ומתן של גוש השינוי עם רע\"מ. דבריו עוררו סערה: יאיר גולן יצא במחאה וקריב הורחק, בנט התפרץ ובן גביר צעק - וגם שרה נתניהו התערבה",
+   "link": "https://www.ynet.co.il/news/article/h1jgohxcmx",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/Syxxw3heCfl/Syxxw3heCfl_0_85_1280_721_0_medium.jpg",
+   "published": "2026-11-10T15:47:08+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "29110ceeb836",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "לפיד לא מחכה שניה: הנקמה שלו בנתניהו יצאה לדרך",
+   "summary": "ברקע פתיחת מושב הכנסת הראשון לאחר הבחירות, לפיד חתם על שורת הצעות חוק, ביניהן עיגון מגילת העצמאות בחוק יסוד, הגבלת כהונת ראש הממשלה לשמונה שנים וברית זוגיות שתעניק שוויון זכויות לכל זוג",
+   "link": "https://www.maariv.co.il/news/politics/article-1387092",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1147724",
+   "published": "2026-11-10T15:39:49+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "e3a030c1e1fc",
+   "tab": "israel",
+   "feed": "israel:5",
+   "title": "‘This is sabotage’: Hegseth digs in against possible bipartisan impeachment push",
+   "summary": "US defense secretary claims effort to out him is about ‘policy disagreements,’ not high crimes, says he's being punished for 'successfully executing lawful military operations'",
+   "link": "https://www.timesofisrael.com/this-is-sabotage-hegseth-digs-in-against-possible-bipartisan-impeachment-push/",
+   "source": "Times of Israel",
+   "lang": "en",
+   "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26314477833774-1024x640.jpg",
+   "published": "2026-11-10T15:37:17+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:5"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "9b82919858d6",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "מפגן תמיכה מרגש בישראל וביהודים: מנהיגים מכל העולם הגיעו",
+   "summary": "בכינוס חירום לציון ליל הבדולח הזהירו מנהיגים יהודים מהתגברות האנטישמיות באירופה ומהפער בין הבטחות הממשלות למציאות בשטח. באושוויץ הצטרף אליהם אורח יוצא דופן מאיראן",
+   "link": "https://www.maariv.co.il/news/world/article-1387083",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1157689",
+   "published": "2026-11-10T15:36:46+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "6c22ff3622d0",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "First day of Ukraine peace talks 'very productive', US says",
+   "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3c/live/e82766a0-dd04-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-10T14:36:57+00:00",
+   "quiet": false,
+   "also": [
+    "The Guardian"
+   ],
+   "feeds": [
+    "world:0",
+    "world:2"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "ead68cd5aa76",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
+   "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and s",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e",
+   "published": "2026-11-10T16:27:43+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "dff338b1db31",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
+   "summary": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Ma",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/24e85cbcb6e4a83239901353131b6e104a9eb03e/1686_446_5705_4562/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=58c56f391effd8df0890b36cd188b87f",
+   "published": "2026-11-10T16:27:16+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "b2e9cf06acc7",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "Michigan sports parent allegedly defecates in rival high school’s corridor: ‘definitely a first’",
+   "summary": "The suspect, tracked down from surveillance video, claims to have had a medical emergency An apparently sports-mad parent from a Michigan high school has stunned authorities and triggered a police investigation after allegedly entering a rival school and defecating in a corridor. The bizarre case unfolded at the Grosse Pointe South school with the parent a fan of fierce local rival Bedford high sc",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/michigan-sports-parent-defecates",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/b0bce7a8c1789b59b1dffbc10711504bdb5480d8/421_136_1796_1438/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=617a0761a298cbb4addca8216940b2ab",
+   "published": "2026-11-10T16:23:12+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "6659fbe2890f",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+   "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-10T16:19:48+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "71ab83aa7760",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Israel's new parliament sworn in as leaders compete to form government",
+   "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+   "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-10T15:51:09+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "d181174b7538",
+   "tab": "world",
+   "feed": "world:1",
+   "title": "אחרי גל התקריות: תאילנד בקמפיין הסברה לישראלים",
+   "summary": "בעקבות דיווחים על חיכוכים בין תיירים ישראלים למקומיים, שלפי לשכת התיירות של תאילנד נובעים בחלקם מפערי תרבות, השיקה רשות התיירות של תאילנד (TAT) קמפיין הסברה המיועד לתיירים הישראלים. הקמפיין יוצא בתקופה שבה דווח גם על מעצרים, מחאות נגד ישראלים וצעדי אכיפה נגד עסקים ומוסדות המזוהים עם הקהילה הישראלית והיהודית. במקום לפרסם רשימת כללים, בחרה הרשות בהומור כדי להסביר למבקרים כיצד להתנהל במדינה ולכבד את ",
+   "link": "https://travel.walla.co.il/item/3875376",
+   "source": "וואלה עולם",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/7/4117294-46.jpeg",
+   "published": "2026-11-08T11:45:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "a2ea8aafeeae",
+   "tab": "trump",
+   "feed": "trump:0",
+   "title": "Comedian notes Trump’s Dana White Post “is giving Four Seasons Landscaping” amid speculation POTUS announced “wrong Dana White”",
+   "summary": "Trump announced on Truth Social that he had offered the White House press secretary job to UFC CEO Dana White.",
+   "link": "https://www.primetimer.com/news/comedian-notes-trump-s-dana-white-post-is-giving-four-seasons-landscaping-amid-speculation-potus-announced-wrong-dana-white",
+   "source": "PRIMETIMER",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.rvA4MFX_OULe2H9Oy5CAgA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-07T23:01:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:0",
+    "trump:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "8a23694c4650",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "אפשרות לפסגת ארה\"ב-צפון קוריאה לאחר הבחירות.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXJtcEZYQmx5Uk5GcnlTVnJoM01JemZqWWN6SFRhUG1ORENUOWtEeUlsN0pLZktxaTA0QXhZa1ItYlBEdE9FV0hNb01uSXpvYVpQekdodXQ0MDF1dmtCNnY5ajFkMHJXclVUYVNaSm5laUpIT09fLUxTYVgzMjhQM3Byb3BiekRQdUhOQ1VXNFN0Zw?oc=5",
+   "source": "Vietnam.vn",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-10T10:58:16+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "f1bf51c2cf65",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "טראמפ אומר שלא ישנה את מדיניותו בנוגע לגירוש מהגרים ללא תיעוד.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXBwZm43bjMzeHVOZ2hEMDZSdi1yLXpFdlA5VGJPMnNxWkZDMDR0dU1oWDd6Z1l0MUZfQW11eVlLNVNhUlZwY3JRRDY0MllhZ1ZGSjNXb1Z3Qk9NQ0ZmMHV6MEZiRXhXV3RXT3BfZ080LUJQc0NJeDJrQ3hncHpWUDdacks4c2VJa1JzNDFPeHUxRF9BYXpYVVdubURhOU0t?oc=5",
+   "source": "Vietnam.vn",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-10T10:02:46+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "ac56bb55f436",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "תגישו מועמדות? טראמפ נותר בלי דובר והפתיע את העיתונאים",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQkJDd19Od2Q0UTJydjBVMWllSEdBQXp4UTFhaFoxUmlGclZYaTlidzlwams4ZTZjR0lUTDRZRVZLZWtOUHpuMEc5T3g5VGw1TTZISkJEYjNrUlQ2MWd5TVRpaTJ4ZS1FbEJlTGlCUk5sSk1LRFFLZUtjWE5QQQ?oc=5",
+   "source": "כיכר השבת",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-10T09:14:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "3659fc6eb73e",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "לקראת השיחות המשולשות בין ארה\"ב, רוסיה ואוקראינה: טראמפ רוצה להביא את אירופה לשולחן המשא ומתן.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1FCdUoyaXQ0M01aTnh3OEtpcXI3S0dSYkZHTjgwOFloS0lvUUU4Q2RuNVZJR25rR2FTN0pnZzNnc3VUa05iTGVQTF9UY0ZzZFR1bEwtYk4tMkNzUjJkVGloODBQUUxWZ05mTXJKS2t5Wjh1djZPMjVBLUdpRGtRVHBJQlp2Z2tuR3dGNmdEU0p0ME9oOVdBdzlITWpCX0Fra0FWeTJFeDdDMDlMZzEwNVozYmg?oc=5",
+   "source": "Vietnam.vn",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-10T08:58:48+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "de266e39187e",
+   "tab": "trump",
+   "feed": "trump:1",
+   "title": "\"Focus on America, please\" - Randy Quaid blasts Trump for spelling out Qatar PM's full name in his Truth Social post instead of mortgage rates",
+   "summary": "Actor Randy Quaid recently took to X and criticized Donald Trump for his Truth Social post. For those unfamiliar, Trump spelled out Qatar PM's full name in a Truth Social post. The actor suggested ...",
+   "link": "https://www.primetimer.com/news/focus-on-america-please-randy-quaid-blasts-trump-for-spelling-out-qatar-pms-full-name-in-his-truth-social-post-instead-of-mortgage-rates",
+   "source": "PRIMETIMER",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-10T05:17:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00",
+   "image_tried": true
+  },
+  {
+   "id": "912d944850ca",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "בנק חדש יוקם בישראל: רבולוט קיבל אישור",
+   "summary": "בנק ישראל אישר את הקמתו של \"בנק רבולוט ישראל\", מקבוצת הפינטק הבינלאומית • רבולוט משרתת יותר מ־80 מיליון לקוחות בעולם, ושוויה נאמד ב־115 מיליארד דולר • מדובר ברישיון השלישי שניתן לבנק חדש בישראל מאז 2019 • הבנק החדש יצטרך להשלים שורה של דרישות רגולטוריות וטכנולוגיות לפני שיוכל להתחיל לפעול",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562731#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794309007/shutterstock_2638960939_xkrbnj.jpg",
+   "published": "2026-11-10T11:01:00+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה כסף"
+   ],
+   "feeds": [
+    "economy:0",
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "10ee2a18d774",
+   "tab": "economy",
+   "feed": "economy:2",
+   "title": "שלחתם למנהל הודעה קולית ארוכה וקיבלתם רק אגודל מורם? אל תילחצו",
+   "summary": "מחקר של Viber בקרב מאות מיליוני משתמשים חושף הבדלים מפתיעים בהרגלי התקשורת בין הדורות: צעירים מעדיפים הודעות קוליות, מבוגרים מגיבים כמעט פי שניים באמוג'י, וגם השימוש בבינה מלאכותית משתנה עם הגיל",
+   "link": "https://career.walla.co.il/item/3875746",
+   "source": "וואלה כסף",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118257-46.png",
+   "published": "2026-11-10T16:37:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "bc38a501a286",
+   "tab": "economy",
+   "feed": "economy:2",
+   "title": "יום השבעת הכנסת: עליות שערים בבורסה בת\"א",
+   "summary": "ברקע פתיחת הכנסת ה-26: מדד ת\"א-35 מטפס ב-1.2%, מדד ת\"א-125 מוסיף 1% לערכו ומדד ת\"א-90 מתחזק ב-0.4%",
+   "link": "https://finance.walla.co.il/item/3875736",
+   "source": "וואלה כסף",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/6/1/7/3617531-46.jpg",
+   "published": "2026-11-10T16:37:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "b23440a56a3b",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "עוד לפני ההקמה: החברה הישראלית שקיבלה הבטחות להשקעה בשווי 1.5 מיליארד דולר",
+   "summary": "לאחר החשיפה בגלובס כי מייסדי פאראגון, אהוד שניאורסון ועידן נוריק, מקימים חברה חדשה, כעת נחשפים המשקיעים בסבב הגיוס • מבנה ההשקעות המיוחד, המכונה \"טרנצ'ים\", צפוי להזרים לחברה עד 200 מיליון דולר עוד בטרם הוקמה • ההבטחות מעידות על התלהבות יתרה של קרנות הענק מעמק הסיליקון להשקיע בחברה שכבר גייסה בכירים לשעבר בפארגאון וקצין שהשתחרר מצה\"ל",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562799#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1790609566/800_wusymx.jpg",
+   "published": "2026-11-10T16:30:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "0dccd6644db6",
+   "tab": "economy",
+   "feed": "economy:2",
+   "title": "יו\"ר ועדת הכספים המיועדת - והבעל שמייעץ לחברות הגדולות במשק",
+   "summary": "מינויה הצפוי של לירן אבישר בן חורין מעלה שאלות לגבי ניגודי עניינים, מכיוון שמשרדו של בעלה מייעץ לגופים בהם מזרחי טפחות, טבע, שטראוס וכאל",
+   "link": "https://finance.walla.co.il/item/3875733",
+   "source": "וואלה כסף",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118244-46.jpeg",
+   "published": "2026-11-10T16:24:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "ee57fe33343c",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "פאניקה באייפקס? זהבית כהן דורשת \"להפסיק מיידית\" עסקה של היורש שלה",
+   "summary": "קרן ההשקעות אייפקס שמובילה כהן שלחה מכתבי התראה לארז נחום, סגנה לשעבר, וליתר המעורבים ברכישת רשת המרפאות הווטרינריות \"חברים\" — וטוענת כי \"יסודה בגזל סודות מסחריים\" • גורמים בסביבת נחום: \"הטענות הן המשך ישיר למסע נקמה אישי\"",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562846#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794325027/%D7%90%D7%A8%D7%96-%D7%A0%D7%97%D7%95%D7%9D-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%A8%D7%9E%D7%99-%D7%96%D7%A8%D7%A0%D7%927%D7%A8_fcko6p-1_zor1hg.jpg",
+   "published": "2026-11-10T16:20:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "9664602429d5",
+   "tab": "economy",
+   "feed": "economy:1",
+   "title": "אחרי פרסום האינפלציה: ירידות בוול סטריט, אנבידיה ממשיכה לצנוח",
+   "summary": "מדד אוקטובר מאכזב משפיע על הירידות, שכן הצפי הוא להעלאת ריבית בקרוב. המדדים המובילים יורדים בעד אחוז. הבגידה של מנכ\"ל אנבידיה ממשיכה להשפיע לרעה על מניית החברה שיורדת בכמעט 6%",
+   "link": "https://www.ynet.co.il/economy/article/hjzxzalrze",
+   "source": "ynet כלכלה",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/04/SkyOp5T61e/SkyOp5T61e_0_171_3000_1689_0_medium.jpg",
+   "published": "2026-11-10T16:13:56+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "62c1623392f5",
+   "tab": "economy",
+   "feed": "economy:1",
+   "title": "הביקוש לנשק מזניק את רפאל: עסקת נדל\"ן נוספת ב-32 מיליון שקל",
+   "summary": "על רקע צבר הזמנות של כ-75 מיליארד שקל וקליטת 2,000 עובדים בשנה החולפת, החברה הביטחונית שוכרת שתי קומות נוספות בפארק המדע וההייטק בחיפה. היקף עסקאות השכירות שלה במתחם הגיע ל-77 מיליון שקל בתוך שנה",
+   "link": "https://www.ynet.co.il/economy/article/sj0pdhermx",
+   "source": "ynet כלכלה",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/SJ9P23eAze/SJ9P23eAze_0_0_1448_1086_0_medium.jpg",
+   "published": "2026-11-10T15:56:54+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "e0e70faaff4a",
+   "tab": "tech",
+   "feed": "tech:2",
+   "title": "סערת אנבידיה: מנכ\"ל החברה ג'נסן הואנג נחשד בקשר רומנטי עם סוכנת סינית",
+   "summary": "סמך מודיעין אמריקאי חושף פרטים חדשים על הקשר בין ג'נסן הואנג, מנכ\"ל ענקית השבבים, לבין אשת עסקים החשודה בריגול עבור סין. לפי הדיווח, השניים ניהלו קשר רומנטי, בזמן שבייג'ינג ניסתה להשיג גישה לטכנולוגיות האמריקאיות המתקדמות ביותר. כעת גם הקונגרס דורש תשובות",
+   "link": "https://tech.walla.co.il/item/3875360",
+   "source": "וואלה טכנולוגיה",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/7/4117291-46.jpeg",
+   "published": "2026-11-08T10:37:00+00:00",
+   "quiet": false,
+   "also": [
+    "ynet דיגיטל"
+   ],
+   "feeds": [
+    "tech:2",
+    "tech:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "bf487b1897b7",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "\"בלי המפתחות הכל מושבת\": היזמים שמאחורי Zerto חושפים סטארטאפ חדש עם סבב סיד גדול במיוחד",
+   "summary": "האחים זיו ועודד קדם הם לא שמות חדשים בהייטק המקומי, אבל עכשיו, אחרי שהקימו ומכרו את Kashya ל-EMC ואת Zerto ל-HPE, הם חוזרים כעת לסיבוב נוסף, הפעם עם סטארטאפ חדש בשם Dreeze. היום (ג') יוצאת החברה ממצב Stealth עם גיוס סיד חריג בהיקפו של 33 מיליון דולר. את הסבב הובילו הקרנות האמריקאיות Norwest ו-Bessemer Venture Partners, […] The post \"בלי המפתחות הכל מושבת\": היזמים שמאחורי Zerto חושפים סטארטאפ חדש ע",
+   "link": "https://www.geektime.co.il/dreeze-raises-33m-seed-funding-cloud-recovery/",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/11/Dreeze-Team-credit-Doron-Letzter-1024x683.jpg",
+   "published": "2026-11-10T15:00:37+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "53805824f6db",
+   "tab": "tech",
+   "feed": "tech:2",
+   "title": "פאן, הומור או רגרסיה? הצד האפל של הסלנג בטיקטוק",
+   "summary": "טיקטוק ומאגר הסלנג הבלתי נגמר שלה מכניסים לחיינו כמעט בכל יום מונחים חדשים. חלקם מושפעים מטרנדים חולפים, ואחרים משתרשים והופכים לחלק מהשפה היומיומית שלנו. אבל מאחורי כמה מהמונחים הצעירים והקלילים מסתתרת בעיה מוכרת: שוביניזם. דווקא הדור הצעיר, שמתגאה בקידום שוויון ובתיקון חברתי, מוכיח עד כמה הסטריאוטיפים הישנים עדיין מושרשים עמוק בשפה שלנו.",
+   "link": "https://tech.walla.co.il/item/3875716",
+   "source": "וואלה טכנולוגיה",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118199-46.jpeg",
+   "published": "2026-11-10T14:34:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "5f2ece707615",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על Lovable ו-LastPass",
+   "summary": "בדיוק שנה עברה מאז שחברת הסייבר הישראלית Daylight הודיעה על סבב הגיוס הקודם שלה, והיום (ג') היא חושפת גיוס גדול נוסף. עכשיו מודיע הסטארטאפ על השלמת סבב B בגובה 80 מיליון דולר בהובלת Goldman Sachs ובהשתתפות משקיעה חדשה, Okta Ventures, לצד הקרנות הקיימות Vintage Partners, Craft Ventures, Bain Capital ו-Maple Capital. הגיוס הנוכחי מביא את […] The post גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על L",
+   "link": "https://www.geektime.co.il/daylight-raises-80m-series-b-ai-cybersecurity/",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/11/Daylight-Team-1024x683.jpg",
+   "published": "2026-11-10T14:31:48+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "b96b28d19bdc",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "מה? הדמעות? זה בגלל ש-Waze מאפשרת עכשיו לבחור נקודת מוצא",
+   "summary": "גם לכם זה בטח קרה. אתם רוצים לבדוק כמה זמן ייקח לחבר להגיע אליכם או כמה מה הדרך הכי טובה להגיע מהעבודה למסעדה כלשהי, אבל Waze מתעקשת לתת לכם את המסלול רק מהמיקום הנוכחי שלכם. אז עד היום עקפנו את זה בכל מיני שיטות או בעזרת Google Maps, אבל עכשיו, אפליקציית הניווט הפופולרית סוף סוף […] The post מה? הדמעות? זה בגלל ש-Waze מאפשרת עכשיו לבחור נקודת מוצא appeared first on גיקטיים .",
+   "link": "https://www.geektime.co.il/waze-allows-you-to-choose-starting-points/",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "https://cdn.geektime.co.il/wp-content/uploads/2022/12/brett-jordan-1YqgRRfGzPY-unsplash-1024x768.jpg",
+   "published": "2026-11-10T13:37:23+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "fcab96959b16",
+   "tab": "tech",
+   "feed": "tech:2",
+   "title": "סוף האמון בשידורים חיים? בינה מלאכותית שנועדה לשנות מילים ותנועות שפתיים בזמן אמת",
+   "summary": "דמיינו שאתם צופים בראיון בשידור חי. המרואיין אומר משפט מסוים, אבל אתם שומעים משהו אחר. אדם שצופה באותו שידור בדיוק שומע גרסה שונה, ובשני המסכים השפתיים של המרואיין נעות בהתאמה למילים. איש מהצופים לא בהכרח יודע שהדברים עברו עריכה. זה נשמע כמו מדע בדיוני, אבל בקשת פטנט של מיקרוסופט מתארת טכנולוגיה שנועדה לאפשר בדיוק את זה. הבקשה, שפורסמה בסוף אוקטובר, מתארת מערכת בינה מלאכותית שתוכל לזהות מילים במהל",
+   "link": "https://tech.walla.co.il/item/3875698",
+   "source": "וואלה טכנולוגיה",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/7/5/3875866-46.jpg",
+   "published": "2026-11-10T12:57:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "fb5e02edfd7f",
+   "tab": "tech",
+   "feed": "tech:1",
+   "title": "13 שנה, אינסוף הבטחות: האם GTA VI יצליח לספק את הסחורה?",
+   "summary": "המשחק המצופה של העשור עוד רגע כאן, עם ציפיות בשמיים והבטחה לעולם פתוח שאפתני מאי פעם. אבל האם רוקסטאר באמת עומדת להמציא מחדש את הנוסחה, או שנקבל GTA V באריזה נוצצת יותר? כינסנו מחדש את פאנל \"הקונסוליה\" לדיון על ההייפ, המחיר, החששות והשאלה הגדולה מכולן: האם זה יהיה משחק העשור?",
+   "link": "https://www.ynet.co.il/digital/gaming/article/b1wleyl0ge",
+   "source": "ynet דיגיטל",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/ryIHnUAofg/ryIHnUAofg_0_0_3000_1688_0_medium.jpg",
+   "published": "2026-11-10T11:48:33+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "51aa9258a533",
+   "tab": "tech",
+   "feed": "tech:1",
+   "title": "סקס, שקרים ומיליארדים: הבגידות שהסעירו את עולם הטכנולוגיה",
+   "summary": "מנכ\"ל אנבידיה הסתבך בפרשת בגידה שמעוררת גם חשדות לריגול סיני, אבל הוא ממש לא לבד: מהרומן הסודי של ביל גייטס, דרך המסרונים האינטימיים של ג'ף בזוס ועד המנכ\"ל שנתפס במצלמה בהופעה של קולדפליי. כך הפכו החיים האישיים של האנשים החזקים בעולם הטכנולוגיה לשערוריות שעלו לחלקם במשרות, במוניטין ובמיליוני דולרים",
+   "link": "https://www.ynet.co.il/digital/technology/article/bjx2zly0mg",
+   "source": "ynet דיגיטל",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/Bkxj2vEyCze/Bkxj2vEyCze_464_1089_2047_1152_0_medium.jpg",
+   "published": "2026-11-10T10:11:11+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "a7ab6d555140",
+   "tab": "science",
+   "feed": "science:0",
+   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-10T15:10:20+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "f2e410a4179d",
+   "tab": "science",
+   "feed": "science:0",
+   "title": "Locals launch campaign to buy ancient wood",
+   "summary": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud.",
+   "link": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ab/live/de0323a0-dc53-11f1-a869-656dc96bd12d.png",
+   "published": "2026-11-10T08:13:42+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "59a3d88aa107",
+   "tab": "science",
+   "feed": "science:0",
+   "title": "House martin artificial nests scheme set to expand",
+   "summary": "The artificial nests are more robust than the endangered migratory birds' own mud creations.",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c1/live/acaecae0-dc65-11f1-8fe6-5becaee5408f.jpg",
+   "published": "2026-11-10T07:27:21+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "c5d35f99f290",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists have discovered an exoplanet that has disappeared from view",
+   "summary": "For seven years, astronomers have been observing a distant planet that regularly passed in front of its star and briefly obscured its light. But gradually these eclipses became shorter and fainter, ...",
+   "link": "https://iz.ru/en/node/2199148",
+   "source": "Izvestia",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.7N1uYSsad9dHl55uzr_9Kg&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T03:18:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "612259c3e280",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists discover mysterious lonely brain waves linked to memory loss",
+   "summary": "Scientists have traced a link between a protein associated with Alzheimer’s and changes in brain activity during deep sleep.",
+   "link": "https://www.msn.com/en-in/health/mindandbody/scientists-discover-mysterious-lonely-brain-waves-linked-to-memory-loss/ar-AA2h7J3r",
+   "source": "The Print on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.G34xx10SnQ0XnhIME2Il5g&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T00:49:37+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "26782bd405fc",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists discovered a baby right whale off Canada. They say it's a cause for joy",
+   "summary": "Scientists who study whales are heartened by an unexpected discovery of a baby right whale off Canada.",
+   "link": "https://www.msn.com/en-us/money/general/scientists-discovered-a-baby-right-whale-off-canada-they-say-it-s-a-cause-for-joy/ar-AA2h5Q01",
+   "source": "Los Angeles Times on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.UCQPe4-_tdrDOgqlVwxu6w&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-09T14:13:14+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "dd90e62cf587",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "גם בסרטן נדיר: המידע החשוב שבדיקות מתקדמות יכולות לגלות",
+   "summary": "בדיקות מולקולריות מתקדמות עשויות לסייע בזיהוי המאפיינים הייחודיים של גידולים בבלוטות הרוק ולספק מידע חשוב לקבלת החלטות רפואיות. פרופ׳ סאלם בלאן, מנהל היחידה לגידולי ראש-צוואר ברמב\"ם, מסביר כיצד המידע המתקבל מהבדיקות עשוי לסייע בבחירת הגישה הרפואית המתאימה, במיוחד במקרים שבהם המחלה חוזרת או מתפשטת.",
+   "link": "https://www.ynet.co.il/health/article/hjeiy00xcfe",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/08/HkH6Hg7Nkg/HkH6Hg7Nkg_1_24_1000_563_0_medium.jpg",
+   "published": "2026-11-10T13:29:57+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "52c516fbf1a9",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "התסמונת של סלין דיון: טיפול ניסיוני שיפר את יכולת ההליכה",
+   "summary": "אחרי מנה אחת של טיפול ניסיוני, חציון זמן ההליכה במבחן התקצר בכ-46% אצל מטופלים עם תסמונת האדם הנוקשה, המחלה שממנה סובלת סלין דיון. פרופ' שחר שלי, מנהל המחלקה הנוירולוגית ברמב\"ם, ופרופ' ארנון קרני, מנהל היחידה לנוירואימונולוגיה וטרשת נפוצה באיכילוב, מסבירים איך פועל הטיפול ומה אפשר ללמוד מהשיפור שנמדד בניסוי",
+   "link": "https://www.ynet.co.il/health/article/hksgblerzx",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/S1iOxPgAfx/S1iOxPgAfx_842_58_1358_764_0_medium.jpg",
+   "published": "2026-11-10T12:06:51+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "b94bd95851f0",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "\"הרבה חולים יוכלו ליהנות ממנה\": אושרה תרופה שמפחיתה את הסיכון לשבץ חוזר",
+   "summary": "מינהל המזון והתרופות האמריקני אישר תרופה ראשונה מסוגה, שהפחיתה ב-26% את הסיכון לשבץ מוחי חוזר במחקר שכלל יותר מ-12 אלף משתתפים, ללא עלייה מובהקת בשיעור הדימומים החמורים. פרופ' רונן לקר, שהשתתף במחקר: \"בהשוואה לתרופות אחרות, היא מאוד יעילה. מקווה שתהיה זמינה גם בישראל\"",
+   "link": "https://www.ynet.co.il/health/article/skroeugaze",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/SyfCBFc42Mx/SyfCBFc42Mx_1_0_1000_563_0_medium.jpg",
+   "published": "2026-11-10T10:58:43+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "8bcf18778a85",
+   "tab": "health",
+   "feed": "health:2",
+   "title": "Drinking coffee regularly can boost gut health, study finds",
+   "summary": "...",
+   "link": "https://www.msn.com/en-gb/food-and-drink/general/drinking-coffee-regularly-can-boost-gut-health-study-finds/ar-AA2h9BK7",
+   "source": "The Independent on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.qP1vZk7XdzLK-3_9QWBiSg&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T07:46:19+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "ce3bbcbba996",
+   "tab": "health",
+   "feed": "health:2",
+   "title": "Air Purifiers At Night Reduce Blood Sugar Spikes By 17% In Prediabetics, Study Finds",
+   "summary": "A new study suggests sleeping with HEPA air purifiers may reduce blood sugar fluctuations and post-breakfast glucose spikes in people with prediabetes by improving indoor air quality. Here's all you ...",
+   "link": "https://www.msn.com/en-in/news/other/air-purifiers-at-night-reduce-blood-sugar-spikes-by-17-in-prediabetics-study-finds/ar-AA2h8OEo",
+   "source": "Times Now on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.692JmJOv2JVrTScwmUC87Q&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-10T05:52:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "c6f02fd2c572",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "מכוכב הקיי-פופ ועד נועה קירל הפיליפינית: מי יכבוש את אירוויזיון אסיה?",
+   "summary": "מי החזיר אותנו לקובי מרימי, איזו להקה עושה מוזיקה בלי אף כלי נגינה ומי נאלץ להחליף את השיר שלו ברגע האחרון? לקראת השקת הגרסה האסיאתית של תחרות השירה, האזנו ל-11 השירים המתחרים, בחרנו את המתמודדים המועדפים שלנו - ובדקנו מה אומרים ההימורים",
+   "link": "https://www.ynet.co.il/entertainment/article/rjp1unjrml",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/rJr4n41Azx/rJr4n41Azx_322_44_959_540_0_medium.jpg",
+   "published": "2026-11-10T10:17:29+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "906b96408c08",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "עדי אולמנסקי על השיר שכתבה לזכר אחיה: \"נמאס לי להרגיש שאני צריכה להסתתר\"",
+   "summary": "אסף, אחיה הבכור של עדי אולמנסקי, נאבק בדיכאון מגיל 15, ומאז ילדותה היא חיה בצל הדאגה לו. לפני עשרה חודשים, בגיל 42, הוא נטל את חייו. ב\"שיר לאסף\" היא מציגה את האח החכם והמיוחד שהכירה, ובריאיון ל-ynet מספרת גם על האשמה שנשארה איתה, ועל העצה שחיזקה אותה: \"זה מאוד שחרר אותי\"",
+   "link": "https://www.ynet.co.il/entertainment/article/hyhvg106zx",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/08/Bkolj1Apzg/Bkolj1Apzg_0_36_2592_1460_0_medium.jpg",
+   "published": "2026-11-10T06:56:56+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "d56a9b5a0fda",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "מכתב פתוח לשר התרבות הבא",
+   "summary": "מסימון ספרים שמומנו בידי מחבריהם, דרך הכנסת עיתונים לכיתות הלימוד והצלת חנויות הספרים העצמאיות, ועד לטיפוח הקשר בין התרבות העברית והערבית: עשרה צעדים מעשיים שיש לנקוט עכשיו כדי להציל את הספרות בישראל",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14943509",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/rJeFpZMU6fl/rJeFpZMU6fl_0_0_1920_1080_0_medium.jpg",
+   "published": "2026-11-10T04:47:12+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "2abdeda313fb",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "Woman 'waking up at 3am' now sleeps through night using 'best ever' £38.40 kit",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb29rbmhDX0Y1WG9JUE1XWTlvelFzcG9RNWRyekhwNkpTSXVBWXBYMF9oQVd4bG8yRTYxSnNlVDZDOGd3ZU9SajFIaWxmOF9GRkVHUXRUOVNqeUx1MVNxMlZJaE1nUjdONFJBMlNKOWJ5ZnpORFQ1YnlFX2JvenVlZ29paTlfb2JVVC1xSEZocDZBeGtmZ2c?oc=5",
+   "source": "Birmingham Live",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-10T16:03:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "f98c3e1b831c",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "Martian Volcanic Discovery Could Be ‘Smoking Gun’ in Search for Life",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk82QzJBa0VXemRuSVVmS0Y1X0hSaS16blhFQ25QNDV3SVVkSjlmbjZKSG81dVV5c0J6ZTN1cFV4MUhfeXpteWFtaWRQd3AtTmRNVWs3OUMyYzlfVjl1YlFPOFZHd2l1MTVITHVGR1dsLS1tU3BjRVE4dkVla29Hd1lWV2V6UkdFaTlFY01BSDk5U3Q2WWh5UmZlY3NWVlo4?oc=5",
+   "source": "Good News Network",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-10T14:30:25+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "ba7180e161cf",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "Beauty pro Genevieve Turley says this £25 makeup set is ‘sublime’ – and we totally agree",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWNzVGdMS2VYQ2NQMW5zQ1dReHpWQjQzQkZKNFJ1SFdWSU1xcHpnbTZlVEFzWm1QSTBweTRFMkFQV1hRRXE3V21WTS1OYTZfMUFET2kzZ3p0Z0lCRWc1Z2hpeXQxVXJPZDdqUjZzSFpEWTM0X2M5M0lyZGJwS3pLLTdfQUNRa1A5Wnc?oc=5",
+   "source": "Get the Gloss",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-10T14:08:36+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "6e168665bc1f",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "Big changes for cheapest Land Rover SUVs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDBUNnE1QUtPdmt2QUpNNTRaMFNTUDdLWXkwTjhyWEpJSW1sNDJja1VrbTJYa2FvenpoTTB0WjBodVJlZTBiX053bHo3N0xkTmdkQ19MYzFnWFdYYVFSMjY2MTdnRThNaktWWTVyMG9ITVBfUTVCZXQ2bjRRcWVBNmdSaWx5QkRxT2FzUXBaemFJUFRsaEJBSkRnSGJ5a3oydjFjT0stTXZjWjlROWc?oc=5",
+   "source": "Drive",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-10T11:55:57+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "49ea66f82173",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "Russell reveals why he ended up facing the wrong way after pit stop in Brazil",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWNOVDh2MUd6WVpyTHdDRTJub05ZLUhISDhDdkFweENYbFpMN0FQUlAyLU9QeFo1ZXczZ3NoQnBUTFhWYUtNUGxLeTF2TFUwSk43TEVOTDctYzc0dVZfWlc5U191WkRFTHFvUW56Vm41bWhSbjl6SmpGNUEwRXNrUGJha3ZPam5QT25NTkZGdUtYS3JRaDcxaF8zSkFSX1I2dm5QRkV3ajVZT1FJVlB3?oc=5",
+   "source": "GPblog",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-10T11:16:31+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "3f2e77608a1c",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "STEEL BALL RUN JoJo’s Bizarre Adventure Anime Releases Special \"-HERE COME THE STANDS-\" PV",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmVxTG5SdldVTUpGR19pOXIwRFU1bW1QaDdLV0JabkM2c2g1MEttcDdkalV5eDF2dzBoM3pTbHB0TzZBRi1yU2FOZThObnJoSG40cEhUXy1pRUNaOTFYaVVsTFVXbWdxcFU1VGUySUhxZ09Ga1pHX1pEMjlyRnZDd052VDl3OFE5eDl2RGtUcHc0TUtTVTA0T21wX3lpUGE5OERNMzdDVlV0MWdyLUE?oc=5",
+   "source": "AnimeTV チェーン",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-10T10:54:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "0d3269bee767",
+   "tab": "sports",
+   "feed": "sports:1",
+   "title": "המחליף של איפה לונדברג: קמאר בולדווין חתם במכבי תל אביב",
+   "summary": "כשלושה שבועות לאחר פציעתו של הדני, סוף סוף הצליחו הצהובים להתחזק: הגארד (29, 1.95 מטר) מגיע לאחר שיצא מהרוטציה של באיירן מינכן ביורוליג, ישתכר כ-300 אלף דולר ולא אמור לשחק בחמישי. \"נרגש מההזדמנות לעשות צעד קדימה\", אמר. קטש: \"יוסיף עומק ואיכות\"",
+   "link": "https://sports.walla.co.il/item/3875744",
+   "source": "וואלה ספורט",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118263-46.jpg",
+   "published": "2026-11-10T16:37:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "5ea548b722d6",
+   "tab": "sports",
+   "feed": "sports:1",
+   "title": "מתי הם יחזרו? הפציעות של אלון תורג'מן ו-והיב חביבאללה",
+   "summary": "הסקורר של האדומים סובל מקרע קטן במפשעה וייעדר שבועיים-שלושה, חברו סובל מקרע בשריר הירך האחורי וייעדר 3-4 שבועות",
+   "link": "https://sports.walla.co.il/item/3875754",
+   "source": "וואלה ספורט",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/8/4108062-46.jpg",
+   "published": "2026-11-10T16:37:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  },
+  {
+   "id": "01fdaff6c94b",
+   "tab": "sports",
+   "feed": "sports:1",
+   "title": "מנור סולומון: \"אין לי ספק שאני ואוסקר גלוך יכולים לשחק ביחד\"",
+   "summary": "כוכב נבחרת ישראל על שיתוף הפעולה עם חברו באגף שמאל: \"לאחרונה זה עבד פחות טוב, אבל לפני כן אמרו שזה הדבר הכי טוב שיש\". וגם: המשטח הקשה בקוסובו",
+   "link": "https://sports.walla.co.il/item/3875740",
+   "source": "וואלה ספורט",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/0/5/4105164-46.jpg",
+   "published": "2026-11-10T16:37:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "first_seen": "2026-11-10T16:37:13+00:00"
+  }
+ ],
+ "sources": [
+  {
+   "tab": "israel",
+   "name": "ynet",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "israel",
+   "name": "וואלה",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "israel",
+   "name": "מעריב",
+   "ok": true,
+   "via": "rss",
+   "count": 20,
+   "error": null
+  },
+  {
+   "tab": "israel",
+   "name": "N12",
+   "ok": true,
+   "via": "rss",
+   "count": 20,
+   "error": null
+  },
+  {
+   "tab": "israel",
+   "name": "כאן חדשות",
+   "ok": true,
+   "via": "google",
+   "count": 100,
+   "error": null
+  },
+  {
+   "tab": "israel",
+   "name": "Times of Israel",
+   "ok": true,
+   "via": "rss",
+   "count": 12,
+   "error": null
+  },
+  {
+   "tab": "world",
+   "name": "BBC",
+   "ok": true,
+   "via": "rss",
+   "count": 28,
+   "error": null
+  },
+  {
+   "tab": "world",
+   "name": "וואלה עולם",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "world",
+   "name": "The Guardian",
+   "ok": true,
+   "via": "rss",
+   "count": 45,
+   "error": null
+  },
+  {
+   "tab": "trump",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 9,
+   "error": null
+  },
+  {
+   "tab": "trump",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 12,
+   "error": null
+  },
+  {
+   "tab": "trump",
+   "name": "Google News",
+   "ok": true,
+   "via": "google",
+   "count": 13,
+   "error": null
+  },
+  {
+   "tab": "economy",
+   "name": "גלובס",
+   "ok": true,
+   "via": "rss",
+   "count": 15,
+   "error": null
+  },
+  {
+   "tab": "economy",
+   "name": "ynet כלכלה",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "economy",
+   "name": "וואלה כסף",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "economy",
+   "name": "ynet צרכנות",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "economy",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 12,
+   "error": null
+  },
+  {
+   "tab": "tech",
+   "name": "גיקטיים",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "tech",
+   "name": "ynet דיגיטל",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "tech",
+   "name": "וואלה טכנולוגיה",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "tech",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 10,
+   "error": null
+  },
+  {
+   "tab": "science",
+   "name": "BBC",
+   "ok": true,
+   "via": "rss",
+   "count": 41,
+   "error": null
+  },
+  {
+   "tab": "science",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 9,
+   "error": null
+  },
+  {
+   "tab": "science",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 11,
+   "error": null
+  },
+  {
+   "tab": "health",
+   "name": "ynet בריאות",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "health",
+   "name": "וואלה בריאות",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "health",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 11,
+   "error": null
+  },
+  {
+   "tab": "culture",
+   "name": "ynet תרבות",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "culture",
+   "name": "ynet מגזין",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "culture",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 9,
+   "error": null
+  },
+  {
+   "tab": "weird",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 3,
+   "error": null
+  },
+  {
+   "tab": "weird",
+   "name": "ynet בעלי חיים",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "weird",
+   "name": "Bing News",
+   "ok": true,
+   "via": "google",
+   "count": 25,
+   "error": null
+  },
+  {
+   "tab": "sports",
+   "name": "ynet ספורט",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "sports",
+   "name": "וואלה ספורט",
+   "ok": true,
+   "via": "rss",
+   "count": 30,
+   "error": null
+  },
+  {
+   "tab": "sports",
+   "name": "Bing News",
+   "ok": true,
+   "via": "bing",
+   "count": 8,
+   "error": null
+  }
+ ],
+ "ai": {
+  "used": false,
+  "model": "gemini-flash-latest",
+  "skipped_models": [
+   "gemini-flash-latest: ModelUnavailable",
+   "gemini-3.6-flash: ModelUnavailable",
+   "gemini-3.5-flash: ModelUnavailable",
+   "gemini-flash-lite-latest: ModelUnavailable",
+   "gemini-3.5-flash-lite: ModelUnavailable",
+   "gemini-3-flash-preview: ModelUnavailable"
+  ],
+  "batches": 1,
+  "failed_batches": 4,
+  "removed": 0,
+  "rescued": 0,
+  "summarized": 0,
+  "reason": "no model available (quota/overload) – rest without AI"
+ },
+ "stats": {
+  "fetched": 893,
+  "too_old": 295,
+  "blocked": 19,
+  "allow_matched": 5,
+  "images_filled": 0
+ }
+}

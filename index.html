@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>מה קורה</title>
+<meta name="theme-color" content="#2b5d8a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="מה קורה">
+<meta name="referrer" content="no-referrer">
+<link rel="apple-touch-icon" id="appleIcon" href="">
+<link rel="icon" id="favIcon" href="">
+<style>
+  :root {
+    --bg: #f3f1ec; --card: #ffffff; --text: #1f2a33; --muted: #75808a; --line: #e4e0d8;
+    --accent: #2b5d8a; --accent-soft: #dde9f3; --gold: #d99a1e; --gold-soft: #fbf0d7;
+    --red: #c8453a; --red-soft: #f9e2df; --shadow: 0 2px 10px rgba(25, 35, 45, .07);
+  }
+  body.night {
+    --bg: #11151a; --card: #1b2128; --text: #e3e7ea; --muted: #8b949c; --line: #29313a;
+    --accent: #6fa5d6; --accent-soft: #1d3042; --gold: #e2ac46; --gold-soft: #3a2f19;
+    --red: #e3786c; --red-soft: #3c2120; --shadow: none;
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); }
+  body {
+    font-family: -apple-system, "Segoe UI", Rubik, Assistant, Arial, sans-serif;
+    font-size: 16px; line-height: 1.45; min-height: 100vh;
+    padding: env(safe-area-inset-top) 0 calc(env(safe-area-inset-bottom) + 24px);
+    transition: background .4s, color .4s;
+  }
+  button { font: inherit; color: inherit; cursor: pointer; }
+  input { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 10px; width: 100%; }
+  .wrap { max-width: 620px; margin: 0 auto; padding: 0 14px; }
+
+  header { display: flex; align-items: center; gap: 10px; padding: 14px 0 6px; }
+  header h1 { font-size: 22px; margin: 0; flex: 1; }
+  header .sub { font-size: 12px; color: var(--muted); font-weight: normal; display: block; }
+  .iconbtn { background: var(--card); border: 1px solid var(--line); border-radius: 12px; width: 42px; height: 42px; font-size: 19px; box-shadow: var(--shadow); }
+  .iconbtn.spin { animation: spin 1s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .tabs { display: flex; gap: 8px; overflow-x: auto; padding: 8px 0 10px; scrollbar-width: none; position: sticky; top: 0; z-index: 5; background: var(--bg); }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { flex-shrink: 0; border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 7px 13px; font-size: 14px; white-space: nowrap; }
+  .tab.on { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+  .tab .n { font-size: 11px; opacity: .75; margin-inline-start: 3px; }
+
+  h2.section { font-size: 15px; color: var(--muted); margin: 16px 4px 8px; font-weight: 600; }
+  .strip { background: var(--red-soft); border-inline-start: 5px solid var(--red); border-radius: 14px; padding: 10px 12px; margin-bottom: 12px; }
+  .strip h3 { margin: 0 0 6px; font-size: 14px; color: var(--red); }
+  .strip a { display: block; color: var(--text); text-decoration: none; padding: 5px 0; font-size: 15px; font-weight: 600; border-top: 1px solid rgba(0,0,0,.06); }
+  .strip a:first-of-type { border-top: none; }
+
+  .card { background: var(--card); border-radius: 16px; margin-bottom: 12px; box-shadow: var(--shadow); overflow: hidden; transition: opacity .25s; }
+  .card.read { opacity: .5; }
+  .card .img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: var(--accent-soft); }
+  .card .ph { display: flex; align-items: center; justify-content: center; width: 100%; height: 86px; font-size: 40px; background: linear-gradient(135deg, var(--accent-soft), var(--bg)); }
+  .card .body { padding: 11px 14px 4px; }
+  .card .meta { font-size: 12px; color: var(--muted); display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .badge { font-size: 11px; font-weight: 700; padding: 1px 7px; border-radius: 999px; }
+  .badge.imp { background: var(--red-soft); color: var(--red); }
+  .badge.top { background: var(--gold-soft); color: var(--gold); }
+  .badge.en { background: var(--line); color: var(--muted); }
+  .card a.title { display: block; color: var(--text); text-decoration: none; font-weight: 700; font-size: 17px; margin: 4px 0; }
+  .card a.title[lang="en"] { direction: ltr; text-align: left; }
+  .card .sum { font-size: 14px; color: var(--text); opacity: .85; margin: 0 0 4px; }
+  .card .also { font-size: 12px; color: var(--muted); }
+  .card .actions { display: flex; border-top: 1px solid var(--line); margin-top: 8px; }
+  .card .actions button { flex: 1; background: none; border: none; padding: 10px; font-size: 14px; color: var(--muted); }
+  .card .actions button + button { border-inline-start: 1px solid var(--line); }
+  .card .actions button.on { color: var(--accent); font-weight: 700; }
+  .card .actions button.save.on { color: var(--gold); }
+
+  .row { display: flex; gap: 8px; align-items: center; }
+  .chip { background: var(--accent-soft); color: var(--accent); border: none; border-radius: 999px; padding: 7px 12px; font-size: 13px; font-weight: 600; }
+  .chip.ghost { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+  .empty { text-align: center; color: var(--muted); padding: 34px 10px; }
+  .hint { text-align: center; font-size: 12px; color: var(--muted); margin: 14px 0; }
+
+  .panel { background: var(--card); border-radius: 16px; padding: 14px; margin-bottom: 12px; box-shadow: var(--shadow); }
+  .panel h3 { margin: 0 0 10px; font-size: 16px; }
+  .words { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .word { background: var(--red-soft); color: var(--red); border: none; border-radius: 999px; padding: 5px 10px; font-size: 13px; }
+  .toggle { display: flex; align-items: center; justify-content: space-between; padding: 9px 2px; border-bottom: 1px solid var(--line); }
+  .toggle:last-child { border-bottom: none; }
+  .toggle input { width: 22px; height: 22px; }
+  .src { font-size: 13px; padding: 4px 0; display: flex; gap: 6px; }
+  .small { font-size: 12px; color: var(--muted); }
+  .btn { background: var(--accent); color: #fff; border: none; border-radius: 12px; padding: 10px 16px; font-weight: 600; white-space: nowrap; }
+
+  .toast { position: fixed; bottom: calc(env(safe-area-inset-bottom) + 20px); left: 50%; transform: translateX(-50%); background: #1f2a33; color: #fff; padding: 10px 16px; border-radius: 12px; font-size: 14px; z-index: 60; max-width: 90vw; text-align: center; box-shadow: 0 4px 18px rgba(0,0,0,.25); }
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+
+<script>
+'use strict';
+
+/* =====================================================================
+   הדף קורא את feed.json (שנוצר על ידי fetch.py) מאותה תיקייה.
+   "קראתי", "שמור" וההגדרות נשמרים רק בטלפון הזה (localStorage).
+   ===================================================================== */
+const FEED_URL = 'feed.json';
+const LS = { feed: 'nf_feed_v1', read: 'nf_read_v1', saved: 'nf_saved_v1', prefs: 'nf_prefs_v1', seen: 'nf_last_seen' };
+const READ_KEEP_DAYS = 14;
+
+let feed = null;          // { generated_at, tabs, articles, sources, ai }
+let read = {};            // id -> timestamp
+let saved = {};           // id -> article (kept even after it leaves the feed)
+let prefs = { blocked: [], hiddenTabs: [], hideRead: false };
+let view = 'home';        // home | <tab id> | saved | settings
+let loading = false;
+let offline = false;
+
+/* ===================== Utils ===================== */
+const $ = (s, r = document) => r.querySelector(s);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const safeUrl = u => (/^https?:\/\//i.test(String(u || '')) ? String(u) : '');
+const load = (k, def) => { try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? def : v; } catch (_) { return def; } };
+const store = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (_) { toast('אין מקום בזיכרון הטלפון'); } };
+
+function toast(msg, ms = 2400) {
+  const old = $('.toast'); if (old) old.remove();
+  const t = document.createElement('div'); t.className = 'toast'; t.textContent = msg;
+  document.body.appendChild(t); setTimeout(() => t.remove(), ms);
+}
+
+function ago(iso) {
+  const t = Date.parse(iso); if (!t) return '';
+  const m = Math.max(0, Math.round((Date.now() - t) / 60000));
+  if (m < 1) return 'עכשיו';
+  if (m < 60) return `לפני ${m} דק'`;
+  const h = Math.round(m / 60);
+  if (h < 24) return h === 1 ? 'לפני שעה' : h === 2 ? 'לפני שעתיים' : `לפני ${h} שעות`;
+  const d = Math.round(h / 24);
+  return d === 1 ? 'אתמול' : `לפני ${d} ימים`;
+}
+
+const norm = s => String(s || '').toLowerCase().replace(/[״”“]/g, '"').replace(/[׳’‘]/g, "'");
+function isBlocked(a) {
+  if (!prefs.blocked.length) return false;
+  const text = norm(a.title + ' ' + (a.summary || '') + ' ' + (a.ai_summary || ''));
+  return prefs.blocked.some(w => w && text.includes(norm(w)));
+}
+
+const tabInfo = id => (feed && feed.tabs.find(t => t.id === id)) || { id, name: id, emoji: '📰' };
+
+/* ===================== Data ===================== */
+function loadLocal() {
+  feed = load(LS.feed, null);
+  read = load(LS.read, {});
+  saved = load(LS.saved, {});
+  prefs = Object.assign(prefs, load(LS.prefs, {}));
+  const cutoff = Date.now() - READ_KEEP_DAYS * 86400000;
+  for (const id in read) if (read[id] < cutoff) delete read[id];
+}
+
+async function refresh(manual) {
+  if (loading) return;
+  loading = true; render();
+  try {
+    const r = await fetch(FEED_URL + '?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    if (!data || !Array.isArray(data.articles)) throw new Error('bad feed');
+    const isNew = !feed || feed.generated_at !== data.generated_at;
+    feed = data; offline = false;
+    store(LS.feed, feed);
+    if (manual) toast(isNew ? 'עודכן ✓' : 'אין עדכון חדש מאז הסריקה האחרונה');
+  } catch (e) {
+    offline = true;
+    if (manual || !feed) toast(feed ? 'אין חיבור – מוצגת הגרסה האחרונה' : 'לא הצלחתי לטעון את הפיד');
+  } finally {
+    loading = false; render();
+  }
+}
+
+function visibleArticles() {
+  if (!feed) return [];
+  return feed.articles.filter(a => !prefs.hiddenTabs.includes(a.tab) && !isBlocked(a));
+}
+
+/* ===================== Actions ===================== */
+function toggleRead(id) {
+  if (read[id]) delete read[id]; else read[id] = Date.now();
+  store(LS.read, read); render();
+}
+
+function toggleSave(id) {
+  if (saved[id]) { delete saved[id]; toast('הוסר מהשמורים'); }
+  else {
+    const a = feed && feed.articles.find(x => x.id === id);
+    if (!a) return;
+    saved[id] = Object.assign({}, a, { saved_at: Date.now() });
+    toast('נשמר ⭐');
+  }
+  store(LS.saved, saved); render();
+}
+
+function openArticle(id) {
+  if (!read[id]) { read[id] = Date.now(); store(LS.read, read); setTimeout(render, 400); }
+}
+
+function setView(v) { view = v; render(); window.scrollTo(0, 0); }
+
+/* ===================== Rendering ===================== */
+function card(a) {
+  const tab = tabInfo(a.tab);
+  const link = safeUrl(a.link);
+  const img = safeUrl(a.image);
+  const isRead = !!read[a.id];
+  const summary = a.ai_summary || a.summary || '';
+  const lang = a.lang === 'en' ? 'en' : 'he';
+  const badges = [
+    a.important ? '<span class="badge imp">🔴 חשוב</span>' : '',
+    a.top ? `<span class="badge top">⭐ ${a.top} היום</span>` : '',
+    lang === 'en' && !a.ai_summary ? '<span class="badge en">EN</span>' : ''
+  ].join('');
+  return `
+  <article class="card ${isRead ? 'read' : ''}" data-id="${esc(a.id)}">
+    ${img ? `<img class="img" loading="lazy" referrerpolicy="no-referrer" src="${esc(img)}" alt="" data-ph="${esc(tab.emoji)}">`
+          : `<div class="ph">${esc(tab.emoji)}</div>`}
+    <div class="body">
+      <div class="meta">${badges}<span>${esc(a.source)}</span><span>·</span><span>${esc(ago(a.published))}</span>
+        ${view === 'home' || view === 'saved' ? `<span>·</span><span>${esc(tab.emoji)} ${esc(tab.name)}</span>` : ''}</div>
+      <a class="title" lang="${lang}" href="${esc(link)}" target="_blank" rel="noopener noreferrer" data-open="${esc(a.id)}">${esc(a.title)}</a>
+      ${summary ? `<p class="sum">${esc(summary)}</p>` : ''}
+      ${a.also && a.also.length ? `<div class="also">דווח גם ב: ${esc(a.also.join(', '))}</div>` : ''}
+    </div>
+    <div class="actions">
+      <button class="${isRead ? 'on' : ''}" data-read="${esc(a.id)}">${isRead ? '✓ נקרא' : '✓ קראתי'}</button>
+      <button class="save ${saved[a.id] ? 'on' : ''}" data-save="${esc(a.id)}">${saved[a.id] ? '⭐ שמור' : '☆ לשמור'}</button>
+    </div>
+  </article>`;
+}
+
+function list(arts, emptyMsg) {
+  let shown = prefs.hideRead ? arts.filter(a => !read[a.id]) : arts;
+  if (!shown.length) {
+    const hiddenRead = arts.length - shown.length;
+    return `<div class="empty">${hiddenRead ? `קראת הכול 🎉<br><span class="small">(${hiddenRead} כתבות שנקראו מוסתרות)</span>` : emptyMsg}</div>`;
+  }
+  return shown.map(card).join('');
+}
+
+function homeView() {
+  const arts = visibleArticles();
+  const important = arts.filter(a => a.important && !a.quiet);
+  const top = arts.filter(a => a.top).sort((a, b) => a.top - b.top);
+  const lastSeen = load(LS.seen, 0);
+  let html = '';
+  if (important.length) {
+    html += `<div class="strip"><h3>🔴 חשוב עכשיו</h3>${important.slice(0, 5).map(a =>
+      `<a href="${esc(safeUrl(a.link))}" target="_blank" rel="noopener noreferrer" data-open="${esc(a.id)}">${esc(a.title)}</a>`).join('')}</div>`;
+  }
+  if (top.length) {
+    html += `<h2 class="section">⭐ 5 הדברים שכדאי לדעת היום</h2>` + list(top, '');
+  }
+  const fresh = arts.filter(a => !a.top && Date.parse(a.first_seen || a.published) > lastSeen && !a.quiet)
+                    .sort((a, b) => Date.parse(b.first_seen || b.published) - Date.parse(a.first_seen || a.published));
+  const latest = (fresh.length ? fresh : arts.filter(a => !a.top && !a.quiet)).slice(0, 15);
+  html += `<h2 class="section">${fresh.length ? '🆕 חדש מאז הביקור הקודם' : '🕒 האחרונים'}</h2>` + list(latest, 'אין כרגע כתבות');
+  html += `<div class="hint">לכל הכתבות לפי נושא – בחרו טאב למעלה</div>`;
+  return html;
+}
+
+function tabView(id) {
+  const arts = visibleArticles().filter(a => a.tab === id)
+    .sort((a, b) => (!!a.quiet - !!b.quiet) || (!!b.important - !!a.important) ||
+                    (Date.parse(b.published) - Date.parse(a.published)));
+  return list(arts, 'אין כרגע כתבות בנושא הזה');
+}
+
+function savedView() {
+  const arts = Object.values(saved).sort((a, b) => b.saved_at - a.saved_at);
+  if (!arts.length) return '<div class="empty">עוד לא שמרת כלום.<br><span class="small">לחיצה על ☆ לשמור בכרטיס – והכתבה תחכה כאן גם אחרי שתצא מהפיד.</span></div>';
+  return arts.map(card).join('');
+}
+
+function settingsView() {
+  const tabs = (feed && feed.tabs) || [];
+  const srcs = (feed && feed.sources) || [];
+  const bad = srcs.filter(s => !s.ok);
+  const aiInfo = (feed && feed.ai) || {};
+  return `
+  <div class="panel">
+    <h3>🚫 חסימת מילים (בטלפון הזה)</h3>
+    <div class="row"><input id="newWord" placeholder="למשל: האח הגדול" maxlength="40"><button class="btn" id="addWord">חסימה</button></div>
+    <div class="words">${prefs.blocked.map((w, i) => `<button class="word" data-unblock="${i}">${esc(w)} ✕</button>`).join('') || '<span class="small">אין מילים חסומות. כתבות עם מילה חסומה מוסתרות מיד.</span>'}</div>
+    <p class="small">רשימת החסימה הקבועה (לכל הסריקות) נמצאת בקובץ config.yaml ב-GitHub.</p>
+  </div>
+  <div class="panel">
+    <h3>👁 טאבים</h3>
+    ${tabs.map(t => `<label class="toggle"><span>${esc(t.emoji)} ${esc(t.name)}</span><input type="checkbox" data-tabtoggle="${esc(t.id)}" ${prefs.hiddenTabs.includes(t.id) ? '' : 'checked'}></label>`).join('')}
+    <label class="toggle"><span>להסתיר כתבות שקראתי</span><input type="checkbox" id="hideRead" ${prefs.hideRead ? 'checked' : ''}></label>
+  </div>
+  <div class="panel">
+    <h3>📡 מצב הסריקה</h3>
+    <div class="src">🕒 סריקה אחרונה: ${feed ? esc(new Date(feed.generated_at).toLocaleString('he-IL', { dateStyle: 'short', timeStyle: 'short' })) : '—'}</div>
+    <div class="src">${aiInfo.used ? '🤖 AI פעיל: סינון וסיכומים' : '🤖 AI לא פעל בסריקה האחרונה' + (aiInfo.reason ? ` <span class="small">(${esc(aiInfo.reason)})</span>` : '')}</div>
+    <div class="src">✓ ${srcs.length - bad.length} מתוך ${srcs.length} מקורות עובדים</div>
+    ${bad.map(s => `<div class="src small">✗ ${esc(tabInfo(s.tab).emoji)} ${esc(s.name)}</div>`).join('')}
+  </div>
+  <div class="panel">
+    <h3>🧹 ניקוי</h3>
+    <div class="row"><button class="chip ghost" id="clearRead">איפוס "קראתי"</button><button class="chip ghost" id="clearSaved">מחיקת כל השמורים</button></div>
+  </div>`;
+}
+
+function render() {
+  const app = $('#app');
+  const arts = visibleArticles();
+  const unread = id => arts.filter(a => a.tab === id && !read[a.id]).length;
+  const tabs = ((feed && feed.tabs) || []).filter(t => !prefs.hiddenTabs.includes(t.id));
+  if (view !== 'home' && view !== 'saved' && view !== 'settings' && !tabs.some(t => t.id === view)) view = 'home';
+
+  const status = loading ? 'מעדכן…' : offline ? '📴 בלי חיבור · ' + (feed ? ago(feed.generated_at) : '') :
+                 feed ? 'עודכן ' + ago(feed.generated_at) : '';
+  let body;
+  if (!feed) body = loading ? '<div class="empty">טוען…</div>' : '<div class="empty">לא הצלחתי לטעון את הפיד.<br><span class="small">בדקו חיבור ונסו 🔄</span></div>';
+  else if (view === 'home') body = homeView();
+  else if (view === 'saved') body = savedView();
+  else if (view === 'settings') body = settingsView();
+  else body = tabView(view);
+
+  app.innerHTML = `
+    <header>
+      <h1>${view === 'settings' ? '⚙️ הגדרות' : '🗞️ מה קורה'}<span class="sub">${esc(status)}</span></h1>
+      <button class="iconbtn ${loading ? 'spin' : ''}" id="refresh" aria-label="רענון">🔄</button>
+      <button class="iconbtn" id="settings" aria-label="הגדרות">${view === 'settings' ? '✕' : '⚙️'}</button>
+    </header>
+    ${view === 'settings' ? '' : `<nav class="tabs">
+      <button class="tab ${view === 'home' ? 'on' : ''}" data-view="home">🏠 ראשי</button>
+      ${tabs.map(t => { const n = unread(t.id); return `<button class="tab ${view === t.id ? 'on' : ''}" data-view="${esc(t.id)}">${esc(t.emoji)} ${esc(t.name)}${n ? `<span class="n">${n}</span>` : ''}</button>`; }).join('')}
+      <button class="tab ${view === 'saved' ? 'on' : ''}" data-view="saved">⭐ שמורים${Object.keys(saved).length ? `<span class="n">${Object.keys(saved).length}</span>` : ''}</button>
+    </nav>`}
+    ${body}`;
+}
+
+/* ===================== Events (delegated) ===================== */
+document.addEventListener('click', e => {
+  const t = e.target.closest('button, a, input');
+  if (!t) return;
+  const d = t.dataset;
+  if (d.view) return setView(d.view);
+  if (d.read) return toggleRead(d.read);
+  if (d.save) return toggleSave(d.save);
+  if (d.open) return openArticle(d.open);
+  if (d.unblock != null) { prefs.blocked.splice(+d.unblock, 1); store(LS.prefs, prefs); return render(); }
+  if (d.tabtoggle) {
+    const id = d.tabtoggle;
+    prefs.hiddenTabs = t.checked ? prefs.hiddenTabs.filter(x => x !== id) : prefs.hiddenTabs.concat(id);
+    store(LS.prefs, prefs); return render();
+  }
+  switch (t.id) {
+    case 'refresh': return refresh(true);
+    case 'settings': return setView(view === 'settings' ? 'home' : 'settings');
+    case 'hideRead': prefs.hideRead = t.checked; store(LS.prefs, prefs); return render();
+    case 'addWord': return addWord();
+    case 'clearRead': if (confirm('לאפס את כל הסימונים "קראתי"?')) { read = {}; store(LS.read, read); render(); } return;
+    case 'clearSaved': if (confirm('למחוק את כל השמורים?')) { saved = {}; store(LS.saved, saved); render(); } return;
+  }
+});
+
+document.addEventListener('keydown', e => { if (e.key === 'Enter' && e.target.id === 'newWord') addWord(); });
+
+function addWord() {
+  const inp = $('#newWord'); const w = (inp && inp.value || '').trim();
+  if (!w) return;
+  if (!prefs.blocked.some(x => norm(x) === norm(w))) prefs.blocked.push(w);
+  store(LS.prefs, prefs); render(); toast(`"${w}" נחסם`);
+}
+
+// broken image -> topic emoji placeholder
+document.addEventListener('error', e => {
+  const img = e.target;
+  if (img.tagName !== 'IMG' || !img.classList.contains('img')) return;
+  const ph = document.createElement('div'); ph.className = 'ph'; ph.textContent = img.dataset.ph || '📰';
+  img.replaceWith(ph);
+}, true);
+
+// remember when the user last looked, for "new since last visit"
+function markSeen() { if (feed) store(LS.seen, Date.now()); }
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) markSeen();
+  else if (feed && Date.now() - Date.parse(feed.generated_at) > 30 * 60000) refresh(false);
+});
+window.addEventListener('pagehide', markSeen);
+
+/* ===================== Night mode + icon ===================== */
+function applyNight() {
+  const h = new Date().getHours();
+  const dark = (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) || h >= 21 || h < 6;
+  document.body.classList.toggle('night', dark);
+}
+
+function makeIcon() {
+  try {
+    const c = document.createElement('canvas'); c.width = c.height = 180;
+    const g = c.getContext('2d'); if (!g) return;
+    g.fillStyle = '#2b5d8a'; g.fillRect(0, 0, 180, 180);
+    g.font = '110px serif'; g.textAlign = 'center'; g.textBaseline = 'middle';
+    g.fillText('🗞️', 90, 98);
+    const url = c.toDataURL('image/png');
+    $('#appleIcon').href = url; $('#favIcon').href = url;
+  } catch (_) { /* ignore */ }
+}
+
+/* ===================== Boot ===================== */
+loadLocal();
+applyNight();
+makeIcon();
+render();
+refresh(false);
+setInterval(applyNight, 10 * 60000);
+</script>
+</body>
+</html>

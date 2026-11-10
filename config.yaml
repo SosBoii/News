@@ -1,0 +1,293 @@
+# =====================================================================
+#  הגדרות הפיד האישי
+#  אפשר לערוך את הקובץ הזה ישירות מהאתר של GitHub (גם מהטלפון).
+#  השינוי ייכנס בסריקה הבאה.
+#
+#  כללי כתיבה:
+#   - רשימה = שורות שמתחילות ב"- ".
+#   - טקסט עם נקודתיים או סימנים מיוחדים – בתוך מירכאות "...".
+#   - הזחה (רווחים בתחילת שורה) חשובה – שומרים על אותה הזחה כמו בשורה שמעל.
+# =====================================================================
+
+settings:
+  max_age_hours: 72          # כתבות ישנות יותר נמחקות מהפיד
+  per_source: 3              # כמה כתבות לכל היותר מכל מקור בכל טאב (ברירת מחדל)
+  similarity: 0.45           # כמה כותרות צריכות להיות דומות כדי להיחשב אותו אירוע (0–1)
+  fetch_images: true         # לנסות לשלוף תמונה מהכתבה כשאין בהזנה
+  max_image_fetches: 60      # מקסימום כתבות שנפתחות לשליפת תמונה בכל סריקה
+  google_window: "when:2d"   # מוסיף לכל חיפוש Google News – רק כתבות מהיומיים האחרונים
+  ai_pool_factor: 2          # עם AI: שולחים לו פי 2 מה-max של כל טאב, וחותכים אחרי שהוא מסיר פוליטיקה
+
+# ---------------------------------------------------------------------
+#  סינון לפי מילים (בודק כותרת + תקציר; לא משנה אם יש ב/ה/ו/ל לפני המילה)
+# ---------------------------------------------------------------------
+keywords:
+  # 🚫 כתבה עם אחת מהמילים האלה לא נכנסת
+  #    (אלא אם ה-AI קבע שהיא "חשובה מאוד")
+  block:
+    - קואליציה
+    - אופוזיציה
+    - ח"כ
+    - חבר הכנסת
+    - חברת הכנסת
+    - הליכוד
+    - יש עתיד
+    - ש"ס
+    - יהדות התורה
+    - המחנה הממלכתי
+    - הצבעה במליאה
+    - ועדת הכנסת
+    - רפורמה משפטית
+    - היועמ"שית
+    - הפגנה נגד הממשלה
+    - Democrats
+    - Republicans
+    - Congress vote
+    - Senate vote
+
+  # ✅ כתבה עם אחת מהמילים האלה עוקפת את רשימת החסימה
+  #    (ה-AI עדיין יכול להוריד אותה אם היא פוליטיקה פנימית)
+  allow:
+    - טראמפ הודיע
+    - Trump announces
+    - Truth Social
+    - מכסים
+    - tariffs
+
+  # 🔇 כתבה עם אחת מהמילים האלה יורדת לסוף הטאב ולא נכנסת ל"5 הדברים"
+  quiet:
+    - כדורגל
+    - כדורסל
+    - רכילות
+    - ריאליטי
+    - celebrity
+
+# ---------------------------------------------------------------------
+#  AI (Gemini) – סינון חכם, סיכום בעברית, וסימון 🔴 חשוב.
+#  🔴 נקבע רק כאן. בלי מפתח (GEMINI_API_KEY) – אין 🔴 ואין סיכומים,
+#  והפיד עובד עם סינון מילים בלבד.
+# ---------------------------------------------------------------------
+ai:
+  enabled: true
+  # נבדקים לפי הסדר: אם מודל עמוס, הוצא משימוש, או שהמכסה שלו נגמרה, עוברים לבא.
+  # "-latest" תמיד מצביע על המודל העדכני של Google, ככה שלא צריך לעדכן כשמודל יוצא משימוש.
+  # רשימה ארוכה בכוונה: Gemini החינמי עמוס לעיתים קרובות, וכל מודל עמוס בזמנים אחרים.
+  # מודל שלא קיים יותר פשוט מדלגים עליו.
+  models:
+    - gemini-flash-latest
+    - gemini-3.6-flash
+    - gemini-3.5-flash
+    - gemini-flash-lite-latest
+    - gemini-3.5-flash-lite
+    - gemini-3-flash-preview
+  instructions: |
+    המשתמש לא רוצה פוליטיקה. בספק – להסיר.
+
+    להסיר (keep=false):
+    - פוליטיקה פנימית בישראל או בארה"ב: מפלגות, פוליטיקאים, מריבות, הצבעות, קואליציה.
+    - כל מה שקשור לבחירות, חוץ מהחריג בהמשך: מי מתמודד ומי פורש, רשימות, פריימריז,
+      סקרים, קמפיינים, תשדירים, מעברים בין מפלגות, תמיכה של מנהיג זר במועמד.
+    - חקירות, כתבי אישום ומשפטים של פוליטיקאים או של אנשים מסביבם (יועצים, עוזרים).
+    - טורי דעה ופרשנות פוליטית.
+    - חדשות תקשורת על פוליטיקה (מה אמרו בערוץ X על פוליטיקאי Y).
+
+    חריג לבחירות (להשאיר): רק מועד הבחירות עצמו, התוצאות הסופיות, והקמת ממשלה חדשה.
+
+    להשאיר (keep=true):
+    - החלטות ואמירות של מנהיגים בעולם שמשפיעות על העולם: טראמפ (מכסים, הסכמים,
+      מלחמה ושלום, הכרזות כלכליות), סין, רוסיה, אירופה.
+    - ביטחון, מלחמה, פיגועים, אסונות, תאונות קשות.
+    - כלכלה ויוקר המחיה, מסים, ריבית, מחירים, תחבורה – גם אם הממשלה מעורבת.
+    - מדע, טכנולוגיה, בריאות, תרבות, ספורט, סיפורים מעניינים.
+
+    important=true (🔴) – כמעט אף פעם. בערך 0–2 מכל הרשימה. בספק – false.
+    🔴 רק אם זה **כבר קרה** (לא אזהרה, תכנית, הצהרה, תחזית או "ייתכן"), וגם אחד מאלה:
+    - פיגוע, מתקפה או מלחמה עם הרוגים, או הסלמה ממשית שמשפיעה על ישראל.
+    - אסון או אסון טבע עם עשרות נפגעים ומעלה.
+    - הנחיה או החלטה שכבר בתוקף, או נכנסת לתוקף בימים הקרובים, ומשנה את היומיום
+      של רוב האנשים בישראל (הנחיות פיקוד העורף, סגירת שמיים, עליית מחיר חדה שכבר אושרה).
+    דוגמאות שהן **לא** 🔴:
+    - "נצטרך לבטל את שטר ה-200" (תכנית או הצהרה, לא החלטה בתוקף).
+    - "ארה"ב הזהירה ש..." (אזהרה).
+    - סקר, מחקר או נתונים מדאיגים (למשל רופאים שהיגרו).
+    - דליפה במפעל, תאונה בודדת, אירוע מקומי.
+
+    summary: משפט אחד בעברית פשוטה – מה קרה ולמה זה משנה.
+
+# ---------------------------------------------------------------------
+#  טאבים ומקורות
+#   max        = כמה כתבות חדשות לכל היותר נכנסות לטאב בכל סריקה
+#   per_source = (לא חובה) תקרה לכל מקור בטאב הזה
+#
+#  מקור יכול להיות:
+#   url:    כתובת RSS של אתר (עם תמונות – הכי טוב)
+#   bing:   חיפוש ב-Bing News (עם תמונות; עובד טוב באנגלית בלבד)
+#   google: חיפוש ב-Google News (בלי תמונות – משמש כגיבוי)
+#   אפשר לתת כמה – הראשון שמחזיר כתבות מנצח (בסדר: url ← bing ← google).
+#   lang: en  = מקור באנגלית (ברירת המחדל: עברית)
+# ---------------------------------------------------------------------
+tabs:
+  - id: israel
+    name: בארץ
+    emoji: "🇮🇱"
+    max: 12
+    per_source: 3
+    sources:
+      - name: ynet
+        url: https://www.ynet.co.il/Integration/StoryRss2.xml
+        google: "site:ynet.co.il"
+      - name: וואלה
+        url: https://rss.walla.co.il/feed/22      # מבזקים – עם תמונות (feed/1 בלי תמונות)
+        google: "site:news.walla.co.il"
+      - name: מעריב
+        url: https://www.maariv.co.il/Rss/RssChadashot
+        google: "site:maariv.co.il"
+      - name: N12
+        url: https://rcs.mako.co.il/rss/news-israel.xml
+        google: "site:n12.co.il OR site:mako.co.il"
+      - name: כאן חדשות
+        google: "site:kan.org.il"
+      - name: Times of Israel
+        url: https://www.timesofisrael.com/feed/
+        lang: en
+
+  - id: world
+    name: עולם
+    emoji: "🌍"
+    max: 10
+    sources:
+      - name: BBC
+        url: https://feeds.bbci.co.uk/news/world/rss.xml
+        lang: en
+      - name: וואלה עולם
+        url: https://rss.walla.co.il/feed/2
+      - name: The Guardian
+        url: https://www.theguardian.com/world/rss   # עם תמונות (Bing לא מחזיר כלום לחיפוש כללי כמו "world news")
+        google: "site:theguardian.com world"
+        lang: en
+
+  - id: trump
+    name: טראמפ והעולם
+    emoji: "🇺🇸"
+    max: 6
+    sources:
+      - name: Bing News
+        bing: "Trump announces"
+        google: "Trump announces OR \"Truth Social\" Trump"
+        lang: en
+      - name: Bing News
+        bing: "Trump Truth Social post"
+        lang: en
+      - name: Google News
+        google: "טראמפ הודיע OR טראמפ הכריז"
+
+  - id: economy
+    name: כלכלה וכסף
+    emoji: "💰"
+    max: 8
+    sources:
+      - name: גלובס
+        url: https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2
+        google: "site:globes.co.il"
+      - name: ynet כלכלה
+        url: https://www.ynet.co.il/Integration/StoryRss6.xml
+      - name: וואלה כסף
+        url: https://rss.walla.co.il/feed/3
+      - name: ynet צרכנות
+        url: https://www.ynet.co.il/Integration/StoryRss5363.xml
+      - name: Bing News
+        bing: "stock market"
+        google: "stock market"
+        lang: en
+
+  - id: tech
+    name: טכנולוגיה ו-AI
+    emoji: "💻"
+    max: 8
+    sources:
+      - name: גיקטיים
+        url: https://www.geektime.co.il/feed/
+        google: "site:geektime.co.il"
+      - name: ynet דיגיטל
+        url: https://www.ynet.co.il/Integration/StoryRss544.xml
+      - name: וואלה טכנולוגיה
+        url: https://rss.walla.co.il/feed/4
+      - name: Bing News
+        bing: "artificial intelligence"
+        google: "artificial intelligence"
+        lang: en
+
+  - id: science
+    name: מדע וחלל
+    emoji: "🚀"
+    max: 6
+    sources:
+      - name: BBC
+        url: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+        lang: en
+      - name: Bing News
+        bing: "NASA space discovery"
+        google: "NASA OR SpaceX"
+        lang: en
+      - name: Bing News
+        bing: "scientists discover"
+        lang: en
+
+  - id: health
+    name: בריאות
+    emoji: "🩺"
+    max: 5
+    sources:
+      - name: ynet בריאות
+        url: https://www.ynet.co.il/Integration/StoryRss1208.xml
+        google: "מחקר בריאות"
+      - name: וואלה בריאות
+        url: https://rss.walla.co.il/feed/18
+      - name: Bing News
+        bing: "health study finds"
+        google: "health study"
+        lang: en
+
+  - id: culture
+    name: טיולים ותרבות
+    emoji: "✈️"
+    max: 5
+    sources:
+      - name: ynet תרבות
+        url: https://www.ynet.co.il/Integration/StoryRss538.xml
+        google: "סרטים חדשים OR הופעות בישראל"
+      - name: ynet מגזין
+        url: https://www.ynet.co.il/Integration/StoryRss545.xml
+      - name: Bing News
+        bing: "travel news"
+        lang: en
+
+  - id: weird
+    name: מעניין / מוזר
+    emoji: "💡"
+    max: 6
+    sources:
+      - name: Bing News
+        bing: "weird news"
+        google: "weird news OR amazing discovery"
+        lang: en
+      - name: ynet בעלי חיים
+        url: https://www.ynet.co.il/Integration/StoryRss4880.xml
+      - name: Bing News
+        bing: "amazing discovery"
+        google: "amazing discovery OR bizarre"
+        lang: en
+
+  - id: sports
+    name: ספורט
+    emoji: "⚽"
+    max: 3
+    sources:
+      - name: ynet ספורט
+        url: https://www.ynet.co.il/Integration/StoryRss3.xml
+        google: "כדורגל OR כדורסל OR ליגת העל"
+      - name: וואלה ספורט
+        url: https://rss.walla.co.il/feed/7
+      - name: Bing News
+        bing: "NBA"
+        lang: en
