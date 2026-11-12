@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T12:10:26+00:00",
+ "generated_at": "2026-11-12T21:40:27+00:00",
  "tabs": [
   {
    "id": "israel",
@@ -54,6 +54,1073 @@
  ],
  "articles": [
   {
+   "id": "ee4aa934cf58",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "תקלה ברכבלית בחיפה: כ-16 נוסעים תקועים בגובה יותר משעה",
+   "summary": "כ-16 נוסעים תקועים היום (חמישי) במשך יותר משעה ברכבלית בחיפה בעקבות תקלה טכנית. האירוע עדיין מתרחש, וצוותי כבאות והצלה נמצאים במקום וערוכים לחילוץ הנוסעים. מהגורמים המטפלים נמסר כי מדובר ב\"תקלה טכנית ללא סכנה לציבור הנוסעים והיא מטופלת\".",
+   "link": "https://www.walla.co.il/news/breaking-news/383961230",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-12T17:31:29+00:00",
+   "quiet": false,
+   "also": [
+    "ynet",
+    "N12",
+    "מעריב"
+   ],
+   "feeds": [
+    "israel:1",
+    "israel:0",
+    "israel:3",
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 4,
+   "ai_summary": "תקלה טכנית ברכבלית בחיפה הותירה כ-16 נוסעים תקועים בגובה למעלה משעה, ללא נפגעים.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "4f02fa42611b",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "מנכ\"ל אנבידיה ג'נסן הואנג התפטר מתפקידו",
+   "summary": "על פי הדיווח, ג'נסן הואנג, המנכ\"ל והמייסד השותף של ענקית השבבים האמריקנית אנבידיה (Nvidia), התפטר היום (חמישי) מתפקידו. הואנג עומד בראש החברה מאז הקמתה ב-1993, והוביל את צמיחתה לאחת החברות המרכזיות בעולם בתחום השבבים והבינה המלאכותית.",
+   "link": "https://www.walla.co.il/news/breaking-news/383961201",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-12T13:54:34+00:00",
+   "quiet": false,
+   "also": [
+    "כאן 11"
+   ],
+   "feeds": [
+    "israel:1",
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "מנכ״ל ומייסד אנבידיה, ג׳נסן הואנג, התפטר מתפקידו בעקבות פרשות אישיות שנחשפו.",
+   "score": 4,
+   "top": 1,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "a31b453da58b",
+   "tab": "israel",
+   "feed": "israel:4",
+   "title": "נחתם הסכם לרכישת השליטה בארקיע",
+   "summary": "פרטים בהמשך",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xX3lKX2pPbk1uQzA3cGFIUlZJLVEwaWhiaWJ4NnFEZk9sNjE4WmI1am4xMFpmSTJsZEZFdUc5Q3k1cXNKSnRDajVmUi1MTEpyVE5kcWZqa1gyRUJZY05OS2liVVI?oc=5",
+   "source": "כאן 11",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-12T13:11:54+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה"
+   ],
+   "feeds": [
+    "israel:4",
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "נחתם הסכם לרכישת השליטה בחברת התעופה ארקיע.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "ed41e56a57f3",
+   "tab": "israel",
+   "feed": "israel:4",
+   "title": "דיווח: חייל בכיר בצבא ארה\"ב נעצר בבריטניה בחשד לריגול למען רוסיה",
+   "summary": "סגן אלוף ברנדון טיינר, קצין בצבא ארה\"ב שהוצב במפקדת התגובה המהירה של נאט\"ו בבריטניה, הוא הקצין שנעצר ביום שלישי סמוך לגלוסטר בחשד לריגול למען רוסיה, כך דיווח הערב (חמישי) הוול סטריט ג'ורנל מפי גורמים אמריקניים המעורים בחקירה. לפי הדיווח, טיינר שוחח עם נציגי הרשויות הבריטיות במסגרת מבצע עוקץ, מבלי שידע את זהותם האמיתית. מניעיו טרם התבררו.",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82Zjg0eF9VWDVQYTNQVGh1akpOSWd6ZWVSZ0xkRWc0VzVzaHd6TFpZd2RpRVlTakZVYm5USnpoZGZLbjlqXy0teU1wZ0huTnRqNU5iM294MVRDeDBDUjhRTlRDTlVnZw?oc=5",
+   "source": "כאן 11",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-10T22:23:43+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה"
+   ],
+   "feeds": [
+    "israel:4",
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "קצין בכיר בצבא ארה״ב נעצר בבריטניה בחשד שריגל לטובת רוסיה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "a8dfbea46744",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "\"המלחמה תחודש מיד\": איום פוטין מול שליחי טראמפ - שהבטיחו \"שינוי אירופי גדול\"",
+   "summary": "אחרי סבב שיחות ישיר ראשון זה 9 חודשים בין קייב למוסקבה באבו דאבי, נפגשו וויטקוף וקושנר עם נשיא רוסיה פוטין, וטענו שסוכם כי אירופה תצטרף לשיחות - שעוסקות גם במערך הביטחוני של נאט\"ו. מהקרמלין הם טסו הישר לאירלנד כדי להיפגש שם עם זלנסקי - שטוען ששוב הוטלו הגבלות על השימוש הצבאי ברשת התקשורת הלוויינית סטרלינק: \"הגישה האמריקנית מוזרה\". פוטין בינתיים מאיים וממשיך לדרוש נסיגה, ומי חיסל עוד קצין רוסי בכיר",
+   "link": "https://www.ynet.co.il/news/article/r13kay7cgg",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/Syeu9isQAGg/Syeu9isQAGg_0_0_850_479_0_medium.jpg",
+   "published": "2026-11-12T21:34:32+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "שליחי טראמפ נפגשו עם פוטין וזלנסקי לקידום שיחות שלום ומערך ביטחוני חדש בהשתתפות אירופה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "ba3c07f859c6",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "טראמפ מאיים בתקיפה נוספת באיראן: \"ייתכן שאעשה זאת כבר עכשיו\"",
+   "summary": "נשיא ארצות הברית דונלד טראמפ איים היום (חמישי) בחידוש התקיפות הצבאיות נגד איראן, בריאיון לערוץ Salem News Channel. כשנשאל אם יהסס להשתמש בכוח צבאי כדי למנוע מאיראן לאיים על בעלות בריתה של ארה\"ב ועל כלי שיט אמריקניים, השיב: \"לא, ללא היסוס\". טראמפ טען כי ארה\"ב שולטת במפרץ הפרסי ובמצר הורמוז, וכי הסגר שהטילה על איראן פוגע קשות בכלכלתה. \"אם הייתי רואה שהדברים מתפתחים בכיוון ההפוך, הייתי עושה זאת. ויית",
+   "link": "https://www.walla.co.il/news/breaking-news/383961254",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-12T20:57:25+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "הנשיא טראמפ אייל בחידוש התקיפות הצבאיות נגד איראן אם תמשיך לאיים על בעלות בריתה של ארה״ב.",
+   "score": 4,
+   "top": 2,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "214c248221a2",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "האיסור על כניסת המנהיג הקיצוני לישראל, והגינוי בצרפת: \"החלטה דמגוגית\"",
+   "summary": "\"ההחלטה משחקת לידיהם של אלו שמשגשגים מניצול הסכסוך הישראלי-פלסטיני\", טען שר החוץ הצרפתי, אחרי ששר החוץ והפנים סער החליט לאסור את כניסתו לארץ של ז'אן-לוק מלנשון \"לנוכח מדיניות אנטי-ישראלית\". הוא הגיב: \"נאסר עליי להיכנס למקום שלא התכוונתי לבקר בו\"",
+   "link": "https://www.ynet.co.il/news/article/s1af1om0fx",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/02/14/rJDdftcsa/rJDdftcsa_0_0_850_479_0_medium.jpg",
+   "published": "2026-11-12T20:45:55+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "שר הפנים והחוץ אסר את כניסתו לישראל של פוליטיקאי צרפתי בשל עמדותיו, דבר שעורר גינוי בצרפת.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "bc357dab67f4",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "נחשפו הרומן השלישי של מנכ\"ל אנבידיה - והמניות הסיניות שהחזיקה \"המרגלת\"",
+   "summary": "ג'נסן הואנג שהתפטר מתפקידו בחברת הענק ניהל רומן עם עובדת נוספת. לנעליים הגדולות שלו נכנסה קולט קרס, שצברה מניות בשווי 750 מיליון דולר של ענקית השבבים - אבל לא בטוח שתישאר. במשרד המשפטים האמריקני לא בטוחים אם אליס הואנס הייתה מרגלת, דיווח: זה הקשר בינה למתחרה מספר 1 של אנבידיה",
+   "link": "https://www.ynet.co.il/news/article/rjzv7qqcml",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/B1xQyjQAMe/B1xQyjQAMe_0_0_850_479_0_medium.jpg",
+   "published": "2026-11-12T19:31:48+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "פרטים חדשים על התפטרות מנכ״ל אנבידיה והחלפתו הזמנית בזמן שרשויות חוק בודקות את הקשרים שנחשפו.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "7c704406af4c",
+   "tab": "israel",
+   "feed": "israel:4",
+   "title": "דיווחים באיראן על תקיפה במחוז הורמוזגאן שבדרום המדינה",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGV0UF9Xb1p3SlZZYjdjU011T3pDX2ZteTdfdE1kUndwZUxwMWM0WGFOMktnekd0TWdJazMtMkk0X1pTSU9pNUVGN3QtWVl0Ylh3V0FCNFQxLUhBMzl6Tzg3Wkl6dVdQOWh6bjdIc21TclhyRjZIb0JCeGtHb0RHZjdB?oc=5",
+   "source": "כאן 11",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-12T19:27:38+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "דווח על תקיפה במחוז הורמוזגאן שבדרום איראן.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "8938b7f06c4f",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "\"פצצה מתקתקת\": מטוסי חיל האוויר חיסלו תוך 2 דקות את המחבל הבכיר",
+   "summary": "שבועות של כוננות, שני טילים מדויקים ועשר דקות מהאות של השב״כ: חיל האוויר תקף את המפקדה בקומה השלישית של בית החולים נאצר, בניסיון להימנע מפגיעה בקומות שמתחתיה",
+   "link": "https://www.maariv.co.il/news/military/article-1387917",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1145347",
+   "published": "2026-11-12T18:58:35+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חיל האוויר חיסל מחבל בכיר במסגרת פעולה ממוקדת.",
+   "score": 4,
+   "top": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "6a5d9946b7dc",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "התפכחות בוושינגטון: טראמפ מאותת על שינוי דרמטי מול איראן | עמית יגור",
+   "summary": "טראמפ הודיע כי ארה\"ב אינה זקוקה עוד להסכם עם איראן והטיל על סגנו ואנס להתמקד בענייני פנים. המהלך, לצד המתיחות עם טורקיה וקטאר, עשוי להעיד על סיום הניסיונות להגיע להסכם ועל מעבר למדיניות תקיפה יותר",
+   "link": "https://www.maariv.co.il/news/opinions/article-1387902",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1151954",
+   "published": "2026-11-12T18:03:54+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ממשל טראמפ מאותת על שינוי מדיניות והפסקת הניסיונות להגיע להסכם עם איראן.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "2f056bf8a423",
+   "tab": "world",
+   "feed": "world:3",
+   "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
+   "summary": "Authorities identify suspect as Matt Wade Lambert, 55, who was a member at the VIDA Fitness gym where people were shot Washington DC shooting latest updates Four people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said. In a Thursday afternoon press conference, law enforcement identified the suspect as 55-year-old Matt Wade Lambert,",
+   "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
+   "published": "2026-11-12T21:23:15+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:3"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "אדם אחד נרצח וארבעה נפצעו באירוע ירי בוושינגטון די.סי, והחשוד שם קץ לחייו.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "bee007a93fb5",
+   "tab": "world",
+   "feed": "world:3",
+   "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+   "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding ",
+   "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+   "published": "2026-11-12T21:17:36+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:3"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "בעקבות התפטרות מנכ״ל אנבידיה והשערוריות סביבו, שווי החברה ירד משמעותית וסגן נשיא מונה כממלא מקום.",
+   "score": 4,
+   "top": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "388c180a1aec",
+   "tab": "world",
+   "feed": "world:3",
+   "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+   "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting issues accessing its 365 suite of software, including Outlook and Teams. Outage website Down Detector showed a spike in Microsoft 365 problems,",
+   "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+   "published": "2026-11-12T21:14:11+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:3"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "תקלה עולמית בשרתי מיקרוסופט שיבשה את הגישה לשירותים שונים עבור מאות אלפי משתמשים בעולם.",
+   "score": 4,
+   "top": 5,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "e264e53e674a",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
+   "published": "2026-11-12T20:09:16+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ספינת מלחמה רוסית נפגעה כתוצאה מפגיעת רחפן אוקראיני בים הבלטי.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "3cd65fbffe40",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "\"יהרגו אותי כי אני טרנסג'נדר\": קיבל מקלט בארה\"ב - וניסה לפרוץ לתא הטייס בטיסת יונייטד איירליינס",
+   "summary": "רוני אלכסנדר גומס-אלברטו, אזרח הונדורס, קיבל מקלט בארה\"ב אחרי שכבר גורש ממנה פעמיים בעבר לאחר שהעביר לשלטונות בקשה בשל חשש לחייו במדינתו, עמד מאחורי האירוע מעורר הבהלה בטיסה ואף טען שיש ברשותו פצצה. השר האמריקאי תקף: \"העבריין הזה, שגורש פעמיים, הורשה להיכנס לארצנו בגלל מערכת מקלט חלשה שאפשרה לו לנצל אותה\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-12aa633c890d1a1027.htm",
+   "source": "N12 עולם",
+   "lang": "he",
+   "image": "https://img.mako.co.il/2026/11/12/RONY_autoOrient_a.jpg",
+   "published": "2026-11-12T16:29:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "אזרח הונדורס שקיבל מקלט בארה״ב ניסה לפרוץ לתא הטייס בטיסה ואיים שיש ברשותו פצצה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "fa252ed32a05",
+   "tab": "trump",
+   "feed": "trump:0",
+   "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+   "summary": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
+   "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+   "source": "The New York Times",
+   "lang": "en",
+   "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-videoSixteenByNine3000.jpg",
+   "published": "2026-11-12T06:36:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:0",
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "טראמפ הודיע כי הוא מוותר על עסקה עם איראן ומורה לסגן הנשיא להפסיק את המגעים.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00",
+   "image_tried": true
+  },
+  {
+   "id": "54d8c4d861bd",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "Trump says Vance should focus on domestic corruption, 'we don't need a deal with Iran'",
+   "summary": "WASHINGTON, Nov 12 (Reuters) - President Donald Trump said on Thursday he wanted Vice President JD Vance to focus \"his complete and total attention\" on any crime and corruption in Democratic-run US ...",
+   "link": "https://www.msn.com/en-us/news/other/trump-says-vance-should-focus-on-domestic-corruption-we-don-t-need-a-deal-with-iran/ar-AA2hi5Zt",
+   "source": "Reuters on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.lKjgj2iCqbvxkUoAj3lmUg&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T05:41:12+00:00",
+   "quiet": false,
+   "also": [
+    "Yahoo"
+   ],
+   "feeds": [
+    "trump:2",
+    "trump:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "טראמפ הורה לוואנס להתמקד בחקירת פשיעה ושחיתות פנימית והצהיר שאין צורך בהסכם עם איראן.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "1f9db434af81",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "גם רוביו והגסת': בכירים בממשל טראמפ הועברו לבסיסים צבאיים מחשש לפגיעה איראנית",
+   "summary": "התובע הכללי טוד בלאנש מתגורר במתקן צבאי על מנת לשמור על ביטחונו, כך דיווחה רשת החדשות האמריקנית \"פוקס ניוז\" • מוקדם יותר השבוע פורסם כי מזכיר האוצר האמריקני, סקוט בסנט, העובר לבסיס צבאי ...",
+   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21842796",
+   "source": "ישראל היום",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.y_Mfr8DT8ireJXE6Wu--qA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T12:08:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "בכירים בממשל טראמפ הועברו לבסיסים צבאיים עקב חשש מפגיעה איראנית.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "c4c9dca67a28",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "מועצת השלום של טראמפ מגנה את ישראל בעקבות התקיפה בעזה",
+   "summary": "אחרי התקיפה בחאן יונס: מועצת השלום שהקים טראמפ לפיקוח על עתיד רצועת עזה פרסמה הודעת גינוי בעקבות הפגיעה באזרחים בתקיפת צה\"ל, שבה הותקף מח\"ט חאן יונס של חמאס ...",
+   "link": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%9E%D7%93%D7%99%D7%A0%D7%99/1236236-0/",
+   "source": "כיפה",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.q2YCWN10tSlwValbE_pkgA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T10:52:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מועצת השלום שהקים טראמפ גינתה את ישראל בעקבות תקיפה בעזה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "af8ff9fcb2c8",
+   "tab": "trump",
+   "feed": "trump:2",
+   "title": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia",
+   "summary": "Nov 12 (Reuters) - US President Donald Trump said on Thursday that former Apple Inc Chief Executive Tim Cook should replace Jensen Huang as the CEO of Nvidia. \"NOW THAT Nvidia CEO JENSEN HUANG, who ...",
+   "link": "https://www.msn.com/en-us/news/other/trump-says-ex-apple-ceo-cook-is-a-legend-should-replace-huang-at-nvidia/ar-AA2hiC8j",
+   "source": "Reuters on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ORMS.f2cc06271ff257a18ae5b127093f16ee&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T08:11:06+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "טראמפ הציע שטים קוק יחליף את ג'נסן הואנג בראש חברת אנבידיה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "b6aee7b9158c",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "טראמפ: \"לא צריכים הסכם עם איראן, ביקשתי מוואנס שיתמקד בשחיתות בארה\"ב\"",
+   "summary": "לאחר הדיווחים על פגישה אפשרית בין ואנס לבכיר איראני בקטאר, הנשיא מאותת על שינוי כיוון. עם זאת, לא הודיע על ביטול המגעים עם טהראן ...",
+   "link": "https://www.walla.co.il/news/world/383961195",
+   "source": "וואלה!",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.9HLC9KBIp6vIs93BkVSNgA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T07:20:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "טראמפ ביטל את המגעים עם איראן וביקש מוואנס להתמקד במאבק בשחיתות בארה״ב.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "02bfce945a79",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "טראמפ בהודעה דרמטית: \"מוותרים על עסקה עם איראן\"",
+   "summary": "טראמפ מודיע בפוסט ברשתות החברתיות: \"ביקשתי מסגן הנשיא ואנס להקדיש את מלוא תשומת ליבו למעשי השחיתות והפשיעה האדירים המתרחשים בערים ובמדינות הנשלטות בידי הדמוקרטים ברחבי ארצות הברית.",
+   "link": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1236202-0/",
+   "source": "כיפה",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.lCHh1Gm6uYkOqLaNnnptPQ&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T07:20:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "טראמפ הודיע על ביטול העסקה המתגבשת עם איראן והפנה את תשומת לב הבית הלבן לענייני פנים.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "e4e07a15efe9",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "שוב מתהפך: טראמפ עוקץ את ואנס - ומבטל את כל הפגישות עם האיראנים",
+   "summary": "נשיא ארה\"ב דונלד טראמפ פרסם אחר הצהריים הודעה דרמטית בה הודיע כי הוא מבטל את כל הפגישות שתכנן סגן הנשיא עם האיראנים | טראמפ אמר כי הוא אינו רואה צורך במשא ומתן עימם, ושלח את ואנס לטפל בנושאים פנים-אמר ...",
+   "link": "https://www.kikar.co.il/world-news/toe6rg",
+   "source": "כיכר השבת",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.oR7i-1v3Zof1w_x2VmgO7g&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T06:05:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "טראמפ ביטל את כל הפגישות המתוכננות עם האיראנים והורה לוואנס להתרכז בנושאים פנימיים.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "64c69a4551e8",
+   "tab": "trump",
+   "feed": "trump:1",
+   "title": "Treasury yields and oil prices rise after Trump’s remarks about Iran",
+   "summary": "Treasury yields and oil prices were rising Thursday as traders considered remarks made by President Donald Trump over social media regarding the U.S.-Iran conflict. “We don’t need a deal with Iran,” T ...",
+   "link": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-sp500-down-nvidia-dive-huang-affair-ouster-dow-flat/card/treasury-yields-and-oil-prices-rise-after-trump-s-remarks-about-iran-kFd4C8z3FoNcPD3FGUZf",
+   "source": "MarketWatch",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.K3kyhXfyEhb-bqTnhCBjzA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T00:11:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "התשואות בארה״ב ומחירי הנפט עלו בעקבות הודעתו של טראמפ על ביטול עסקת איראן.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "a1d912d6dba5",
+   "tab": "economy",
+   "feed": "economy:1",
+   "title": "ממשיכה לצלול: מניית אנבידיה צנחה אחרי התפטרות המנכ\"ל",
+   "summary": "מניית ענקית השבבים נפלה ב-4.34% ברקע הודעת ג'נסן הואנג על התפטרותו, בעקבות הדיווחים על רומנים שניהל עם אישה שהוגדרה כ\"מרגלת סינית\" ועם שתי נשים נוספות. נאסד\"ק איבד 0.39%, S&P 500 ירד ב-0.35% ודאו ג'ונס ב-0.36%. מדד הפחד זינק ב-7.38%",
+   "link": "https://www.ynet.co.il/economy/article/bjjky6mame",
+   "source": "ynet כלכלה",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/HkWoopMRfl/HkWoopMRfl_0_0_1600_900_0_medium.jpg",
+   "published": "2026-11-12T21:05:46+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מניית אנבידיה צנחה בעקבות התפטרות המנכ״ל ג'נסן הואנג על רקע חשיפת קשרים אישיים.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "e217b3cc2664",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "דיווח: רומן חדש של ג'נסן הואנג נחשף",
+   "summary": "לפי רויטרס, הואנג ניהל קשר אינטימי נוסף עם עובדת באנבידיה, שזהותה לא פורסמה • הגילוי מגיע לאחר חשיפת שתי מערכות יחסים מחוץ לנישואים, שהובילו להתפטרותו מתפקיד מנכ\"ל ענקית השבבים מוקדם יותר היום",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563325#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779793699/direct/shutterstock_2688189283_d8x5ic.jpg",
+   "published": "2026-11-12T19:36:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "פרטים נוספים נחשפים סביב מערכות היחסים שהובילו להתפטרות מנכ״ל אנבידיה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "2c54c760c2f8",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "תקלה נרחבת במיקרוסופט: עשרות אלפי משתמשים דיווחו על שיבושים ב-Outlook",
+   "summary": "התקלה פגעה בשורה של שירותים, בהם Outlook, Copilot, Teams ו-Microsoft 365 • לפי Downdetector, בשיא נרשמו קרוב ל-130 אלף דיווחים על תקלות ב-Outlook • במיקרוסופט אישרו כי התקלה עלולה להשפיע על משתמשים ברחבי העולם ופועלים לצמצום הפגיעה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563323#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794509290/shutterstock_2309204797_jc7tll.jpg",
+   "published": "2026-11-12T18:49:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "תקלה נרחבת בשירותי מיקרוסופט ובראשם אאוטלוק פגעה بعشرات אלפי משתמשים בעולם.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "c2644aac0199",
+   "tab": "economy",
+   "feed": "economy:1",
+   "title": "בשל איחור במסירה: היזם ישלם לרוכשי הדירות פיצוי מדי חודש - עד למסירה",
+   "summary": "בצעד יוצא דופן, יזמית חויבה על ידי בית משפט בהרצליה לשלם לרוכשים - שחל עיכוב ניכר במסירת הדירות שרכשו - לשלם פיצוי חודשי שוטף שנע בין 6,250 ל-7,500 שקל, ממועד הגשת הבקשה ועד למסירה בפועל של הדירות",
+   "link": "https://www.ynet.co.il/economy/article/ryr7kuqczl",
+   "source": "ynet כלכלה",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/Syyf11dQ0Mg/Syyf11dQ0Mg_0_0_1672_941_0_medium.jpg",
+   "published": "2026-11-12T17:03:36+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "בית משפט פסק כי יזמית נדל״ן תשלם פיצוי חודשי לרוכשים עקב עיכוב משמעותי במסירת דירות.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "f4ecb3055aab",
+   "tab": "economy",
+   "feed": "economy:2",
+   "title": "רעידת אדמה: מנכ\"ל אנבידיה התפטר, המניה צונחת ב-11%",
+   "summary": "המייסד והמנכ\"ל ג'נסן הואנג הודיע על עזיבת תפקידיו ואת הדירקטוריון באופן מיידי. סמנכ\"לית הכספים קולט קרס מונתה למנכ\"לית זמנית",
+   "link": "https://finance.walla.co.il/item/3876034",
+   "source": "וואלה כסף",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/7/4117759-46.jpg",
+   "published": "2026-11-12T16:56:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מנכ״ל ומייסד אנבידיה, ג'נסן הואנג, התפטר מתפקידו באופן מיידי ומניית החברה צללה.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "efcc61039c43",
+   "tab": "economy",
+   "feed": "economy:1",
+   "title": "אחרי הודעת טראמפ: הדולר מזנק, והנפט מתייקר",
+   "summary": "המטבע האמריקני נסחר סביב 3.20 שקל, עלייה של 3 אגורות מאתמול, וגם האירו מתחזק. חבית נפט מסוג ברנט קפצה ל-94 דולר. טראמפ צייץ כי ארה\"ב אינה זקוקה לעסקה עם איראן, וקרא לסגן הנשיא להתעסק במדיניות הפנים ולהפסיק את המו\"מ",
+   "link": "https://www.ynet.co.il/economy/article/s1m8er7cfx",
+   "source": "ynet כלכלה",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/08/BkzKLhQbfl/BkzKLhQbfl_0_0_850_479_0_medium.jpg",
+   "published": "2026-11-12T13:52:11+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "הדולר זינק ומחירי הנפט עלו בעקבות הצהרת טראמפ על הפסקת המגעים עם איראן.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "414c86dce8be",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות",
+   "summary": "אולי זו מהפכת ה-Vibe Coding. אולי זה בזכות Muse ואולי פשוט מישהו ב-Meta החליט שככה יהיה, אבל WhatsApp התחילה להעלות הילוך בכל הנוגע לשחרור פיצ'רים חדשים, וכעת נודע כי עוד פיצ'ר חדש ומבוקש נמצא בדרך אלינו: הודעות נעלמות. בואו להתווכח על האם זה היה בטלגרם קודם – בטלגרם של גיקטיים עכשיו אפשר לשלוח גם טקסט […] The post זה לקח זמן, אבל וואטסאפ מוסיפה סוף סוף הודעות נעלמות appeared first on גיקטיים .",
+   "link": "https://www.geektime.co.il/whatsapp-view-once-text-messages/",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/07/dreamstime_m_114286058-1024x683.jpg",
+   "published": "2026-11-12T17:49:10+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "אפליקציית וואטסאפ מוסיפה פיצ׳ר חדש המאפשר שליחת הודעות נעלמות.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "1b0d516776f3",
+   "tab": "tech",
+   "feed": "tech:1",
+   "title": "סקס, ריגול וסוף עידן: ג'נסן הואנג התפטר מאנבידיה אחרי 33 שנה",
+   "summary": "אחרי 33 שנה בראש ענקית השבבים שהקים, המנכ\"ל והמייסד המיתולוגי מסיים את תפקידו בעקבות חשיפת שני רומנים, אחד מהם עם אישה החשודה בריגול עבור סין והשני עם בכירה הכפופה לו ישירות. כעת ניצבת אנבידיה בפני אחד המשברים הגדולים בתולדותיה, כשעתיד החברה מוטל בסימן שאלה. להתפטרות של הואנג, מתומכי ישראל הבולטים בעמק הסיליקון, עלולה להיות גם השפעה שלילית דרמטית על הכלכלה הישראלית",
+   "link": "https://www.ynet.co.il/digital/technews/article/h1ttglmazg",
+   "source": "ynet דיגיטל",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/23/SkWww11w11qfl/SkWww11w11qfl_1_34_1970_1109_0_medium.jpg",
+   "published": "2026-11-12T13:55:22+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ג'נסן הואנג עזב את ניהול אנבידיה אחרי עשרות שנים בעקבות פרשת קשרים אישיים וחשד לריגול.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "d8f33570bb5b",
+   "tab": "tech",
+   "feed": "tech:2",
+   "title": "הסוללה התפוצצה בסלון: רגעי האימה שתועדו במצלמה",
+   "summary": "זה התחיל בריח מוזר בסלון. פרסטון ויליאמס, נער בן 15 מאורגון שבארצות הברית, הבחין שסוללת האופניים החשמליים שלו מעלה עשן והוציא את הטלפון כדי לצלם. שניות אחר כך נשמע פיצוץ אדיר, כדור אש מילא את החדר והלהבות החלו להתפשט בבית. התיעוד המצמרר, שפורסם בכלי תקשורת בארצות הברית וב-BBC, ממחיש כמה מהר תקלה בסוללה קטנה יחסית יכולה להפוך לאסון. הפיצוץ התרחש ביום חמישי שעבר, 5 בנובמבר, בבית דו-קומתי בעיירה טראו",
+   "link": "https://tech.walla.co.il/item/3875998",
+   "source": "וואלה טכנולוגיה",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118685-46.png",
+   "published": "2026-11-12T13:10:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "תיעוד דרמטי בארה״ב מציג פיצוץ של סוללת אופניים חשמליים בתוך סלון ביתי.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "954a3f7d19a8",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה",
+   "summary": "חשבתם שהשבוע האחרון היה סוער לאנבידיה? נראה שזו רק ההתחלה, עם צל כבד על אחד מהאנשים החזקים ביותר בעולם הטכנולוגיה. דירקטוריון NVIDIA נערך להדיח את המנכ\"ל והמייסד של החברה, ג'נסן הואנג, כך מדווח הלילה (ה') הוול סטריט ג'ורנל על סמך גורמים המקורבים לנושא. על פי הדיווח, הדירקטוריון צפוי להתכנס כנראה כבר היום כדי להכריע על […] The post דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומ",
+   "link": "https://www.geektime.co.il/nvidia-board-prepares-to-oust-jensen-huang-after-second-affair/",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/11/JENSEN-KIMBERLY-1024x576.jpg",
+   "published": "2026-11-12T04:47:17+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "דירקטוריון אנבידיה נערך להדיח את המנכ״ל ג׳נסן הואנג בעקבות חשיפת פרשת יחסים אסורים.",
+   "score": 4,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "36b3337af217",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists discovered a new orange-spotted fish which may already be on the brink of extinction",
+   "summary": "Researchers have unveiled Laimosemion laranja, a newly discovered species of killifish native to three isolated pools in Brazil. Facing grave threats from mining, deforestation, and urban pollution, ...",
+   "link": "https://www.msn.com/en-in/news/other/scientists-discovered-a-new-orange-spotted-fish-which-may-already-be-on-the-brink-of-extinction/ar-AA2hjJij",
+   "source": "The Times of India on MSN",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-12T12:20:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חוקרים גילו מין חדש של דג בברזיל שכבר נמצא בסכנת הכחדה עקב כרייה וזיהום.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00",
+   "image_tried": true
+  },
+  {
+   "id": "e0d33cc6ef56",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists Discover a Hidden Immune System Difference That Could Explain Why Obesity Affects Men and Women Differently",
+   "summary": "A new study in mice reveals that certain immune cells may protect against obesity-related inflammation in one sex while promoting harmful changes in the other. Credit: Shutterstock Scientists have ...",
+   "link": "https://scitechdaily.com/scientists-discover-a-hidden-immune-system-difference-that-could-explain-why-obesity-affects-men-and-women-differently/",
+   "source": "SciTechDaily",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.h7Mgb89-pJmZKyHuL6hFWA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T11:21:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מחקר חדש חושף הבדל במערכת החיסונית בין גברים לנשים שעשוי להסביר מדוע השמנת קטגוריות משפיעה עליהם אחרת.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "c2c63422714e",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists Discover a Neuron That May Play a Role in Schizophrenia",
+   "summary": "Among those cells is a newly identified rare subtype of neuron potentially associated with the genetic risk of developing schizophrenia. The new map, which took 10 years to create, is part of an ...",
+   "link": "https://www.nationalgeographic.com/science/article/brain-cell-map-basal-ganglia-neuron-schizophrenia",
+   "source": "National Geographic",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.P67KtiVTEEyyHWbU-BNRIg&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T07:59:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מדענים גילו סוג נדיר של תא עצב שעשוי להיות קשור לסיכון גנטי להתפתחות סכיזופרניה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "b2870a025d31",
+   "tab": "science",
+   "feed": "science:0",
+   "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+   "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
+   "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e0/live/4c115b80-de72-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-11-12T06:02:55+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מומחים מזהירים כי וויילס חייבת לגדל יותר פירות וירקות כדי להימנע מפגיעה חמורה באספקת המזון עקב מלחמות ושינויי אקלים.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "6e5c1b020283",
+   "tab": "health",
+   "feed": "health:2",
+   "title": "Hospital sewers may be breeding grounds for dangerous superbugs, study finds",
+   "summary": "A Nature Communications study found hospital wastewater promotes antibiotic-resistant E. coli, with bacteria on sewer pipes three times as resistant.",
+   "link": "https://www.msn.com/en-us/health/health-news/hospital-sewers-may-be-breeding-grounds-for-dangerous-superbugs-study-finds/ar-AA2hk0cW",
+   "source": "Fox News on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.eAYb6-pM1zWKMJye81VDLg&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-12T11:43:03+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מחקר חדש מצא כי מערכות הניקוז בבתי חולים עלולות לשמש קרקע פורייה לחיידקים עמידים ומסוכנים.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "9c6003f00df1",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "\"הדחף לעוגות פשוט נעלם\": הישראלים שנפרדו מהפחמימות אחת ולתמיד",
+   "summary": "חני השילה 25 קילוגרם ולא נוגעת בקינוחים של בתה הקונדיטורית. שרונה הורידה 21 קילוגרם כי רצתה להיות סבתא קלילה לנכדים. יצחק ירד 14 קילוגרם והשלים ריצת חצי מרתון. הם ניסו זריקות הרזיה או שקלו אותן, אך העדיפו בסופו של דבר דרך טבעית. חמישה ישראלים מספרים על המסע מהתמכרות לסוכר ולפחמימות אל חיים אחרים, מלאי שליטה ובריאות",
+   "link": "https://www.ynet.co.il/health/article/h1nnuow3mg",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/05/BkZHFW5gLGx/BkZHFW5gLGx_17_0_1049_591_0_medium.jpg",
+   "published": "2026-11-12T09:47:30+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ישראלים משתפים כיצד הצליחו לרדת במשקל ולהיפרד מהתמכרות לפחמימות וסוכר בדרכים טבעיות.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "49885d3613d8",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "שון מנדס: \"רצח עם מתרחש בעזה לנגד עינינו. ההרג חסר הטעם חייב להיפסק\"",
+   "summary": "בפוסט יוצא דופן שפרסם בחשבון האינסטגרם שלו קרא הזמר הקנדי לאמנים לפעול כמוהו, לתרום ולהשמיע קול: \"חבריי האמנים, אני יודע שזה יכול להיות מפחיד. הילדים בפלסטין נאלצו להיות אמיצים יותר מדי זמן. עכשיו תורנו\"",
+   "link": "https://www.ynet.co.il/entertainment/article/sk96hdqagg",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/SyyuPOQAMe/SyyuPOQAMe_0_46_1813_1021_0_medium.jpg",
+   "published": "2026-11-12T17:30:44+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "הזמר שון מנדס פרסם קריאה ברשתות החברתיות לעמיתיו האמנים לפעול ולהשמיע קול בנוגע למתרחש בעזה.",
+   "score": 2,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "104c5aaf89f1",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "How a tacklebox led to the discovery of a missing 17-year-old",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXpnbXJ1enZYdGZpdW1TaGJYcEE1bUhFLVgwc2R5bzN4dWtDTjhJOVhEeGpfV1VTYzk2c0luMTZHelpwN0dQNjdHX2VOZ0hzXzBFcEkySTU0aHYxZjBaRzAtQmVPWTgwOVJZcUJ6eWZmZDBZdFRhMFV3a0FXdUlFdHZRYi1yOXhxRTVYLU5hNHZSRmFmdkxIeWktam3SAaIBQVVfeXFMUGtsd2xieGl0S3lweFhVdllHazVkVThjbGlJSC1EeFNRWm5uUDExaUhvdEdRSUFLT3NrelF4aHh2eW8tNk92SU1wdF9mUDlxZmRXQTNGeUs1V0MwalBKMGFidEgtZmZ4aU5TSzFrc0hLQWNwVXFQMTV3d0dnSUt3M3FQV29nQ2tNTU81NUFCaV9ZbmpVTTduUzdlV1hiTHZFbGFn?oc=5",
+   "source": "KTLA",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-12T15:47:34+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "השתמשו בציוד דיג ישן כדי להוביל לאיתורו של נער בן 17 שהוגדר נעדר.",
+   "score": 2,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "1d19398810bc",
+   "tab": "weird",
+   "feed": "weird:2",
+   "title": "An Illinois lawyer paid $995 for a bag at a government auction. NASA tests showed it had carried Moon dust on Apollo 11",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWXc2Ty14WFpaWUN2Q0huOTBkd1gzbFlfRjVZeEtsZkNNMVRMNHItSlEwbjBnSEZNcXF0MUNzQ3owSmxPbTRkUFB3Z0IzZHozcEZUNG1VMmhNa1c2eURqem1MclRPeHlHVmpSWVJPZkRzQjVQazJieGhtTjVrYzdqZ24yQ0Z0LUUtNDZvUldRZ3VSNXJFUFA5RXAzTUZNTkhVa194djdYVlNsNExQZFBjc19LZjRYX0tmbmxNdEUzQzlMUjNxSlVRUjJ2OXVMdWZqTE54d0U0eFBHd0RiWVNiM2M5ck5qNFpKWFpHeXVEeXRBZw?oc=5",
+   "source": "Futura, le média qui explore le monde",
+   "lang": "en",
+   "image": "",
+   "published": "2026-11-12T12:37:52+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "weird:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "עורך דין שרכש תיק בנכסים ממשלתי שימושי גילה ששימש בעבר לנשיאת אבק ירח ממשימת אפולו 11.",
+   "score": 2,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "f57ef2006874",
+   "tab": "sports",
+   "feed": "sports:0",
+   "title": "מכה לגולדן סטייט: סטף קרי סובל מקרע בשריר הבטן",
+   "summary": "כוכב הווריורס ייבדק מחדש בעוד שבועיים, לאחר שעבר MRI לאחר הפציעה בהפסד ליוסטון. בקבוצה עדיין לא יודעים להעריך כמה זמן ייעדר, וסטיב קר הודה: \"אני מאוד מודאג\"",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/byyhbuxcge",
+   "source": "ynet ספורט",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/r1h54d7CMg/r1h54d7CMg_575_73_2003_1128_0_medium.jpg",
+   "published": "2026-11-12T17:25:54+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה ספורט"
+   ],
+   "feeds": [
+    "sports:0",
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "מכה לגולדן סטייט ווריורס: כוכב הקבוצה סטף קרי סובל מקרע בשריר הבטן וייעדר לתקופה.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "5f0423566aec",
+   "tab": "sports",
+   "feed": "sports:0",
+   "title": "שמוליק ברנר מונה למאמן הפועל חולון: \"העונה עוד ארוכה\"",
+   "summary": "אחרי פתיחת עונה מאכזבת, הסגולים מצאו מחליף על הקווים: המאמן בן ה-45, שאימן בעונה שעברה את עירוני רמת גן, ינסה להחזיר את חולון למסלול. במועדון מתכוונים להגביר גם את המאמצים לצירוף שחקני חיזוק",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hysxtv7cmx",
+   "source": "ynet ספורט",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/02/13/Skl9QXYoa/Skl9QXYoa_0_200_1610_906_0_medium.jpg",
+   "published": "2026-11-12T16:50:32+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה ספורט"
+   ],
+   "feeds": [
+    "sports:0",
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "שמוליק ברנר מונה למאמן הפועל חולון במטרה לייצב את הקבוצה לאחר פתיחת עונה מאכזבת.",
+   "score": 2,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
+   "id": "801f4b4245c6",
+   "tab": "sports",
+   "feed": "sports:1",
+   "title": "חנוכת בית: מכבי ת\"א ניצחה את הפועל ת\"א גם ביורוליג",
+   "summary": "אחרי הקאמבק המדהים בגמר גביע ווינר, מכבי ת\"א אירחה משחק ראשון בקפריסין וניצחה את הפועל ת\"א 73:80 בדרבי מותח ביורוליג. הצהובים שמו את המשבר העמוק מאחור, איטודיס עם הפסד שלישי ברציפות באירופה",
+   "link": "https://sports.walla.co.il/item/3876025",
+   "source": "וואלה ספורט",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118906-46.jpg",
+   "published": "2026-11-12T21:40:27+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מכבי תל אביב גברה על הפועל תל אביב במסגרת היורוליג במשחק שנערך בקפריסין.",
+   "score": 3,
+   "first_seen": "2026-11-12T21:40:27+00:00"
+  },
+  {
    "id": "58bf6f501fda",
    "tab": "israel",
    "feed": "israel:1",
@@ -105,7 +1172,6 @@
    "multi": 3,
    "ai_summary": "צה״ל ושב״כ תקפו בבית חולים בח׳אן יונס ופגעו לפי הדיווחים במפקד חטיבת ח׳אן יונס בחמאס.",
    "score": 4,
-   "top": 1,
    "first_seen": "2026-11-12T12:10:26+00:00"
   },
   {
@@ -150,7 +1216,6 @@
    "multi": 1,
    "ai_summary": "שיחות שלום על אוקראינה באבו דאבי הניבו הסכמות על ערבויות ביטחוניות וכעת ממתינים לתגובת רוסיה.",
    "score": 4,
-   "top": 2,
    "first_seen": "2026-11-12T12:10:26+00:00"
   },
   {
@@ -239,7 +1304,6 @@
    "multi": 1,
    "ai_summary": "הפרקליטות תגיש כתב אישום נגד תושב ג׳ת בחשד לרצח שלושת בני משפחתו.",
    "score": 4,
-   "top": 3,
    "first_seen": "2026-11-12T12:10:26+00:00"
   },
   {
@@ -262,7 +1326,6 @@
    "multi": 1,
    "ai_summary": "המשבר הכלכלי באיראן מוביל אזרחים למכור איברי גוף ברחוב מרכזי בטהראן כדי לכסות חובות.",
    "score": 4,
-   "top": 4,
    "first_seen": "2026-11-12T12:10:26+00:00"
   },
   {
@@ -300,7 +1363,8 @@
    "published": "2026-11-12T09:29:30+00:00",
    "quiet": false,
    "also": [
-    "BBC"
+    "BBC",
+    "Sky News"
    ],
    "feeds": [
     "world:5",
@@ -310,7 +1374,6 @@
    "multi": 2,
    "ai_summary": "תקיפה ישראלית בבית חולים בעזה הובילה למותם של שישה בני אדם, בהם רופא ומפקד בחמאס.",
    "score": 4,
-   "top": 5,
    "first_seen": "2026-11-12T12:10:26+00:00"
   },
   {
@@ -1516,7 +2579,9 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
    "published": "2026-11-11T20:52:52+00:00",
    "quiet": false,
-   "also": [],
+   "also": [
+    "Sky News"
+   ],
    "feeds": [
     "world:0"
    ],
@@ -5469,7 +6534,7 @@
    "name": "Sky News",
    "ok": true,
    "via": "rss",
-   "count": 7,
+   "count": 5,
    "error": null
   },
   {
@@ -5485,7 +6550,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 9,
+   "count": 8,
    "error": null
   },
   {
@@ -5501,7 +6566,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 12,
+   "count": 8,
    "error": null
   },
   {
@@ -5509,7 +6574,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 9,
+   "count": 6,
    "error": null
   },
   {
@@ -5517,7 +6582,7 @@
    "name": "Bing חדשות",
    "ok": true,
    "via": "bing",
-   "count": 12,
+   "count": 11,
    "error": null
   },
   {
@@ -5589,7 +6654,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 9,
+   "count": 10,
    "error": null
   },
   {
@@ -5613,7 +6678,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 12,
+   "count": 11,
    "error": null
   },
   {
@@ -5637,7 +6702,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 9,
+   "count": 11,
    "error": null
   },
   {
@@ -5685,7 +6750,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "google",
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -5709,7 +6774,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 12,
+   "count": 11,
    "error": null
   }
  ],
@@ -5723,54 +6788,37 @@
   ],
   "batches": 4,
   "failed_batches": 0,
-  "removed": 36,
+  "removed": 19,
   "rescued": 0,
-  "summarized": 95,
+  "summarized": 96,
   "reason": null,
   "removed_titles": [
-   "רה\"מ נתניהו ויו\"ר ישר! איזנקוט יקיימו היום פגישת עדכון מדיני-ביטחוני בירושלים",
-   "מדורת השבט | פרקים מלאים לצפייה",
-   "ערן בן ארי ממפלגת עמך ישראל: \"מקווה שתקום ממשלת אחדות, ושנתניהו לא יהיה ראשון ברוטציה\"",
-   "בארבע בבוקר, לבד בחדר: השאלה שנתניהו שאל את מקורבו",
-   "חדשות פוליטיקה: עדכוני היום בתחום פוליטי- מדיני- כאן 11 - Page 888 of 888",
-   "למה נתניהו מפחיד מאי-פעם",
-   "מבוכות בממשל טראמפ: הגסת' ננזף בקבר החייל האלמוני, רוביו טס למשחקי בנו במיליון דולר",
-   "טנגו עם מכונת הרעל",
-   "משנה מה יעשו היהודים",
-   "Young people should get fewer welfare benefits, according to Milburn review on the workforce – UK politics live",
-   "Far-right activist Daniel Thomas admits criminal damage of dinghy in the Channel",
-   "בדרך לכלא: העונש הכבד הצפוי לנשיא הפרו-ישראלי המודח",
-   "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-   "Ukraine's ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war",
-   "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-   "Donald Trump attacks 'evil' Democrats in early morning Truth Social post",
-   "טראמפ מתחרט: דיווח דרמטי משיחות פנימיות בבית הלבן",
-   "טראמפ טוען שהמלחמה נגמרה - אבל באיראן ממשיכים להחזיק את כל הקלפים",
-   "Trump administration announces new plan to sell public lands",
-   "קטאר-גייט בבית הלבן? מנהל חשבונות טראמפ מואשם בקבלת חצי מיליון דולר מדוחא",
-   "Trump says the towering arch he wants to be build might be dedicated to military veterans",
-   "השליחה לשעבר של טראמפ לענייני לבנון: \"חיסול סולימאני היה אחד הימים היפים בחיי\"",
-   "טראמפ: \"ניצחנו במלחמה באיראן, עכשיו נותר להחליט מתי לסיים אותה\"",
-   "נעים קאסם בנאום ניצחון: \"פרויקט טראמפ נשבר, נתניהו הובס; לא נתפרק מנשקנו\"",
-   "נחשף המכתב המפתיע שהשאיר טראמפ לביידן בחדר הסגלגל ב-2021",
-   "Did Trump call JD Vance 'Judas' in a post?",
-   "Trump says 'you should've had stock' to build net worth. Here's how he's increased his by billions in his second term",
-   "Trump says ‘a lot of people didn’t like’ Vance blaming midterm losses on Iran war",
-   "\"הוא יכסח אתכם\": המתיחה של טראמפ שהנחיתה את נשיא ה-UFC בחדר התדרוכים",
+   "ביהמ\"ש הורה: המורה החשוד בעבירות מין בבת 7 ישוחרר למעצר בית",
+   "חרף התנגדותה: שופטי נתניהו הורו ליועמ\"שית להתייצב לדיון ברביעי",
+   "The makeup of the 26th Knesset",
+   "חב\"ד מתנערת מדברי הרב אקסלרוד: \"עמדתו אישית ואינה מייצגת את התנועה\"",
+   "מי מחזיק בהגה השלטון? יחסי הכוחות - ומה כל צד יכול לעשות",
+   "הדרמה בגוש איזנקוט: המגבלה שמאיימת לטרוף את הקלפים",
+   "בכיר השב\"כ לשעבר על החקירה שמעסיקה את כל ישראל: \"חסרת הגיון מקצועי\"",
+   "השב\"כ חשד, סולברג בדק - ואז התבררה התמונה האמיתית",
+   "Hegseth awards medal to war memorial guard who reprimanded him and group",
+   "Trump asks Vance to focus on ‘corruption and crime’ in Dem-run cities, states",
+   "Trump hit with 25th Amendment calls after Truth Social posting spree",
+   "טראמפ לא יסתפק בזה: הבעיה שלא הייתה קיימת לפני המלחמה",
+   "Trump Truth Social post attempting to big up his accomplishments backfired instantly",
+   "Donald Trump Attacks 'Evil' Democrats in Early Morning Truth Social Post",
+   "העליון דחה את הערעור: ציקי פוקס ישלם 17 מיליון שקל לחברת השקעות צ'כית",
+   "הסוחר בן ה־31 שחשף את \"הבעיה הסינית\" של ג'נסן הואנג והימר נגד מניית אנבידיה",
    "לגבר זה לא היה קורה: ההתנפלות על היו\"רית החדשה מסריחה מצביעות",
-   "גדי איזנקוט, שים לב: המינוי הראוי ביותר שלך הפך לבלתי אפשרי",
-   "\"מצדדים בחמאס\": בארה\"ב דורשים מהולנד לחזור בה מהחרם על ישראל",
-   "זינוק של 888% במכירת דירות חדשות: איזו עיר הפתיעה ברבעון השלישי?",
-   "\"הטבח היה אנטישמי או אנטי-ציוני?\": מה נשאלו עובדי הבריאות היהודים בניו יורק",
-   "'Why Is He Doing This?': Trump's Bizarre Fist Pumping and Lip-Biting at Veterans Day Event Leave Viewers Baffled",
-   "מתחיל לשלם על הכניסה לפוליטיקה: טדי רינר מאבד ספונסר"
+   "Artificial Intelligence (AI)-Enabled Counter-Drone System Market Global Report 2026 | Secure the $1.66B Market by 2030 w",
+   "Campaigners want more land protected from housing"
   ]
  },
  "stats": {
-  "fetched": 945,
-  "too_old": 310,
-  "blocked": 19,
-  "allow_matched": 4,
-  "images_filled": 0
+  "fetched": 936,
+  "too_old": 301,
+  "blocked": 14,
+  "allow_matched": 8,
+  "images_filled": 1
  }
 }
