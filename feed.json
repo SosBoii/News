@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:38:27+00:00",
+ "generated_at": "2026-11-15T11:45:17+00:00",
  "tabs": [
   {
    "id": "israel",
@@ -54,6 +54,1089 @@
  ],
  "articles": [
   {
+   "id": "30be63463413",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "לוחם מג״ב ביצע ירי לעבר נהג רכב חשוד בעכו, מצבו קשה",
+   "summary": "לוחם מג״ב שלא בתפקיד, הבחין ברכב שנסע בכביש 85 בעכו ולדבריו נסע באופן שסיכן הולכי רגל ואת הלוחם עצמו, ובשל סכנה שחש ביצע לעברו ירי. הנהג החשוד נמלט מהזירה ובהמשך פונה לקבלת טיפול רפואי בבית החולים, כשמצבו מוגדר קשה. מדוברות המשטרה נמסר כי נסיבות האירוע נבדקות.",
+   "link": "https://www.walla.co.il/news/breaking-news/383961422",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-14T22:41:41+00:00",
+   "quiet": false,
+   "also": [
+    "כאן 11",
+    "ynet"
+   ],
+   "feeds": [
+    "israel:1",
+    "israel:4",
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 3,
+   "ai_summary": "לוחם מג״ב שלא בתפקיד ירה בנהג רכב בעכו שסיכן עוברי אורח ומצבו קשה.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "4e3d5d604263",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "חשד לריגול לטובת איראן: תושב הצפון צילם בסיסי צה\"ל",
+   "summary": "תושב מזרעה שבצפון, ויסאם גאלב סאלח עווד, נעצר בחשד שביצע משימות צילום ואיסוף מודיעין עבור גורמים איראניים, כך הודיעו הבוקר (ראשון) המשטרה ושב\"כ. לפי ממצאי החקירה, החשוד יצר קשר מיוזמתו עם גורמים איראניים באמצעות טלגרם, ממניע אידיאולוגי וללא תמורה כספית, וביצע משימות שכללו צילום מתקנים אסטרטגיים, בסיסים צבאיים ותחנות משטרה, והעברת התיעודים ונקודות הציון למפעיליו. עוד נמסר כי החשוד הביע הזדהות עם אר",
+   "link": "https://www.walla.co.il/news/breaking-news/383961436",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-15T07:00:43+00:00",
+   "quiet": false,
+   "also": [
+    "כאן 11"
+   ],
+   "feeds": [
+    "israel:1",
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "תושב מזרעה נעצר בחשד שצילם בסיסי צה״ל ומתקנים אסטרטגיים עבור גורמים איראניים.",
+   "score": 4,
+   "top": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "b5a4549390fc",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "בנמל תעופה במרכז אמריקה, בדרך לגרמניה: ישראלים נעצרו עם חבילות קוקאין במזוודות",
+   "summary": "שלושה ישראלים נעצרו ברפובליקה הדומיניקנית, רגע לפני טיסה לפרנקפורט, עם עשרות חבילות שהכילו קוקאין. החשד: ארגון בינלאומי גייס ישראלים כבלדרים. כך הם הסתירו את הסמים במזוודות",
+   "link": "https://www.ynet.co.il/news/article/r1mpo6uafl",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/15/rkBYYpURGe/rkBYYpURGe_0_0_1280_720_0_medium.jpg",
+   "published": "2026-11-15T06:14:41+00:00",
+   "quiet": false,
+   "also": [
+    "כאן 11"
+   ],
+   "feeds": [
+    "israel:0",
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "שלושה ישראלים נעצרו ברפובליקה הדומיניקנית בחשד לניסיון הברחת קוקאין לגרמניה.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "4f3ef4e9ada4",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "סמ\"ר לירון אנור נהרג בהתנגשות רכב בעמוד בנוף הגליל",
+   "summary": "החייל שנהג ברכבו התנגש בעמוד בשדרות מעלה יצחק בעיר. צוות מד\"א סיפר: \"הזירה קשה מאוד. הצעיר נלכד ברכב עם פציעות קשות, ונאלצנו לקבוע את מותו\"",
+   "link": "https://www.ynet.co.il/news/article/b1yyid8czx",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/15/SyhF0yPAfl/SyhF0yPAfl_1_164_900_507_0_medium.jpg",
+   "published": "2026-11-14T23:22:18+00:00",
+   "quiet": false,
+   "also": [
+    "כאן 11"
+   ],
+   "feeds": [
+    "israel:0",
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "חייל צה״ל, סמ״ר לירון אנור, נהרג בתאונת דרכים קשה לאחר שרכבו התנגש בעמוד בנוף הגליל.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "d4ca58a6f39c",
+   "tab": "israel",
+   "feed": "israel:4",
+   "title": "צה\"ל ושב\"כ אישרו רשמית: חוסל מפקד חטיבת רפיח בחמאס",
+   "summary": "צה\"ל ושב\"כ תקפו הלילה (ראשון) מחבל בכיר בזרוע הצבאית של חמאס, כך נמסר מדובר צה״ל ודוברות השב״כ. בעזה מדווחים כי מח״ט רפיח חוסל בג׳באליה שבצפון הרצועה וכי בתקיפה נפצעו עוד כמה בני אדם.",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZDY4TDB2M1Vmbmx0bEI5bmRJd01Jdi1rRFE5ZERyUzFFMGttWmp1amRZOXZ2WFFncnAwYU5ncjd3cVdaZ2VWbXp4VW0tSlRDNnlCbXFPMWpnN0pUbHRlVVJrNXlWT1lseEV6d2dR?oc=5",
+   "source": "כאן 11",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-14T22:11:29+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה"
+   ],
+   "feeds": [
+    "israel:4",
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "צה״ל והשב״כ אישרו כי מפקד חטיבת רפיח בחמאס חוסל בתקיפה בצפון רצועת עזה.",
+   "score": 4,
+   "top": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "d8c7e875ff03",
+   "tab": "israel",
+   "feed": "israel:4",
+   "title": "נרצח שני תוך שעות: בן 59 נורה למוות בטייבה",
+   "summary": "בית החולים מאיר בכפר סבא הודיע לפני זמן קצר הערב (שבת) כי נקבע מותו של פצוע ירי בן ה-59 מטייבה.",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lT0NpMnBwSmxOWXMwUjUxUWJyRDUtWVM1cm5WTjZSVW54b2RFTUU5X01QbWNDUzd2V1ozOXc0Y2VMMjI4TmhlMzZVSGxqay1jVXF1Q214dVBEdGQ5b0tnZW0zWVE?oc=5",
+   "source": "כאן 11",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-14T20:43:42+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה"
+   ],
+   "feeds": [
+    "israel:4",
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "גבר בן 59 נורה למוות בטייבה, באירוע רצח שני בעיר תוך שעות ספורות.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "1a75679de919",
+   "tab": "israel",
+   "feed": "israel:0",
+   "title": "גילויים חדשים בתיק רון ארד: ישראל חטפה וחקרה גנרלים איראנים; התשובה לגורלו - כנראה בלבנון",
+   "summary": "התחקיר, במלאת ארבעה עשורים לנפילתו בשבי, חושף לראשונה שבחיפושים אחר רון ארד חטף המוסד שני גנרלים איראנים. אחד נלקח בקרטון מקרר בדמשק, נחקר - והושלך, המום, בדרום אפריקה. השני, שמותו הוגדר תעלומת ענק במשך 20 שנה, נחקר לפי בכירים אמריקניים על ספינה - ואז חוסל בידי המוסד. דוח סודי של חיזבאללה ואיראן, שפרטיו נחשפים כעת, טען לפני שנים: הנווט הישראלי מת בנבי שית. ושם מחפשת עכשיו גם ישראל",
+   "link": "https://www.ynet.co.il/news/article/h1uvp3hrzg",
+   "source": "ynet",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/14/B18Po0HCGg/B18Po0HCGg_0_0_850_479_0_medium.jpg",
+   "published": "2026-11-15T11:16:16+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "תחקיר חושף כי במסגרת החיפושים אחר רון ארד חטף המוסד שני גנרלים איראנים בעבר.",
+   "score": 4,
+   "top": 5,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "dfb0084ca89a",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "איבד את הטבעת בים לפני 47 שנה - וטס מישראל לסגור מעגל",
+   "summary": "טבעת סיום לימודים שהושאלה מאחיו נעלמה במהלך טיול בארה\"ב ונחשבה אבודה לנצח. חובב אוצרות שמצא אותה במקרה הצליח לאתר את בעליה והחליט להחזירה אישית. המפגש המשפחתי הסתיים בהפתעה מרגשת",
+   "link": "https://www.maariv.co.il/news/viral/article-1388583",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1159301",
+   "published": "2026-11-15T10:54:32+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "תושב ישראל קיבל בחזרה טבעת שאיבד לפני 47 שנים בים בארה״ב לאחר שנמצאה בידי גלאי מתכות.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "c5407fef27eb",
+   "tab": "israel",
+   "feed": "israel:4",
+   "title": "תושב טהראן: \"הרעב פה גרוע מבסומליה, האייתוללות משמידים אותנו\"",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTUpWZ0xnLUxOdFBIRlpZTmFCejRCa2dqLWJISXNuemoyeXJOQl9VUkJVU0FqQUxSZ0tHRktYdmxmQ2hsZlUtei02VGJPWUtJLXdXX1lfYlhzQWQtMHNQVEo1SGRVdw?oc=5",
+   "source": "כאן 11",
+   "lang": "he",
+   "image": "",
+   "published": "2026-11-15T10:43:13+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "עדויות מטהראן מתארות משבר כלכלי ומחסור חמור במזון ברחבי איראן.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "990df765506c",
+   "tab": "israel",
+   "feed": "israel:1",
+   "title": "שמונה אקדחים וכמות גדולה של חשיש נתפסו בגבול ירדן",
+   "summary": "שמונה אקדחים מסוג FN, גלוק וטאורוס נתפסו במהלך סוף השבוע סמוך לגבול ירדן, בפעילות משותפת של שוטרי מחוז ש\"י, כוחות צה\"ל ומג\"ב, כך הודיעה היום (ראשון) דוברות משטרת ישראל. האקדחים אותרו בשק שהוסלק באזור הגבול, בעקבות דיווח של תצפיות צה\"ל על תנועות חשודות. במקרה נוסף אותר שק שהכיל כמות גדולה של חומר החשוד כחשיש, מכשירי GPS וכרטיסי SIM. הממצאים הועברו לבדיקת חוקרי הזיהוי הפלילי, והחקירה נמשכת.",
+   "link": "https://www.walla.co.il/news/breaking-news/383961473",
+   "source": "וואלה",
+   "lang": "he",
+   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
+   "published": "2026-11-15T10:38:20+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "כוחות צה״ל והמשטרה סיכלו הברחת שמונה אקדחים וכמות גדולה של חשיש בגבול ירדן.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "5ac0e272f2b1",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "הותר לפרסום: פרופ' אנדריי אטנסוב הוא הישראלי שנרצח בסופיה",
+   "summary": "פרופ' אנדריי אטנסוב, בן 82, הוא הישראלי שנרצח בסופיה בחודש שעבר. הפרקליטות מקדמת את הליך הסגרתו של החשוד במעורבות ברצח, שמיל לוייב לבולגריה",
+   "link": "https://www.maariv.co.il/news/law/article-1388566",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1158794",
+   "published": "2026-11-15T10:19:20+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "הותר לפרסום כי פרופ׳ אנדריי אטנסוב בן ה-82 הוא הישראלי שנרצח בסופיה.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "0a87547c256a",
+   "tab": "israel",
+   "feed": "israel:2",
+   "title": "33 אלף חולים נוספים בעזה - ארגון הבריאות העולמי מזהיר: \"הגרוע ביותר עוד לפנינו\"",
+   "summary": "ארגון הבריאות העולמי מדווח על 33 אלף מקרי תחלואה נוספים בדרכי הנשימה בעזה לעומת אשתקד, ומזהיר מפני החמרה בעקבות ההצפות והצפיפות. בצה\"ל טוענים כי הפעולות לא נועדו לפגוע באוכלוסייה האזרחית",
+   "link": "https://www.maariv.co.il/news/israel/article-1388563",
+   "source": "מעריב",
+   "lang": "he",
+   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1159278",
+   "published": "2026-11-15T10:13:14+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "israel:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ארגון הבריאות העולמי מזהיר מפני תחלואה נרחבת בדרכי הנשימה ברצועת עזה בשל הצפות וצפיפות.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "12b449161b78",
+   "tab": "world",
+   "feed": "world:3",
+   "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+   "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet The US thinks Iran still has between 1,500-2,500 missiles in its arsenal despite the US-Israeli damage done this year to its production facilities, reports the Wall St Journal. That’s the “low confidence” assessment from intelligence analysts, the American paper reports, citing US officials. Continue reading...",
+   "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+   "source": "The Guardian",
+   "lang": "en",
+   "image": "https://i.guim.co.uk/img/media/fa92818b8eea9732e0504d2063aefde1ee02b0a0/0_0_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=4c4dca3c57b2c83b14360a7b16ead7c8",
+   "published": "2026-11-15T11:30:27+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:3"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "איראן תקפה בסיס אוויר בבחריין המארח את הצי החמישי האמריקני על רקע חידוש התקיפות במפרץ.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "cedd4c64ea04",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+   "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+   "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-15T11:06:32+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "בית משפט בירדן גזר עונש מוות על שלושה גברים שהורשעו בירי קטלני בכנסייה.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "5a4e3bcdd9aa",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "הנתבים הבודדים שהובילו לתקלת התעופה ההיסטורית בארה\"ב",
+   "summary": "בארצות הברית צמצמו את מקור תקלת התעופה לשני נתבים בארקנסו ובטקסס, אך עדיין לא יודעים מה הוביל לכשל",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d49d670e7bed1a1026.htm",
+   "source": "N12 עולם",
+   "lang": "he",
+   "image": "https://img.mako.co.il/2026/11/14/2026-11-13T21581TOP_autoOrient_a.jpg",
+   "published": "2026-11-15T10:26:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חוקרים בארה״ב צמצמו את מקור תקלת התעופה ההיסטורית לשני נתבים בודדים בארקנסו ובטקסס.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "246c2504dc27",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "דיווח: בריטניה ביצעה פעולות ריגול אוויריות חריגות ברוסיה",
+   "summary": "חיל האוויר הבריטי ביצע באוקטובר 17 גיחות מודיעין סביב המובלעת הרוסית קלינינגרד • גורם ביטחוני בכיר הגדיר את הפעילות \"חריגה\" והעריך כי היא נועדה להשיג מידע מודיעיני מיוחד • רוסיה דרשה שפינלנד תפרוש מנאט\"ו - ועוררה זעם יוצא דופן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-1e7abbcf79ed1a1026.htm",
+   "source": "N12 עולם",
+   "lang": "he",
+   "image": "https://img.mako.co.il/2026/11/15/RIVETJPINT_autoOrient_a.jpg",
+   "published": "2026-11-15T09:45:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חיל האוויר הבריטי ביצע גיחות מודיעין חריגות סביב המובלעת הרוסית קלינינגרד.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "840edfb81102",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+   "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+   "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
+   "published": "2026-11-15T09:26:37+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חייל קנדי חמישי מת מפצעיו בעקבות שריפה גדולה שפרצה בבסיס צבאי.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "96e3b3873fda",
+   "tab": "world",
+   "feed": "world:0",
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-15T08:17:41+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "צה״ל וגורמים פלסטינים אישרו את חיסולו של מפקד חטיבת רפיח בחמאס בתקיפה ברצועה.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "5c7adfaa3b04",
+   "tab": "world",
+   "feed": "world:2",
+   "title": "אזהרת האו\"ם: המצור במצר הורמוז עלול להוביל למשבר מזון שיפגע בעשרות מיליוני בני אדם",
+   "summary": "בכיר באו\"ם קורא לאיראן ולארה\"ב לאפשר מעבר מיידי של ספינות דשנים דרך מצר הורמוז • באו\"ם מזהירים כי המשך השיבושים עלול להותיר 45 מיליון בני אדם בחוסר ביטחון תזונתי חמור • המדינות העניות כבר משלמות את המחיר",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f3e70067c3ed1a1026.htm",
+   "source": "N12 עולם",
+   "lang": "he",
+   "image": "https://img.mako.co.il/2026/10/05/HORMUZ_re_autoOrient_a.jpg",
+   "published": "2026-11-15T08:12:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "באו״ם מזהירים כי השיבושים במצר הורמוז עלולים לגרום לחוסר ביטחון תזונתי חמור עבור 45 מיליון בני אדם.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "1f5790141f74",
+   "tab": "world",
+   "feed": "world:4",
+   "title": "Hamas says senior commander killed in Israeli airstrike",
+   "summary": "A senior Hamas commander who helped plan and oversee the 7 October 2023 attack had been killed in an Israeli airstrike, according to the Palestinian militant group.",
+   "link": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+   "source": "Sky News",
+   "lang": "en",
+   "image": "https://e3.365dm.com/26/11/1920x1080/skynews-khan-younis-gaza-israeli-airstrike_7406841.jpg?20261115074940",
+   "published": "2026-11-15T05:16:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חמאס הודיע כי מפקד בכיר בארגון חוסל בתקיפת חיל האוויר ברצועת עזה.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "bb1c0bb572a7",
+   "tab": "world",
+   "feed": "world:4",
+   "title": "Microsoft confirms all services are restored after global outage",
+   "summary": "Microsoft has said that all services have been fully restored after a global outage which affected the NHS, police, schools and other services across the UK.",
+   "link": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
+   "source": "Sky News",
+   "lang": "en",
+   "image": "https://e3.365dm.com/26/11/1920x1080/skynews-microsoft-teams_7406490.jpg?20261114150509",
+   "published": "2026-11-14T14:56:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "world:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חברת מייקרוסופט הודיעה כי כל שירותיה חזרו לפעילות תקינה לאחר תקלה עולמית נרחבת.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "17d731273425",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "ארה\"ב שותקה, טראמפ התעסק בסרטים: הדרמה מאחורי משבר התעופה",
+   "summary": "נתב שהותקן בארקנסו הציף מערכת תקשורת מיושנת בנתונים והוביל לשיבושים בטיסות ברחבי ארה\"ב. ברשות התעופה מזהירים כי תקלות דומות עלולות להתרחש גם בשנים הקרובות ...",
+   "link": "https://www.msn.com/he-il/news/other/%D7%90%D7%A8%D7%94%D7%91-%D7%A9%D7%95%D7%AA%D7%A7%D7%94-%D7%98%D7%A8%D7%90%D7%9E%D7%A4-%D7%94%D7%AA%D7%A2%D7%A1%D7%A7-%D7%91%D7%A1%D7%A8%D7%98%D7%99%D7%9D-%D7%94%D7%93%D7%A8%D7%9E%D7%94-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%9E%D7%A9%D7%91%D7%A8-%D7%94%D7%AA%D7%A2%D7%95%D7%A4%D7%94/ar-AA2hsiiX",
+   "source": "מעריב on MSN",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ORMS.edd0317f45e4bced5ec69288b659336e&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-14T23:37:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "תקלה טכנית בנתב מיושן גרמה לשיבושים קשים בטיסות ברחבי ארצות הברית.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "c546627cce0e",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "דיווח: טראמפ שוקל לדחות תקיפות נוספות באיראן אם תימנע מפרובוקציות",
+   "summary": "לפי רויטרס, נשיא ארה\"ב בוחן דחיית פעילות צבאית נגד איראן לבקשת סעודיה וטורקיה, אך נושאת מטוסים שלישית בדרכה לאזור.",
+   "link": "https://www.inn.co.il/news/710783",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.7N5zfoVEX1csKZEnSlxFcQ&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-14T17:11:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "נשיא ארצות הברית בוחן את דחיית הפעילות הצבאית נגד איראן לבקשת סעודיה וטורקיה.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "8cd0ca2bc825",
+   "tab": "trump",
+   "feed": "trump:4",
+   "title": "דיווח: המוסד התריע ל-CIA על מזימת כטב\"מים איראנית נגד טראמפ",
+   "summary": "המוסד העביר למודיעין האמריקני מידע על תוכנית איראנית לפגוע בנשיא ובבכירי ממשלו • בעקבות ההתרעה הועברו מספר שרים למתקנים צבאיים מאובטחים | הרקע למתיחות הגוברת (בעולם) ...",
+   "link": "https://www.kikar.co.il/world-news/mossad-warned-cia-iran-drone-plot-trump-officials",
+   "source": "כיכר השבת",
+   "lang": "he",
+   "image": "https://www.bing.com/th?id=ONUT.2z_PYKtA-oHrbhGhDs70-Q&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-14T12:33:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "trump:4"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "המוסד העביר מודיעין לארצות הברית על תוכנית איראנית לבצע פיגוע כטב״מים נגד הנשיא טראמפ.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "b1c89a8396b4",
+   "tab": "economy",
+   "feed": "economy:2",
+   "title": "משרת החלומות? החברה שתשלם לכם עד 135 אלף דולר כדי לשחק GTA VI",
+   "summary": "לשחק מהלילה הראשון, לשדר את כל הדרך ולגלות איך עושים הכי הרבה כסף בעולם של GTA VI: חברת Kalshi מחפשת \"חוקר\" למשחק החדש ומציעה תשלום של כ-120 אלף דולר לפרויקט, ועוד 15 אלף דולר בסיומו. ויש גם כמה דרישות שלא כל גיימר יעמוד בהן",
+   "link": "https://career.walla.co.il/item/3876289",
+   "source": "וואלה כסף",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118670-46.png",
+   "published": "2026-11-15T11:45:17+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חברה פיננסית מציעה שכר של כ-135 אלף דולר לעובד שמשחקי וידאו הם משימתו העיקרית.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "a19bd0ee97f5",
+   "tab": "economy",
+   "feed": "economy:2",
+   "title": "הקומבינה הפרטית של רשתות המזון: מי באמת מרוויח מהמהפכה על המדף?",
+   "summary": "אורז של מותג פרטי יקר בכמעט 19% מהמותג המוכר, קוסקוס יקר בכ־11% ובשימורי מלפפונים מצאנו פער של כ־24% לרעת מותג הבית. בדיקת המכון לחקר הקמעונאות חושפת: מוצרי מותג הבית עשויים להיות יקרים בעד 24% מהמותגים המוכרים",
+   "link": "https://finance.walla.co.il/item/3876281",
+   "source": "וואלה כסף",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/8/7/4/3874189-46.jpg",
+   "published": "2026-11-15T11:45:17+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "בדיקה חושפת כי מוצרי המותג הפרטי ברשתות המזון יקרים לעיתים עד 24 אחוזים מהמותגים המוכרים.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "476609c6d7a2",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "סעד חריג בגין איחור במסירת דירות: אלפי שקלים עוד לפני שהתביעה התבררה",
+   "summary": "בית משפט השלום בהרצליה נקט צעד חריג וחסר תקדים, כשנתן צו עשה זמני לתשלום פיצוי סטטוטורי שוטף בסכום מצטבר של אלפי שקלים על איחור במסירת דירות בפרויקט התחדשות עירונית בפתח תקווה - וזאת עוד בטרם התבררה התביעה לגופה וניתן פסק דין",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563385#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1704878508/COT_Pic/shutterstock_2351257207_umkpq5_r3ftfl.jpg",
+   "published": "2026-11-15T11:29:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "בית משפט פסק צו חריג המחייב קבלן לשלם פיצוי שוטף לרוכשי דירות בשל איחור במסירה.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "cf329207714b",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "גם בהייטק: מספר המשרות הפנויות הצטמצם באוקטובר",
+   "summary": "מספר המשרות הפנויות בישראל ירד באוקטובר ל-143 אלף, לעומת 146 אלף בחודש הקודם, אך שוק העבודה נותר יציב יחסית • הירידה בולטת בענפי הבנייה והמסעדנות, לצד עלייה בביקוש להנדסאים ולטכנאים • במקביל, שיעור המועסקים בהייטק ממשיך לרדת, ייתכן שעל רקע השפעת הבינה המלאכותית על שוק התעסוקה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563387#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1617194026/direct/shutterstock_571807765-%D7%A9%D7%90%D7%9C%D7%95%D7%9F_a4y7j9.jpg",
+   "published": "2026-11-15T11:00:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "נתוני אוקטובר מראים ירידה במספר המשרות הפנויות בישראל, בעיקר בענפי הבנייה, המסעדנות וההייטק.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "f62add4e893f",
+   "tab": "economy",
+   "feed": "economy:0",
+   "title": "\"מה שלא משקיעים עכשיו, יעלה לנו פי 10\": המחיר של הרפורמה בהתפתחות הילד",
+   "summary": "הרפורמה שהייתה אמורה לשקם את מערך התפתחות הילד פוגשת מציאות עגומה • משפחות רבות נתקלות בזמני המתנה ארוכים מאוד בקופות החולים וללא יכולת לממן טיפול פרטי • \"אין בכלל תור פנוי ואפילו אין צפי\", מעידה אחת האימהות • המטפלות בשירות הציבורי מוצאות את עצמן נחנקות מתחת לעומס בירוקרטי ושכר נמוך: \"מי שחשב שזו הדרך לגייס כוח אדם למערכת - טעה\"",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563231#utm_source=RSS",
+   "source": "גלובס",
+   "lang": "he",
+   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1794491966/shutterstock_1472366246_mhmpal.jpg",
+   "published": "2026-11-15T10:55:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "משפחות רבות בישראל מתמודדות עם תורים ארוכים ועומס כבד במערך הציבורי להתפתחות הילד.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "1df4650c78d7",
+   "tab": "economy",
+   "feed": "economy:2",
+   "title": "הקריפטו בצניחה חופשית: מאות מיליארדי דולרים נמחקו, והמשקיעים חוששים שהגרוע עוד לפניהם",
+   "summary": "ביטקוין איבד כ-17% בשבוע, את'ריום צנח והפחד חוזר לשוק המטבעות הדיגיטליים. אינפלציה עיקשת בארה\"ב, חששות סביב תעשיית ה-AI, בריחת כספים מקרנות הסל ומיליארדי דולרים בפוזיציות שנסגרו בכפייה. מה עומד מאחורי המפולת, והאם מדובר במשבר עמוק או בהזדמנות למשקיעים?",
+   "link": "https://finance.walla.co.il/item/3876244",
+   "source": "וואלה כסף",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/1/1/4011710-46.png",
+   "published": "2026-11-15T10:13:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "שוק המטבעות הדיגיטליים חווה ירידות חדות, כאשר הביטקוין איבד כ-17 אחוזים מערכו תוך שבוע.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "d35f01c95265",
+   "tab": "economy",
+   "feed": "economy:1",
+   "title": "הציור שצייר ואך גוך רגע לפני מותו יימכר בשיא כל הזמנים?",
+   "summary": "\"עצי ערמון פורחים\" לא הוצג לציבור יותר מ-50 שנה. עכשיו הוא מוערך ב-180 מיליון דולר ועשוי לשבור את השיא ליצירה של ואן גוך במכירה פומבית. ברביעי הוא יעמוד במרכז מכירה בניו יורק, כחלק מאוסף ארגנטיני בשווי מוערך של כ-450 מיליון דולר, שכולל גם את סזאן, מונה ורנואר. אבל מאחורי האוסף מסתתר עבר דיקטטורי אפל",
+   "link": "https://www.ynet.co.il/economy/article/hkz3weprzl",
+   "source": "ynet כלכלה",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/15/H1Hr7ZwRMe/H1Hr7ZwRMe_0_60_800_451_0_medium.jpg",
+   "published": "2026-11-15T10:05:55+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "ציור נדיר של ואן גוך מוצע למכירה פומבית בניו יורק בשווי מוערך של 180 מיליון דולר.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "8497b68c50fb",
+   "tab": "economy",
+   "feed": "economy:1",
+   "title": "מההנפקות הגדולות בהיסטוריה: אנתרופיק מגיעה לבורסה - כך תוכלו גם אתם להשקיע",
+   "summary": "החברה שפיתחה את קלוד תתחיל להיסחר ביום חמישי בנאסד\"ק, אחרי שמחיר המניה הסופי ייקבע ביום רביעי בטווח של 70 עד 78 דולר למניה. הביקושים שוברים שיאים, כל תעשיית ה-AI לוטשת עיניים להנפקה, אבל למה יש מומחים שסקפטיים בנוגע למצבה של אנתרופיק? ynet מסביר",
+   "link": "https://www.ynet.co.il/economy/article/syp93ydcfx",
+   "source": "ynet כלכלה",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/HktQDzKhMx/HktQDzKhMx_0_78_1000_563_0_cid_62_medium.jpg",
+   "published": "2026-11-15T09:32:46+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "economy:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חברת הבינה המלאכותית אנתרופיק מתכוננת להנפקה ענקית בבורסת נאסד״ק.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "98fc8fd57fdc",
+   "tab": "tech",
+   "feed": "tech:2",
+   "title": "מתחת לרדאר: צבא המרגלים הסיני שחודר ללב תעשיית הטכנולוגיה",
+   "summary": "ממדי מערך הריגול שמפעילה בייג'ינג נגד חברות טכנולוגיה, אוניברסיטאות ותשתיות חיוניות במערב נחשפים. מפריצות סייבר ועד גניבת סודות של בינה מלאכותית, סין מנסה להשיג את הטכנולוגיות המתקדמות ביותר בעולם",
+   "link": "https://tech.walla.co.il/item/3876258",
+   "source": "וואלה טכנולוגיה",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/7/4117762-46.jpg",
+   "published": "2026-11-15T11:36:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חשיפה מציגה את ממדי הריגול התעשייתי שמפעילה סין נגד חברות טכנולוגיה ואקדמיה במערב.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "35e0c3bb1c47",
+   "tab": "tech",
+   "feed": "tech:1",
+   "title": "גוגל מורידה את הכפפות: מודלי בינה מלאכותית חדשים, שבבי-על ומשקפיים חכמים",
+   "summary": "ענקית הטק יוצאת למתקפה בכל החזיתות: מודלי AI חדשים, שבבים שיאתגרו את אנבידיה, משקפיים חכמים שיתחרו במטא ורובוטים מתקדמים. המטרה היא לא רק לנצח במרוץ הבינה המלאכותית, אלא לשלוט בכל שרשרת הטכנולוגיה - מהשבב ועד למשתמש",
+   "link": "https://www.ynet.co.il/digital/technews/article/hysgowvczg",
+   "source": "ynet דיגיטל",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/15/SyO7IzP0zl/SyO7IzP0zl_0_0_1705_959_0_medium.jpg",
+   "published": "2026-11-15T11:26:02+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חברת גוגל הכריזה על מודלי בינה מלאכותית חדשים, שבבים מתקדמים ופיתוח משקפיים חכמים.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "069bc5ed78af",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות",
+   "summary": "זה לא סוד שבשנים האחרונות, אחרי תור הזהב של 2021 ו-2022, הפך ההייטק הישראלי לשוק של מעסיקים, והעובדים הם אלו שצריכים לרדוף אחרי כל משרה בתקווה להשתדרג בשכר – או כדי למצוא משרה. אבל עכשיו חושף דוח חדש של שירות התעסוקה גם את הנתונים שמוכיחים את זה. מספר המשרות עלה, אך גם מספר מחפשי העבודה […] The post עכשיו זה גם רשמי: יש יותר מחפשי עבודה בהייטק ממשרות פנויות appeared first on גיקטיים .",
+   "link": "https://www.geektime.co.il/more-people-want-to-work-in-tech-than-there-are-jobs/",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "https://cdn.geektime.co.il/wp-content/uploads/2024/05/Startup.Company.Unsplash-1024x683.jpg",
+   "published": "2026-11-15T11:01:03+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "דוח חדש של שירות התעסוקה מראה כי לראשונה מזה שנים ישנם יותר מחפשי עבודה מעבודות פנויות בהייטק.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "d81b9dc60487",
+   "tab": "tech",
+   "feed": "tech:0",
+   "title": "היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship",
+   "summary": "קהל רב התאסף הלילה (מוצאי שבת, זמן ישראל) לצפות בהיסטוריה, והיסטוריה הוא קיבל. לקול השיר \"Baby Come Back\" פילחה חללית Starship (השלב העליון שלה, Ship 42) את העננים שמעל טקסס, ואחרי יותר מ-20 שעות במסלול סביב כדור הארץ, ובמהירות מטורפת, היא עשתה את דרכה לעבר מתקן הלכידה בבסיס Starbase של SpaceX. אבל רגע לפני שנגיע […] The post היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship appear",
+   "link": "https://www.geektime.co.il/spacex-starship-mechazilla-catch-flight-15/",
+   "source": "גיקטיים",
+   "lang": "he",
+   "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/11/SpaceX-Starship.jpg",
+   "published": "2026-11-15T06:51:55+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "tech:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חברת ספייס-אקס רשמה הישג היסטורי כאשר זרועות מתקן הלכידה תפסו בהצלחה את חללית הסטארשיפ עם חזרתה לכדור הארץ.",
+   "score": 5,
+   "top": 2,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "06a1e4f4652e",
+   "tab": "science",
+   "feed": "science:0",
+   "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+   "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-14T22:09:40+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חברת ספייס-אקס הצליחה לתפוס לראשונה את המשגר של חללית סטארשיפ באמצעות זרועות מכניות מיוחדות.",
+   "score": 4,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "4e122d1132b3",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists Discover a Curious 'Dragonball' Structure Deep in The South China Sea",
+   "summary": "(Li et al., Nature Communications, 2026) Scientists have discovered a microscopic organelle unlike any other on Earth, hiding within a mysterious deep-sea creature. They've called it a 'dragonball' ...",
+   "link": "https://www.msn.com/en-us/news/other/scientists-discover-a-curious-dragonball-structure-deep-in-the-south-china-sea/ar-AA2hqdrx",
+   "source": "ScienceAlert on MSN",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.Wb21lCTqw-rYL-NUgFG-UA&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-14T00:01:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מדענים גילו אברון מיקרוסקופי ייחודי ויצור ימי מסתורי במעמקי ים סין הדרומי.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "ccd3864424b1",
+   "tab": "science",
+   "feed": "science:2",
+   "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
+   "summary": "Scientists have developed an efficient method to transform used coffee grounds into a potential source of biodiesel while preserving the leftover material for other renewable fuels and valuable ...",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
+   "source": "Science Daily",
+   "lang": "en",
+   "image": "https://www.bing.com/th?id=ONUT.ipSBII3bkm8nJKvHmaixHg&pid=News&w=700&h=394&c=7",
+   "published": "2026-11-13T16:00:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "science:2"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חוקרים פיתחו שיטה יעילה להפיכת פסולת קפה לדלק ביולוגי ולחומרים מתחדשים נוספים.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "025756d8b0ef",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "ועידת הסוכרת של ynet: המהפכה בטיפול במחלה והבשורות החדשות",
+   "summary": "איך אפשר לזהות סוכרת מוקדם ולמנוע סיבוכים? מה עשוי להשתנות עם המעבר משבע זריקות אינסולין בשבוע לזריקה אחת? ואיך קשורה המחלה לבריאות הלב והכבד? לרגל יום הסוכרת הבינלאומי, מומחי הסוכרת, הלב, הכבד והתזונה המובילים בישראל השתתפו במשדר מיוחד של ynet וענו על השאלות החשובות. צפו במשדר המלא ובארבעת הפאנלים",
+   "link": "https://www.ynet.co.il/health/article/h1fgqngagx",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/B1SWaUuWCMe/B1SWaUuWCMe_0_38_1000_563_0_medium.jpg",
+   "published": "2026-11-15T10:09:12+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מומחים דנו בוועידת הסוכרת של וואינט בדרכים לזיהוי מוקדם, מניעת סיבוכים וחידושים בטיפול במחלה.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "2d8ffa6e47c6",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "כבד שומני: הערך בבדיקת הדם שעשוי לעזור לזהות מי בסיכון לשחמת",
+   "summary": "מחקר ישראלי שהתבסס על נתוני כמעט 389 אלף מבוטחי כללית מצא כי רמה גבוהה של אנזים שנמדד בבדיקת דם שגרתית נקשרה ליותר סיבוכי כבד, ובהם שחמת וסרטן הכבד. פרופ' אמיר שלומאי, מנהל מחלקה פנימית ד' בבילינסון וממחברי המחקר, מסביר מה כדאי לבדוק כשהערך גבוה ומתי לשקול בירור נוסף",
+   "link": "https://www.ynet.co.il/health/article/rjfutcb0gg",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/r1H84P7HdMl/r1H84P7HdMl_89_88_821_463_0_medium.jpg",
+   "published": "2026-11-15T06:45:44+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מחקר ישראלי מצא כי רמה גבוהה של אנזים בבדיקת דם שגרתית עשויה לנבא סיכון לסיבוכי כבד ושחמת.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "1d27b944ee91",
+   "tab": "health",
+   "feed": "health:0",
+   "title": "סוכרת יכולה להתפתח במשך שנים בלי שתדעו",
+   "summary": "לרגל יום הסוכרת הבינלאומי: אילו גורמי סיכון ותסמינים חשוב להכיר, כיצד מסייע אבחון מוקדם במניעת סיבוכים, איך השתנה הטיפול - ולמה הוא כבר אינו מתמקד רק ברמות הסוכר?",
+   "link": "https://www.ynet.co.il/health/medicalplus/article/skjwhzyrmg",
+   "source": "ynet בריאות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/rJehV11h6SMl/rJehV11h6SMl_0_9_1000_563_0_medium.jpg",
+   "published": "2026-11-15T05:00:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "health:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "לרגל יום הסוכרת הבינלאומי מפורטים גורמי הסיכון, התסמינים והחשיבות של אבחון מוקדם למניעת סיבוכים.",
+   "score": 3,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "841a3512563d",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "יו2 ניסתה לשחזר את המהפך הכי גדול שלה. הפעם היא כמעט הצליחה",
+   "summary": "35 שנה אחרי Achtung Baby, האלבום שבו המציאה את עצמה מחדש, יו2 חוזרת עם Carnaval de Luz, עם בריאן אינו ועם דואט מריר - ההקלטה האחרונה של דולי פרטון. זה לא מתקרב לשיאים הגדולים, אבל זה האלבום הראשון שלה מזה שנים שמרגיש כמו תוצר של להקה ולא של מוזיאון",
+   "link": "https://www.ynet.co.il/entertainment/article/hkojggwrzx",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/15/Byu2ZbPCfe/Byu2ZbPCfe_0_217_2963_1669_0_medium.jpg",
+   "published": "2026-11-15T10:01:40+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "להקת יו2 חוזרת באלבום חדש הכולל שיתוף פעולה עם בריאן אינו ודואט עם דולי פרטון.",
+   "score": 2,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "37db82ddd0c6",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "הרצל, הקשר היהודי של \"המטריקס\" ובילבי: פסטיבל הקולנוע היהודי חוזר",
+   "summary": "יותר מ-40 סרטים מ-15 מדינות יוקרנו במהדורה ה-28 של הפסטיבל, שתיפתח בדצמבר בסינמטק ירושלים. הבמאי הוותיק פולקר שלונדורף יגיע עם סרטו החדש ויקבל אות הוקרה, ומייקל רפפורט יהיה אורח אירוע הנעילה עם סרט תיעודי על זהותו היהודית ותמיכתו בישראל. עוד בתוכנית: סרטו החדש של תומר הימן, איתי טיראן בדרמה תקופתית, וודי גאת'רי, בטי בופ - ואפילו בחינת \"המטריקס\" דרך הקבלה",
+   "link": "https://www.ynet.co.il/entertainment/article/bjtrcyprzx",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/15/HylnVlDAzx/HylnVlDAzx_0_0_850_479_0_medium.jpg",
+   "published": "2026-11-15T09:16:00+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "פסטיבל הקולנוע היהודי ה-28 ייפתח בדצמבר בסינמטק ירושלים ויציג עשרות סרטים מהארץ ומעולם.",
+   "score": 2,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "b6c788369681",
+   "tab": "culture",
+   "feed": "culture:0",
+   "title": "חרב האור המקורית של דארת' ויידר מ\"מלחמת הכוכבים\" נמכרה ב-5 מיליון דולר",
+   "summary": "החרב, ששימשה את הנבל האיקוני בכמה מהסצנות המפורסמות ביותר בסדרת הסרטים, נמכרה במכירה פומבית בסכום הגבוה כמעט פי חמישה מההערכות המוקדמות",
+   "link": "https://www.ynet.co.il/entertainment/article/s1pozep0zg",
+   "source": "ynet תרבות",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/rJAELJU6Me/rJAELJU6Me_418_51_2170_1222_0_medium.jpg",
+   "published": "2026-11-15T09:09:04+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "culture:0"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "חרב האור המקורית ששימשה את דארת׳ ויידר בסרטי מלחמת הכוכבים נמכרה במכירה פומבית בחמישה מיליון דולר.",
+   "score": 2,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "ca4c81c03653",
+   "tab": "sports",
+   "feed": "sports:0",
+   "title": "\"אירוע אלימות מחליא\": נופצו שמשות האוטובוס של הפועל חיפה",
+   "summary": "המועדון הודיע כי אלמונים גרמו נזק של אלפי שקלים לאוטובוס הקבוצה, שחנה במרכז הקונגרסים בחיפה. מדובר במקרה שלישי שבו נגרם נזק לרכב בחודשים האחרונים. חברת ההסעות הגישה תלונה במשטרה, ובמועדון קראו לתפוס את האחראים למעשה",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1tcukpcfg",
+   "source": "ynet ספורט",
+   "lang": "he",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/15/Hy4eFyDCMg/Hy4eFyDCMg_123_191_1007_567_0_medium.jpg",
+   "published": "2026-11-15T08:12:52+00:00",
+   "quiet": false,
+   "also": [
+    "וואלה ספורט"
+   ],
+   "feeds": [
+    "sports:0",
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 2,
+   "ai_summary": "אלמונים גרמו נזק כבד לאוטובוס של קבוצת הכדורגל הפועל חיפה, והמשטרה חוקרת את האירוע.",
+   "score": 2,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "9dd837960e9d",
+   "tab": "sports",
+   "feed": "sports:1",
+   "title": "מדליסטית אולימפית מונתה למאמנת הדואט הישראלי בשחייה",
+   "summary": "איגוד השחייה הודיע היום (ראשון) על מינויה של קסיה קולשה למאמנת הראשית של נבחרת הדואט הישראלית בשחייה אומנותית, כחלק מההכנות לאולימפיאדת לוס אנג'לס 2028. קולשה, מדליסטית אולימפית לשעבר ובעלת ניסיון של יותר משני עשורים באימון בקנדה, כבר החלה בתפקידה ונמצאת בימים אלה בביקורה השני בישראל. קולשה תעבוד עם צמד השחייניות איה מזור וקטי קונין, ולצידן המחליפות נועה קגן וליה מקמל. על פי התוכנית, היא תגיע לישר",
+   "link": "https://sports.walla.co.il/item/3876291",
+   "source": "וואלה ספורט",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/9/4119408-46.jpeg",
+   "published": "2026-11-15T11:45:17+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "קסיה קולשה, מדליסטית אולימפית לשעבר, מונתה למאמנת ראשית של נבחרת ישראל בשחייה אמנותית.",
+   "score": 2,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
+   "id": "8d96134a652e",
+   "tab": "sports",
+   "feed": "sports:1",
+   "title": "הפועל ירושלים נגד המשטרה: \"יחס מביש לאוהדים שלנו\"",
+   "summary": "הפועל ירושלים פרסמה היום (ראשון) הודעה חריפה בעקבות היחס שקיבלו אוהדיה מצד המשטרה במשחק החוץ אמש מול מכבי תל אביב. במועדון הביעו זעם על הבידוק הביטחוני בכניסה לאולם ועל התקנת רשת סביב יציע אוהדי הקבוצה, וטענו שהצעדים בוצעו ללא ידיעתם וללא תיאום מוקדם. \"נדהמנו והתאכזבנו עמוקות מהיחס המביש לו זכו אוהדי הקבוצה מצד המשטרה במשחק החוץ אמש מול מכבי\", נמסר בהודעת המועדון. \"הדברים החלו בבידוק ביטחוני אגרסי",
+   "link": "https://sports.walla.co.il/item/3876283",
+   "source": "וואלה ספורט",
+   "lang": "he",
+   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/9/4119242-46.jpg",
+   "published": "2026-11-15T11:45:17+00:00",
+   "quiet": false,
+   "also": [],
+   "feeds": [
+    "sports:1"
+   ],
+   "important": false,
+   "multi": 1,
+   "ai_summary": "מועדון הכדורסל הפועל ירושלים מחה על יחס המשטרה והבידוק הביטחוני שעברו אוהדיה במשחק מול מכבי תל אביב.",
+   "score": 2,
+   "first_seen": "2026-11-15T11:45:17+00:00"
+  },
+  {
    "id": "f5d3eb7d09dc",
    "tab": "israel",
    "feed": "israel:1",
@@ -76,7 +1159,6 @@
    "multi": 2,
    "ai_summary": "נשיא ארה״ב דונלד טראמפ שוקל להימנע מתקיפות נוספות באיראן לבקשת מנהיגי טורקיה וערב הסעודית.",
    "score": 4,
-   "top": 1,
    "first_seen": "2026-11-14T19:38:27+00:00"
   },
   {
@@ -143,7 +1225,6 @@
    "multi": 1,
    "ai_summary": "בישראל נערכים לאפשרות של פעולה צבאית עצמאית באיראן על רקע היעדר הפיקוח על האורניום המוברח.",
    "score": 4,
-   "top": 2,
    "first_seen": "2026-11-14T19:38:27+00:00"
   },
   {
@@ -276,7 +1357,6 @@
    "multi": 1,
    "ai_summary": "איראן טוענת שמכליות נפגעו ממוקשים במצר הורמוז, בעוד סבא״א מביעה דאגה ממתקן גרעיני באיספהאן.",
    "score": 4,
-   "top": 3,
    "first_seen": "2026-11-14T19:38:27+00:00"
   },
   {
@@ -324,7 +1404,6 @@
    "multi": 2,
    "ai_summary": "נשיא אוקראינה זלנסקי חשף כי ארה״ב ביררה אם מדינתו תוותר על שטחים בדונבאס תמורת הצטרפות לנאט״ו.",
    "score": 4,
-   "top": 4,
    "first_seen": "2026-11-14T19:38:27+00:00"
   },
   {
@@ -1272,7 +2351,9 @@
    "image": "",
    "published": "2026-11-14T03:00:00+00:00",
    "quiet": false,
-   "also": [],
+   "also": [
+    "Yahoo"
+   ],
    "feeds": [
     "trump:2"
    ],
@@ -3822,72 +4903,6 @@
    "first_seen": "2026-11-12T21:40:27+00:00"
   },
   {
-   "id": "7c704406af4c",
-   "tab": "israel",
-   "feed": "israel:4",
-   "title": "דיווחים באיראן על תקיפה במחוז הורמוזגאן שבדרום המדינה",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGV0UF9Xb1p3SlZZYjdjU011T3pDX2ZteTdfdE1kUndwZUxwMWM0WGFOMktnekd0TWdJazMtMkk0X1pTSU9pNUVGN3QtWVl0Ylh3V0FCNFQxLUhBMzl6Tzg3Wkl6dVdQOWh6bjdIc21TclhyRjZIb0JCeGtHb0RHZjdB?oc=5",
-   "source": "כאן 11",
-   "lang": "he",
-   "image": "",
-   "published": "2026-11-12T19:27:38+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:4"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "דווח על תקיפה במחוז הורמוזגאן שבדרום איראן.",
-   "score": 3,
-   "first_seen": "2026-11-12T21:40:27+00:00"
-  },
-  {
-   "id": "8938b7f06c4f",
-   "tab": "israel",
-   "feed": "israel:2",
-   "title": "\"פצצה מתקתקת\": מטוסי חיל האוויר חיסלו תוך 2 דקות את המחבל הבכיר",
-   "summary": "שבועות של כוננות, שני טילים מדויקים ועשר דקות מהאות של השב״כ: חיל האוויר תקף את המפקדה בקומה השלישית של בית החולים נאצר, בניסיון להימנע מפגיעה בקומות שמתחתיה",
-   "link": "https://www.maariv.co.il/news/military/article-1387917",
-   "source": "מעריב",
-   "lang": "he",
-   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1145347",
-   "published": "2026-11-12T18:58:35+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "חיל האוויר חיסל מחבל בכיר במסגרת פעולה ממוקדת.",
-   "score": 4,
-   "first_seen": "2026-11-12T21:40:27+00:00"
-  },
-  {
-   "id": "6a5d9946b7dc",
-   "tab": "israel",
-   "feed": "israel:2",
-   "title": "התפכחות בוושינגטון: טראמפ מאותת על שינוי דרמטי מול איראן | עמית יגור",
-   "summary": "טראמפ הודיע כי ארה\"ב אינה זקוקה עוד להסכם עם איראן והטיל על סגנו ואנס להתמקד בענייני פנים. המהלך, לצד המתיחות עם טורקיה וקטאר, עשוי להעיד על סיום הניסיונות להגיע להסכם ועל מעבר למדיניות תקיפה יותר",
-   "link": "https://www.maariv.co.il/news/opinions/article-1387902",
-   "source": "מעריב",
-   "lang": "he",
-   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1151954",
-   "published": "2026-11-12T18:03:54+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "ממשל טראמפ מאותת על שינוי מדיניות והפסקת הניסיונות להגיע להסכם עם איראן.",
-   "score": 3,
-   "first_seen": "2026-11-12T21:40:27+00:00"
-  },
-  {
    "id": "2f056bf8a423",
    "tab": "world",
    "feed": "world:3",
@@ -4692,214 +5707,6 @@
    "ai_summary": "מכבי תל אביב גברה על הפועל תל אביב במסגרת היורוליג במשחק שנערך בקפריסין.",
    "score": 3,
    "first_seen": "2026-11-12T21:40:27+00:00"
-  },
-  {
-   "id": "58bf6f501fda",
-   "tab": "israel",
-   "feed": "israel:1",
-   "title": "חשד להתעללות בתינוקות באשקלון: מעצרן של שלוש גננות הוארך",
-   "summary": "בית משפט השלום באשקלון האריך היום (חמישי) בחמישה ימים את מעצרן של שלוש גננות החשודות בהתעללות בתינוקות. השופטת חן בן חיים תיארה חשד להתעללות שיטתית, שכללה טלטול, הכאה והשלכת תינוקות בני כתשעה חודשים ללול.",
-   "link": "https://www.walla.co.il/news/breaking-news/383961158",
-   "source": "וואלה",
-   "lang": "he",
-   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
-   "published": "2026-11-12T10:12:40+00:00",
-   "quiet": false,
-   "also": [
-    "ynet",
-    "מעריב"
-   ],
-   "feeds": [
-    "israel:1",
-    "israel:0",
-    "israel:2"
-   ],
-   "important": false,
-   "multi": 3,
-   "ai_summary": "בית המשפט האריך את מעצרן של שלוש גננות באשקלון החשודות בהתעללות קשה בתינוקות.",
-   "score": 3,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "822bec4b7845",
-   "tab": "israel",
-   "feed": "israel:4",
-   "title": "צה\"ל ושב\"כ: הבכיר שהותקף בבית חולים בדרום רצועת עזה - מח\"ט ח'אן יונס",
-   "summary": "ברצועה דיווחו על תקיפת בניין בבית החולים נאסר, וטענו כי בין ההרוגים גם רופא ובן 13. מנהל ביה\"ח תיאר \"נזק משמעותי\" למחלקות טיפול נמרץ וניתוחים. בדיווחים פלסטיניים נטען כי המח\"ט חוסל, חודשיים לאחר קודמו בתפקיד ובצה\"ל ממתינים לתוצאות: \"במקום שהותקף אוחסן נשק, יש שם חקירות ועינויים\"",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EbjdMRHdhbWVtY2xuYlZCQ2gyNUFmOGpnQ1NuVF9QTVA3ZU9EaUZCU0N4Z1A4dlc2ZE1TZ0N0eXpLUHNhcm5ORGRCOGhEaWdVLVZpZjlBdjJDbGdYX3VFbkFVQTQwY2lnQ3BJZFVR?oc=5",
-   "source": "כאן 11",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/HJUCvRzAMe/HJUCvRzAMe_0_0_850_479_0_medium.jpg",
-   "published": "2026-11-11T23:19:03+00:00",
-   "quiet": false,
-   "also": [
-    "ynet",
-    "וואלה"
-   ],
-   "feeds": [
-    "israel:4",
-    "israel:0",
-    "israel:1"
-   ],
-   "important": false,
-   "multi": 3,
-   "ai_summary": "צה״ל ושב״כ תקפו בבית חולים בח׳אן יונס ופגעו לפי הדיווחים במפקד חטיבת ח׳אן יונס בחמאס.",
-   "score": 4,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "f87db02c84a8",
-   "tab": "israel",
-   "feed": "israel:2",
-   "title": "נקמה עם שופל: האיש שהחליט להרוס בניין ממשלתי",
-   "summary": "גבר בן 47 הגיע עם מחפר כבד למרכז שירות ממשלתי בסין וגרם נזק לחזית המבנה, למדרגות ולחלקים נוספים. עובדי המקום והמבקרים פונו, והמשטרה השתלטה על הנהג ועצרה אותו. הסיבה: סכסוך על פיצויים",
-   "link": "https://www.maariv.co.il/news/viral/article-1387790",
-   "source": "מעריב",
-   "lang": "he",
-   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1158477",
-   "published": "2026-11-12T12:07:57+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "אזרח בסין נהג במחפר כבד והרס חזית של מבנה ממשלתי בעקבות סכסוך פיצויים.",
-   "score": 3,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "743696328301",
-   "tab": "israel",
-   "feed": "israel:1",
-   "title": "השיחות על המלחמה באוקראינה: \"חדשות חיוביות, הכדור אצל רוסיה\"",
-   "summary": "מזכ\"ל נאט\"ו מארק רוטה אמר היום (חמישי) כי עמדות ארה\"ב, אירופה ואוקראינה מתואמות מאוד בשיחות באבו דאבי, וכי כבר הושגה הסכמה על גיבוש ערבויות ביטחוניות. לדבריו, נותר לבחון אם רוסיה מוכנה לשתף פעולה. במקביל, נשיא אוקראינה זלנסקי הודיע כי ישוחח עם נציגים אמריקאים, ומתח ביקורת על גישת ארה\"ב לדיון עם רוסיה על סדר ביטחוני חדש.",
-   "link": "https://www.walla.co.il/news/breaking-news/383961179",
-   "source": "וואלה",
-   "lang": "he",
-   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
-   "published": "2026-11-12T12:04:37+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "שיחות שלום על אוקראינה באבו דאבי הניבו הסכמות על ערבויות ביטחוניות וכעת ממתינים לתגובת רוסיה.",
-   "score": 4,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "72694bf17584",
-   "tab": "israel",
-   "feed": "israel:1",
-   "title": "בריטניה: שני איראנים הורשעו בסיוע למודיעין האיראני",
-   "summary": "שני גברים איראנים נמצאו אשמים היום (חמישי) בסיוע למודיעין האיראני בבריטניה.",
-   "link": "https://www.walla.co.il/news/breaking-news/383961175",
-   "source": "וואלה",
-   "lang": "he",
-   "image": "https://img.wcdn.co.il/3/7/5/1/3751628-46.jpg",
-   "published": "2026-11-12T11:49:08+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "בית משפט בבריטניה הרשיע שני אזרחים איראנים בסיוע למודיעין של איראן.",
-   "score": 3,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "6c5dc0a41901",
-   "tab": "israel",
-   "feed": "israel:0",
-   "title": "\"נפלה קורבן למעשיו של עבריין מורשע\": אישום הוגש נגד האנס שפרץ לבית צעירה בת\"א",
-   "summary": "הפרקליטות הגישה כתב אישום נגד אדם יאסין (42), מפוקח מין ממזרח י-ם, שעקב אחרי צעירה שיצאה ממועדון בתל אביב, אנס אותה - וחזר לביתה כעבור שבועיים. בעבר תקף מינית ילדה שאסף מביתה, וגם מטופלת בבית חולים",
-   "link": "https://www.ynet.co.il/news/article/r1ekjb70me",
-   "source": "ynet",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/SkZZiSveCfg/SkZZiSveCfg_0_0_947_534_0_medium.jpg",
-   "published": "2026-11-12T11:33:01+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "הוגש כתב אישום נגד עבריין מין מורשע בחשד שפרץ לבית צעירה בתל אביב ואנס אותה.",
-   "score": 3,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "45e1ece56b4a",
-   "tab": "israel",
-   "feed": "israel:2",
-   "title": "הילדה שהצילה יהודים בשואה הלכה לעולמה בגיל 91",
-   "summary": "ירוסלבה לויצקה, שסייעה להציל יהודים בשואה כבר בגיל שש, הלכה לעולמה בחיפה, חודשיים לפני יום הולדתה ה-92. הלווייתה תתקיים היום בבית העלמין תל רגב. ראש העיר יונה יהב: \"גבורה אינה נמדדת בגיל או בכוח\"",
-   "link": "https://www.maariv.co.il/news/israel/article-1387779",
-   "source": "מעריב",
-   "lang": "he",
-   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1158465",
-   "published": "2026-11-12T11:29:28+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "ירוסלבה לויצקה, שהצילה יהודים בשואה בגיל שש בלבד, הלכה לעולמה בחיפה בגיל 91.",
-   "score": 3,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "e6374c079e87",
-   "tab": "israel",
-   "feed": "israel:4",
-   "title": "תושב ג'ת יואשם ברצח שלושת בני המשפחה סמוך לבאקה אל-גרבייה",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YS2hidWFuMmN5eGd0NnFfclM0MzB2VlVLWm94M1NzQjd2dmJKdjN4Y1ZQeFdWbkRhUERmclN4d1BfS1ZPRENaelVMZUV1R2RzRUc4THo3bTJrS0czaDdGRUJ3ckg?oc=5",
-   "source": "כאן 11",
-   "lang": "he",
-   "image": "",
-   "published": "2026-11-12T11:00:57+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:4"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "הפרקליטות תגיש כתב אישום נגד תושב ג׳ת בחשד לרצח שלושת בני משפחתו.",
-   "score": 4,
-   "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "f44c34f48e9c",
-   "tab": "israel",
-   "feed": "israel:2",
-   "title": "כדי לכסות חובות: הרחוב בטהראן שהפך \"לרחוב הכליות\" - אזרחים אפילו מציעים אשכים",
-   "summary": "המשבר הכלכלי באיראן דוחף אזרחים להציע למכירה איברי גוף כדי לכסות חובות. ברחוב בטהראן המכונה \"רחוב הכליות\" נתלו מודעות למכירת איברים, ואחד המוכרים אף הציע כליה, רקמת כבד ואשך",
-   "link": "https://www.maariv.co.il/news/world/article-1387748",
-   "source": "מעריב",
-   "lang": "he",
-   "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1158448",
-   "published": "2026-11-12T10:51:58+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "israel:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "המשבר הכלכלי באיראן מוביל אזרחים למכור איברי גוף ברחוב מרכזי בטהראן כדי לכסות חובות.",
-   "score": 4,
-   "first_seen": "2026-11-12T12:10:26+00:00"
   },
   {
    "id": "39b7babe27ba",
@@ -5834,922 +6641,6 @@
    "ai_summary": "פנאתינייקוס תארח את ברצלונה הלוהטת למשחק צמרת ביורוליג.",
    "score": 3,
    "first_seen": "2026-11-12T12:10:26+00:00"
-  },
-  {
-   "id": "bc93c941a230",
-   "tab": "world",
-   "feed": "world:0",
-   "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-   "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-   "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a91e/live/b13e3560-ddd6-11f1-b865-d17d8611efca.jpg",
-   "published": "2026-11-11T14:56:11+00:00",
-   "quiet": false,
-   "also": [
-    "The Guardian"
-   ],
-   "feeds": [
-    "world:0",
-    "world:3"
-   ],
-   "important": false,
-   "multi": 2,
-   "ai_summary": "חבר לשעבר בארגון טרור באיטליה נמלט ממעצר בית בארגנטינה באמצעות גלישת סנפלינג.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "16acc59220e3",
-   "tab": "world",
-   "feed": "world:5",
-   "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-   "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-   "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-   "source": "NPR",
-   "lang": "en",
-   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7854x5236+0+0/resize/7854x5236!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fe5%2Fc440fa07484eafad83691a255e57%2Fap26314378728116.jpg",
-   "published": "2026-11-11T13:30:00+00:00",
-   "quiet": false,
-   "also": [
-    "BBC"
-   ],
-   "feeds": [
-    "world:5",
-    "world:0"
-   ],
-   "important": false,
-   "multi": 2,
-   "ai_summary": "רוסיה ואוקראינה הסכימו על עסקה נרחבת להחלפת שבויים בתיווך אמריקני.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "859ad4dd6532",
-   "tab": "world",
-   "feed": "world:5",
-   "title": "A cafe in Ukraine relocates from its besieged hometown and reopens",
-   "summary": "After Russian airstrikes destroyed a popular cafe in a frontline Ukrainian city, the cafe reopened in a safer region, an example of how Ukrainian businesses are trying to survive amid repeated bombing.",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6034533/a-cafe-in-ukraine-relocates-from-its-besieged-hometown-and-reopens",
-   "source": "NPR",
-   "lang": "en",
-   "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6034533",
-   "published": "2026-11-11T21:24:01+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "world:5"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "בית קפה מאוקראינה שנהרס בהפצצות רוסיות פתח את שעריו מחדש באזור בטוח יותר.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "bf486b755253",
-   "tab": "world",
-   "feed": "world:3",
-   "title": "Human torso found on sofa in Sydney bushland prompts homicide investigation",
-   "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast NSW police have launched a homicide investigation after a human torso was found in bushland on Sydney’s lower north shore. Police said they were called to Lane Cove North about 2.30pm on Wednesday after receiving reports",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-   "source": "The Guardian",
-   "lang": "en",
-   "image": "https://i.guim.co.uk/img/media/3ffdc3759066b25f34a057b255d9589730bea27e/282_0_2816_2253/master/2816.jpg?width=140&quality=85&auto=format&fit=max&s=0ebcdcd25eac4e1c4a58b0f66bb13a22",
-   "published": "2026-11-11T21:09:56+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "world:3"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "משטרת אוסטרליה פתחה בחקירת רצח לאחר שפלג גוף עליון של אדם נמצא בספה בסידני.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "23565797d1ba",
-   "tab": "world",
-   "feed": "world:0",
-   "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-   "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-11-11T20:52:52+00:00",
-   "quiet": false,
-   "also": [
-    "Sky News"
-   ],
-   "feeds": [
-    "world:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "עימותים פרצו בברצלונה במהלך שביתה כללית בספרד במחאה על יוקר המחיה והדיור.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "40a1a8406249",
-   "tab": "world",
-   "feed": "world:3",
-   "title": "Driver faces DUI and murder charges after three killed in LA crash, officials say",
-   "summary": "Driver, 61, faces DUI and murder charges after Tuesday crash critically injuring two others in North Hollywood A driver who reportedly crashed into pedestrians on a Los Angeles corner during Tuesday rush hour, killing three people and critically injuring two more, was arrested on suspicion of driving under the influence and three counts of murder, police said on Wednesday. The fatal crash took pla",
-   "link": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
-   "source": "The Guardian",
-   "lang": "en",
-   "image": "https://i.guim.co.uk/img/media/8fde15c86b519c9c53c59fafa627004379fc5d30/844_0_2832_2268/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=98a149a8585cfc9d556ee213c81593a3",
-   "published": "2026-11-11T20:30:56+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "world:3"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "נהג מלוס אנג׳לס נעצר בחשד לנהיגה בשכרות ורצח לאחר שהרג שלושה הולכי רגל.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "08c474f3e1a3",
-   "tab": "world",
-   "feed": "world:2",
-   "title": "ציור קיר שמציג את חטיפתם של נועה ארגמני ואבינתן אור במילאנו - נמחק תוך חודש",
-   "summary": "יצירתו של האומן האיטלקי אלסנדרו פלומבו, שהנציחה את חטיפתם של נועה ארגמני ואבינתן אור, נמחקה במסגרת \"צביעה מחדש\" • שגריר ישראל באיטליה גינה: \"ניסיון לשכתב את זכרו של אותו אסון\" • נסיבות ההחלטה לצבוע את הקיר, שנותר מוזנח במשך שנים - עדיין אינן ברורות",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-a1f21961c5bc1a1026.htm",
-   "source": "N12 עולם",
-   "lang": "he",
-   "image": "https://img.mako.co.il/2026/11/11/grafiti_autoOrient_a.jpg",
-   "published": "2026-11-11T18:11:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "world:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "ציור קיר במילאנו שהנציח את חטיפת נועה ארגמני ואבינתן אור נמחק ועורר סערה.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "45d5c49f84da",
-   "tab": "world",
-   "feed": "world:0",
-   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-   "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
-   "published": "2026-11-11T16:59:34+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "world:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "רשויות החוק בארה״ב עצרו שלושה חשודים הקשורים לאיראן שתכננו לבצע מתקפות טרור, בין היתר בבסיס צבאי בבריטניה.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "8c333a33f023",
-   "tab": "world",
-   "feed": "world:2",
-   "title": "שגריר רוסיה בארה\"ב מת בפתאומיות – והסיבה לא ידועה",
-   "summary": "אלכסנדר דרצ'ייב, שמונה לתפקיד רק בתחילת השנה שעברה, מת בנסיבות שטרם התבררו • משרד החוץ הרוסי הודיע על מותו, אך לא חשף את הסיבה • השגריר הוותיק, שנחשב לבן חסותו של אחד מיועציו הקרובים של פוטין, כיהן בעבר גם כשגריר בקנדה • במוסקווה ספדו: \"מומחה מבריק לענייני ארה\"ב\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-68071961c5bc1a1026.htm",
-   "source": "N12 עולם",
-   "lang": "he",
-   "image": "https://img.mako.co.il/2026/11/11/russia_autoOrient_a.jpg",
-   "published": "2026-11-11T16:34:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "world:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "שגריר רוסיה בארה״ב מת בפתאומיות בנסיבות שטרם התבררו רשמית.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "9d9f5b88df97",
-   "tab": "world",
-   "feed": "world:5",
-   "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-   "summary": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
-   "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-   "source": "NPR",
-   "lang": "en",
-   "image": "undefined",
-   "published": "2026-11-11T12:21:59+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "world:5"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "הקונגרס בארה״ב בלם את הליך ההדחה נגד שר ההגנה, ובמקביל נעצרו שלושה חשודים בתכנון פיגועים.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "8548a6ed2375",
-   "tab": "trump",
-   "feed": "trump:2",
-   "title": "Trump says the towering arch he wants to be build might be dedicated to military veterans",
-   "summary": "President Donald Trump has observed Veterans Day by suggesting that the towering arch he wants to build in his own honor might also be dedicated to veterans and the U.S. military.",
-   "link": "https://apnews.com/article/trump-arch-veterans-day-washington-2002012a2b0a6afb0ccf01325a41683f",
-   "source": "Associated Press News",
-   "lang": "en",
-   "image": "https://www.bing.com/th?id=ONUT.b2AK93iG44gQ5c397BePSw&pid=News&w=700&h=394&c=7",
-   "published": "2026-11-11T10:30:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "trump:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "נשיא ארה״ב הציע ששער הניצחון שהוא מתכנן להקים יוקדש גם לוותיקי הצבא.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "cbf6b63791d3",
-   "tab": "trump",
-   "feed": "trump:4",
-   "title": "טראמפ: \"ניצחנו את איראן צבאית, אך לא נסתפק ב-93% הצלחה\"",
-   "summary": "על רקע המאמצים הדיפלומטיים בתיווך קטאר, נשיא ארה\"ב מצהיר כי המלחמה תסתיים בקרוב: \"מקווה שלא נצטרך להרוס עוד מהמדינה הזו\". במקביל, טהרן מאיימת בתגובה \"ללא גבולות\" ומציבה תנאי סף שוושינגטון מגדירה \"לא מ ...",
-   "link": "https://www.bhol.co.il/news/1744326",
-   "source": "בחדרי חרדים",
-   "lang": "he",
-   "image": "https://www.bing.com/th?id=ONUT.so3QxRotfDXFupRrARCr7Q&pid=News&w=700&h=394&c=7",
-   "published": "2026-11-11T03:11:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "trump:4"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "נשיא ארה״ב הצהיר שהלחימה מול איראן קרובה לסיום, אך איראן מאיימת בתגובה חריפה.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "ea059aac5c96",
-   "tab": "trump",
-   "feed": "trump:4",
-   "title": "טראמפ על איראן: \"המלחמה מבחינה צבאית - הסתיימה\"",
-   "summary": "נשיא ארה\"ב הבהיר כי המצור על טהרן יימשך, לצד המגעים לסיום העימות • לדבריו, נושאת מטוסים שלישית בדרכה למזרח התיכון • לאחר שיחה עם ראש ממשלת קטאר הדגיש כי מדינות המפרץ תומכות בהמשך הלחץ הצבאי • \"לעולם ל ...",
-   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21817886",
-   "source": "ישראל היום",
-   "lang": "he",
-   "image": "https://www.bing.com/th?id=ONUT.Ji7V9jUbkP2NkagHnZxA0g&pid=News&w=700&h=394&c=7",
-   "published": "2026-11-09T22:49:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "trump:4"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "נשיא ארה״ב הודיע שהמלחמה מול איראן מבחינה צבאית הסתיימה, אך הלחץ הכלכלי והמצור יימשכו.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "f8d7b6b7650f",
-   "tab": "trump",
-   "feed": "trump:0",
-   "title": "Trump announces special envoy for manufacturing",
-   "summary": "President Trump on Monday unveiled a special envoy for manufacturing in a post to Truth Social. “I am proud to announce that David MacNeil, the GREAT American entrepreneur and founder of ...",
-   "link": "https://thehill.com/homenews/administration/6209197-trump-unveils-manufacturing-envoy/",
-   "source": "The Hill",
-   "lang": "en",
-   "image": "https://www.bing.com/th?id=ONUT.bT1EAIJyMHPHBZlC-Gtz9g&pid=News&w=700&h=394&c=7",
-   "published": "2026-11-09T14:18:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "trump:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "נשיא ארה״ב מינה שליח מיוחד חדש לענייני ייצור מקומי.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "dd6d23d57dbe",
-   "tab": "trump",
-   "feed": "trump:0",
-   "title": "Melania Trump's Latest Announcement Has Critics Reaching For The Mute Button",
-   "summary": "The first lady’s return to the small screen received a chilly reception.",
-   "link": "https://www.msn.com/en-us/news/other/melania-trumps-latest-announcement-has-critics-reaching-for-the-mute-button/ar-AA2h3izM",
-   "source": "HuffPost on MSN",
-   "lang": "en",
-   "image": "https://www.bing.com/th?id=ONUT.lzVUuh8Wh4odb_SvsIUO6Q&pid=News&w=700&h=394&c=7",
-   "published": "2026-11-09T04:03:41+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "trump:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "חזרתה של אשת נשיא ארה״ב למסך הטלוויזיה זכתה לתגובות מעורבות.",
-   "score": 1,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "5a5864983c52",
-   "tab": "economy",
-   "feed": "economy:0",
-   "title": "מניית ה-AI שהמריאה אחרי הדוחות והקפיצה את נאסד\"ק",
-   "summary": "קורוויב, אחת השחקניות המרכזיות בתחום הניאו-קלאוד, שספג לחצים משמעותיים לאחרונה בוול סטריט, פרסמה דוחות חיוביים וזינקה בחדות • החברה עלתה לפני כחודש לכותרות בעקבות חובות עתק, שהביאו את חלק מתשואות האג\"ח שלה לטפס לשיעור חריג של כ-16%",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562923#utm_source=RSS",
-   "source": "גלובס",
-   "lang": "he",
-   "image": "https://res.cloudinary.com/globes/image/upload/c_auto,g_south,h_392,w_800/v1792416261/shutterstock_2655065175_ejptn5.jpg",
-   "published": "2026-11-11T21:04:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "economy:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "חברת הענן והבינה המלאכותית קורוויב פרסמה דוחות חיוביים שהקפיצו את מניות הטכנולוגיה בוול סטריט.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "0d4f74139d05",
-   "tab": "economy",
-   "feed": "economy:0",
-   "title": "וול סטריט ננעלה בעליות חדות: קורוויב ומניות השבבים הציתו מחדש את ראלי ה-AI",
-   "summary": "נאסד\"ק זינק ב-1.7% בהובלת מניות השבבים • אנבידיה התאוששה, מייקל ברי: היא עשויה להפוך בקרוב ל\"עסקה מצוינת\" בטווח הקצר • חברת מחשוב הענן קורוויב זינקה לאחר שפרסמה דוחות חזקים והקלה את החששות מפני החובות העצומים של חברות ה-AI • הדולר בשיא של 19 חודשים על רקע ההערכות להעלאת ריבית בארה\"ב",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562761#utm_source=RSS",
-   "source": "גלובס",
-   "lang": "he",
-   "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1765899591/direct/AP22040486850744_oftjdv.jpg",
-   "published": "2026-11-11T21:00:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "economy:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "וול סטריט ננעלה בעליות חדות בהובלת מניות השבבים והבינה המלאכותית.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "5efd2efd3f7d",
-   "tab": "economy",
-   "feed": "economy:0",
-   "title": "איזנקוט לנתניהו: \"גלה איפוק וזהירות ממהלכים מסוכנים\"",
-   "summary": "איזנקוט פנה לרה\"מ בבקשה להימנע ממהלכים צבאיים מסוכנים עד להשבעת ממשלה חדשה • ארה\"ב מפנה מטוסים, החשש: איראן מסמנת עוד יעדים באירופה • למרות הטענות האמריקאיות על השמדת ארסנל הנשק האיראני, הערכות גורמי המודיעין חושפות תמונה מצב מטרידה למדי • לפי דיווח בבלומברג - איראן הצליחה להגיע לכמחצית מיכולת הייצור שלה לפני המלחמה • נשיא איראן, מסעוד פזשכיאן, יצא לטורקיה כדי להשתתף בוועידה של האו\"ם • עדכונים שוט",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562908#utm_source=RSS",
-   "source": "גלובס",
-   "lang": "he",
-   "image": "https://res.cloudinary.com/globes/image/upload/v1785421326/800_oexleg.jpg",
-   "published": "2026-11-11T20:57:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "economy:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "חברי כנסת קראו לזהירות מדינית וביטחונית, בזמן שמודיעין המערב עוקב אחר שיקום היכולות של איראן.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "75944101d675",
-   "tab": "economy",
-   "feed": "economy:2",
-   "title": "המניה שזינקה ב-10% - והקפיצה את אנבידיה",
-   "summary": "קורווייב הפתיעה את וול סטריט, הרגיעה את חששות בועת ה-AI והציתה ראלי חיובי בסקטור הניאו-קלאוד שחטף מכות קשות בתקופה האחרונה",
-   "link": "https://finance.walla.co.il/item/3875892",
-   "source": "וואלה כסף",
-   "lang": "he",
-   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/3/9/8/8/3988509-46.jpg",
-   "published": "2026-11-11T19:06:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "economy:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "תוצאות חזקות של חברת קורווייב הרגיעו את חששות המשקיעים מבועת הבינה המלאכותית.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "6511c840a1cd",
-   "tab": "economy",
-   "feed": "economy:2",
-   "title": "שימוע לפני פיטורים: מה אסור להגיד, ומתי חייבים לעצור את ההליך?",
-   "summary": "מכתב זימון עמום, טענות שלא תועדו והחלטה שכבר התקבלה מראש: הליך שימוע לא תקין עלול לחשוף מעסיקים לסיכון משפטי. עו\"ד שני מרום, מומחית לדיני עבודה, מסבירה מה חשוב לבדוק לפני השימוע, איך נכון לנהל אותו ומתי כדאי לעצור ולבחון חלופות",
-   "link": "https://career.walla.co.il/item/3875870",
-   "source": "וואלה כסף",
-   "lang": "he",
-   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/1/1/8/4118517-46.png",
-   "published": "2026-11-11T16:00:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "economy:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "מומחים לדיני עבודה מסבירים מהם הכללים המשפטיים והסיכונים בהליכי שימוע לפני פיטורים.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "988a0cbdb745",
-   "tab": "economy",
-   "feed": "economy:2",
-   "title": "אחרי רעידת האדמה באילת: זה מה שאתם חייבים לבדוק לגבי הביטוח שלכם",
-   "summary": "רעידת אדמה בעוצמה 4.5 בסיני הקפיצה את פיקוד העורף והוציאה תושבים לרחובות. בעקבות האירוע: ליאור רוזנפלד, לשעבר נשיא לשכת סוכני הביטוח, מסביר האם המדינה תפצה על נזקים, מה כולל ביטוח הדירה והעסק, וכמה תשלמו מהכיס",
-   "link": "https://finance.walla.co.il/item/3875838",
-   "source": "וואלה כסף",
-   "lang": "he",
-   "image": "https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/0/1/4001017-46.jpg",
-   "published": "2026-11-11T13:25:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "economy:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "בעקבות רעידת האדמה באזור, מומחים מזכירים לבדוק את כיסויי ביטוחי הדירות והעסקים לנזקי טבע.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "dac434f9a925",
-   "tab": "economy",
-   "feed": "economy:1",
-   "title": "תוכנית בית רומנו אושרה סופית: תכלול גם 3 מגדלים בני 50 קומות",
-   "summary": "הוועדה המחוזית ת\"א אישרה למתן תוקף את התוכנית לשימור המתחם ההיסטורי, שמאפשרת גם הקמה של כ-240 דירות. עיריית גבעתיים הודיעה כי היא מקדמת 3 תוכניות התחדשות עירונית בהיקף של כ-2,500 יחידות דיור, שתיים מהן ליד המטרו. ומה התוכניות ברמת גן, אילת, בת ים, עכו, דימונה ואשדוד? צנרת התכנון",
-   "link": "https://www.ynet.co.il/economy/article/hyxlkcb0ml",
-   "source": "ynet כלכלה",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/HJFN8bzRfx/HJFN8bzRfx_0_0_1600_922_0_medium.jpg",
-   "published": "2026-11-11T12:12:22+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "economy:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "תוכנית הבנייה והשימור של מתחם בית רומנו בתל אביב אושרה סופית ותכלול מגדלי מגורים.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "af11e2343d19",
-   "tab": "tech",
-   "feed": "tech:1",
-   "title": "האח הגדול מגיע הביתה: אמזון משיקה רחפן שיטוס לכם בין החדרים",
-   "summary": "אחרי שש שנים של דחיות וכישלונות, ענקית הטכנולוגיה חושפת רחפן אבטחה אוטונומי שיסייר בין חדרי הבית, יזהה מכשולים ויצלם באיכות 2K, והכול תמורת 250 דולר. אלא שמאחורי ההבטחה לאבטחה חכמה מסתתרים זמן טיסה קצר, תלות מוחלטת באינטרנט ושאלות מטרידות על פרטיות הדיירים",
-   "link": "https://www.ynet.co.il/digital/technews/article/rye8wegame",
-   "source": "ynet דיגיטל",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/Sk1o8lfCMg/Sk1o8lfCMg_1_221_1199_675_0_medium.jpg",
-   "published": "2026-11-11T14:09:43+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "tech:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "אמזון הושקה רחפן אבטחה אוטונומי לשימוש ביתי, המעורר שאלות לגבי שמירת הפרטיות בבית.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "5b4571937f8c",
-   "tab": "tech",
-   "feed": "tech:0",
-   "title": "הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 מיליון דולר כדי להתחרות בה",
-   "summary": "כשארבעה מהנדסים, שעומדים מאחורי אחת מתשתיות הדאטה המרכזיות של מיקרוסופט, עוזבים את החברה כדי להקים סטארטאפ, אתם יכולים לדעת די בבטחון שזה לא בשביל לבנות עוד אפליקציית To-Do… הסטארטאפ הישראלי Edelbyte, שנחשף היום (ד') לראשונה, מודיע על גיוסים בגובה 70 מיליון דולר בתוך שנה בלבד מאז הקמתו. המטרה? לפתור את כאב הראש שתשתיות ה-AI עושות […] The post הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 ",
-   "link": "https://www.geektime.co.il/edelbyte-raises-70m-ex-microsoft-data-startup-edelbyte/",
-   "source": "גיקטיים",
-   "lang": "he",
-   "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-1024x664.jpg",
-   "published": "2026-11-11T14:00:04+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "tech:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "חברת סטארטאפ ישראלי שהקימו מהנדסים לשעבר במיקרוסופט גייסה 70 מיליון דולר בתוך שנה.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "51b554ead477",
-   "tab": "tech",
-   "feed": "tech:0",
-   "title": "אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דולר להשקעות בסטארטאפים",
-   "summary": "קרן ההון סיכון Vine Ventures הודיעה על השלמת גיוס של 236 מיליון דולר לקרן השלישית שלה, שתשקיע בחברות בארה\"ב ובישראל. לפי הקרן, כ-50% מכספי הקרן החדשה צפויים להיות מוקצים לחברות ישראליות. הגיוס מביא את היקף הנכסים המנוהלים של Vine ליותר מ-500 מיליון דולר, חמש שנים בלבד מאז שהוקמה. בגיוס השתתפו משקיעים חדשים וקיימים, ובהם מנכ\"לי […] The post אחרי צירופה של נועה ארגמני: קרן Vine מגייסת 236 מיליון דול",
-   "link": "https://www.geektime.co.il/vine-ventures-236-million-third-fund/",
-   "source": "גיקטיים",
-   "lang": "he",
-   "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/11/VINE-VENTURES-1024x709.jpg",
-   "published": "2026-11-11T13:09:59+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "tech:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "קרן הון הסיכון Vine Ventures גייסה 236 מיליון דולר, ומחצית מהסכום תושקע בחברות סטארטאפ ישראליות.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "40cbd55dbcd7",
-   "tab": "tech",
-   "feed": "tech:0",
-   "title": "חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה",
-   "summary": "יצרנית ה-LiDAR הישראלית Innoviz מראש העין הכריזה היום (ד') על מהלך פיטורים חריג, שבמסגרתו היא צפויה להיפרד מרבע ממצבת כוח האדם שלה – כ-90 עובדים בסך הכל. זה סבב הפיטורים השלישי של החברה בשלוש השנים האחרונות, כאשר בתחילת 2024 פיטרה עשרות עובדים – שהם 13% מכוח האדם שלה. בתחילת השנה שעברה הכריזה אינוויז על סבב […] The post חברת Innoviz הישראלית מפטרת רבע מהעובדים שלה appeared first on גיקטיים .",
-   "link": "https://www.geektime.co.il/innoviz-lays-off-25-percent-of-workforce/",
-   "source": "גיקטיים",
-   "lang": "he",
-   "image": "https://cdn.geektime.co.il/wp-content/uploads/2020/12/All-Innoviz-1607691581-1024x381.jpg",
-   "published": "2026-11-11T12:34:46+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "tech:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "חברת הטכנולוגיה הישראלית אינוויץ׳ מפטרת רבע מעובדיה, כ-90 איש, בסבב פיטורים שלישי בשנים האחרונות.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "6b513dd2ec8a",
-   "tab": "tech",
-   "feed": "tech:1",
-   "title": "הזהב החדש של תעשיית ה-AI מסתתר במכוניות חשמליות ישנות",
-   "summary": "תעשיית הבינה המלאכותית זוללת כמויות אדירות של חשמל, והפתרון עשוי להגיע דווקא ממכוניות חשמליות שיצאו משימוש. סוללות ישנות שכבר אינן מתאימות לנסיעה זוכות לחיים חדשים ומספקות אנרגיה לבתים, למפעלים ולחוות שרתים. אלא שבדרך למהפכה מסתתרים גם לא מעט אתגרים",
-   "link": "https://www.ynet.co.il/digital/technews/article/skom11iw0fx",
-   "source": "ynet דיגיטל",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/11/29/B1C01G11jw/B1C01G11jw_0_34_3000_1689_0_medium.jpg",
-   "published": "2026-11-11T09:39:39+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "tech:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "מחקר מעלה כי סוללות של מכוניות חשמליות שיצאו משימוש יכולות לשמש לאספקת אנרגיה לבתים ולחוות שרתים.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "ce8dc2b4fd5f",
-   "tab": "science",
-   "feed": "science:0",
-   "title": "Toby Jones stars in film about UK Mars mission",
-   "summary": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
-   "link": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213d/live/3acce750-ddcc-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-11-11T14:10:11+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "science:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "סרט חדש בכיכובו של טובי ג׳ונס מגולל את סיפורה של משימת חלל בריטית למאדים שאיבדה קשר.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "61b839ef9fc4",
-   "tab": "science",
-   "feed": "science:2",
-   "title": "Scientists discover troubling activity beneath the ocean near Japan’s massive earthquake fault",
-   "summary": "The underwater fault responsible for Japan’s devastating 2011 earthquake is showing signs of renewed stress, raising concerns about future seismic activity across the Pacific ...",
-   "link": "https://www.marca.com/en/lifestyle/world-news/2026/11/11/scientists-discover-troubling-activity-beneath-the-ocean-near-japan-s-massive-earthquake-fault.html",
-   "source": "MARCA",
-   "lang": "en",
-   "image": "https://www.bing.com/th?id=ONUT.-2vuNYxhl3KaZzmOENx84A&pid=News&w=700&h=394&c=7",
-   "published": "2026-11-11T10:47:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "science:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "מדענים מזהים פעילות מדאיגה ועלייה בלחץ סביב העתק רעידת האדמה התת-ימית ליד יפן.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "430b6c588917",
-   "tab": "science",
-   "feed": "science:0",
-   "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-   "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
-   "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
-   "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4532/live/a692de50-dcf4-11f1-9ef0-4b5930e2f80e.jpg",
-   "published": "2026-11-11T00:35:14+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "science:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "הנסיך וויליאם מקדם תוכנית למכירת חוכרות ומפעלים חקלאיים באנגליה כדי לגייס כספים.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "9dc83bf3bbca",
-   "tab": "health",
-   "feed": "health:0",
-   "title": "חזר מחו\"ל עם צינון: גבר בן 47 שלא התחסן מת מסיבוך של שפעת",
-   "summary": "אחרי כשבוע בטיפול נמרץ פנימי בסורוקה, מצב ריאותיו של החולה המשיך להידרדר למרות הטיפול האינטנסיבי והוא חובר למכשיר אקמו, אך הצוותים לא הצליחו להציל אותו. בימים האחרונים חוברה לאקמו גם אישה בת 61 במאיר בכפר סבא. מנהל המכון למחלות זיהומיות בסורוקה: \"המקרה ממחיש את הסיכון שבסיבוכי מחלת השפעת, גם בקרב אנשים בריאים\"",
-   "link": "https://www.ynet.co.il/health/article/rk11lxbg0zl",
-   "source": "ynet בריאות",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/SJ3dpq4nfx/SJ3dpq4nfx_0_0_1000_563_0_medium.jpg",
-   "published": "2026-11-11T19:29:49+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "health:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "גבר בן 47 שלא התחסן נפטר מסיבוכי שפעת לאחר שחזר מחו״ל, במקביל לאשפוז חמורה של אישה נוספת.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "80db8aeee2b5",
-   "tab": "health",
-   "feed": "health:0",
-   "title": "מחקר ישראלי פורץ דרך: בדיקת דם מזהה מי בסיכון לחזרת סרטן השד",
-   "summary": "הבדיקה שפותחה במכון ויצמן למדע ובאוניברסיטה העברית זיהתה סרטן שד בשלב מוקדם בדיוק של 95%, וניבאה את חזרת המחלה טוב יותר מביופסיה פולשנית. פרופ' אפרת שמע, חוקרת אפיגנטיקה במכון ויצמן למדע, מסבירה מה חשוב בה לנשים עם רקמת שד צפופה, שאצלן הגידול נוטה להסתתר בממוגרפיה: \"בדיקת הדם שפיתחנו הראתה כושר אבחון גבוה, שאינו משתנה כתלות בצפיפות השד\"",
-   "link": "https://www.ynet.co.il/health/article/bksnnvlaze",
-   "source": "ynet בריאות",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/Bk71SPlRMg/Bk71SPlRMg_265_351_2608_1469_0_medium.jpg",
-   "published": "2026-11-11T15:50:00+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "health:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "חוקרים ישראלים פיתחו בדיקת דם חדשנית המזהה סרטן שד בשלב מוקדם בדיוק גבוה ומנבאת חזרה של המחלה.",
-   "score": 4,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "d653f4288900",
-   "tab": "culture",
-   "feed": "culture:0",
-   "title": "כוכב \"ימי חיינו\" חושף שאובחן עם פרקינסון; המחלה תשולב בעלילת הסדרה",
-   "summary": "השחקן ג'יימס ריינולדס, שמגלם את אייב קרבר בסדרה זה 45 שנה, סיפר כי ניסה להסתיר את התסמינים על הסט, אך התקשה לעשות זאת. לדבריו, מצבו ישתקף גם בסיפור של דמותו",
-   "link": "https://www.ynet.co.il/entertainment/article/ry1qcgf0ze",
-   "source": "ynet תרבות",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/ByJTemzAMe/ByJTemzAMe_194_341_998_562_0_medium.jpg",
-   "published": "2026-11-11T17:12:10+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "culture:0"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "שחקן הוותיק של סדרת הדרמה הידועה חשף כי אובחן במחלת פרקינסון, והמחלה תשולב בעלילה.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "3857fb4e9532",
-   "tab": "weird",
-   "feed": "weird:2",
-   "title": "Lance Storm on How TNA Competes With WWE and AEW, His Belief TNA Is Similar To ECW For Creative Approach and Talent Discovery, & The One Quality He Looks For The Most In Young Talent",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWXZVOWZSWFotemp2WWZ2OHVfTXZJcV9wNk9HYnVIdlhCRkp4aFR0VU1HUmhTeVpTdngyc1pyVkI0bGxDOVpQMWR6STdoMDNTbzVDVjY4Uk9wbTVKY2MyUk8xall0aDlKMVNzN05uY2V3dXRPQlBjSUVkaGxuV0pMVmVUX2ZGU1BVamx1aGZZVVpLams5MWNoOUpGUGl2eElPYnFfQV9aVGplekxrUmRSWUJNRThSZ1lwbXZSN3ZyaHhGNzFMSENtN3lFQlpiNDBIeWg1V1pUM1MzTXRKNzhKMnIwaDBDZW52aUtjOTZtRWNXZGVKY3Zzb21OMTBaQmpKYmpoSFFQOVN2STItNHNobmc4d1dBRE96Q3FIUEp1Qndkb0NHOTJNZi03bjVBWDk4a3c?oc=5",
-   "source": "TPWW",
-   "lang": "en",
-   "image": "",
-   "published": "2026-11-11T21:39:29+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "weird:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "ראיון מקצועי עם מתאבק העבר לאנס סטורם על עולם ההיאבקות ופיתוח כישרונות צעירים.",
-   "score": 1,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "c876c266563b",
-   "tab": "weird",
-   "feed": "weird:1",
-   "title": "אחרי שהרגו אם ובתה: דובת גריזלי ושלושת גוריה הומתו",
-   "summary": "בדיקות DNA קשרו את ארבעת הדובים למותן של ג'ני בלקראס (48) ובתה סלה ריד (20), שגופותיהן נמצאו ליד שביל בקולומביה הבריטית שבקנדה. הרשויות קבעו כי הם מהווים סכנה לציבור, וציינו כי ייתכן שהתקיפה כללה דפוס פעולה טורפני – תופעה נדירה ביותר",
-   "link": "https://www.ynet.co.il/environment-science/article/hyxx11wm0ge",
-   "source": "ynet בעלי חיים",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/B184J11zRzl/B184J11zRzl_0_83_1440_811_0_medium.jpg",
-   "published": "2026-11-11T18:58:19+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "weird:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "רשויות בקנדה הרגו דובת גריזלי ושלושת גוריה לאחר שבדיקות DNA קשרו אותם למותן של שתי נשים.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "30f8020abf8b",
-   "tab": "weird",
-   "feed": "weird:1",
-   "title": "4 פלסטינים נעצרו בחשד שהתעללו בגמל בחתונה בחברון, בהם החתן",
-   "summary": "החתן, אחיו והוריהם נעצרו בחשד להתעללות בגמל בחתונה. בסרטון, שפורסם בימים האחרונים ברשתות החברתיות ועורר זעם רב, נראה אחד המשתתפים שופך משקאות אנרגיה לפיו של הגמל, שעליו רכב ילד. הגמל, שנראה סובל מהמעשה, ניסה לפלוט את הנוזל מפיו. בהמשך נראה אדם אחר מכה את הגמל באמצעות מקל",
-   "link": "https://www.ynet.co.il/environment-science/article/s1qaggmcml",
-   "source": "ynet בעלי חיים",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/Hksoac110fx/Hksoac110fx_0_40_410_231_0_medium.jpg",
-   "published": "2026-11-11T13:49:47+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "weird:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "ארבעה פלסטינים, בהם חתן, נעצרו בחשד להתעללות בגמל במהלך חתונה בחברון.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "e1e504f7f073",
-   "tab": "weird",
-   "feed": "weird:2",
-   "title": "Alzheimer’s discovery reveals a breakdown in the brain’s defenses",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGNqMjZUbXpVUy1RNVAyeTV2SjduQy1qQlZUcFJudGw0VGxiNndxWW1YTmdtbGhjekNOWXUxS1dhRmhaWjF1d0VZOEpIRTJ5S045elgyRTREeWxobDNXLXg5cXhaM01nRDh2M2VZRnoySEJHVTE2MUJ2Wk5SSHFDSHhtb281T011akNGQ3dQWmFZUmUzM2lTYm1aRVM?oc=5",
-   "source": "Earth.com",
-   "lang": "en",
-   "image": "",
-   "published": "2026-11-11T13:33:25+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "weird:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "מחקר חדש על אלצהיימר חושף פגיעה במנגנוני ההגנה של תאי המוח.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "a482e5a4e537",
-   "tab": "weird",
-   "feed": "weird:1",
-   "title": "פלסטינים שפכו משקאות אנרגיה לפיו של גמל בחתונה בחברון | תיעוד קשה",
-   "summary": "סרטון שהופץ ברשתות החברתיות תיעד משתתפים בחתונה בחברון שופכים משקאות אנרגיה לפיו של הגמל ומכים אותו במקל. התיעוד עורר זעם בקרב פלסטינים וגם בדואים בנגב, שגינו את היחס לבעל החיים המזוהה עם מורשתם",
-   "link": "https://www.ynet.co.il/environment-science/article/b1j114iwcmg",
-   "source": "ynet בעלי חיים",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/Hksoac110fx/Hksoac110fx_0_37_410_231_0_medium.jpg",
-   "published": "2026-11-11T08:25:45+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "weird:1"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "תיעוד מחתונה בחברון שבו שפכו משקאות אנרגיה לפיו של גמל עורר גינויים והזדעזעות ברשתות.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "41b31d780348",
-   "tab": "weird",
-   "feed": "weird:2",
-   "title": "Keeping Air Purifier on While Sleeping May Help Manage Blood Sugar? Study Finds a Surprising Link",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2hmZXo0Rl9BTzJYODdtQnRkWklEWnZWaWNScEc3MVA2Yy1HVGNOTzVJcjVJZHA5NGtZcWFPc2ZGVFdkTDlsMXN2d0FfemtFSHFYN1laOFE2S2w5OXdIMDJzdnBsaWVXNDlYLVJIdG1vaVBJR3ZhWnhyOGhSbXpSbTBCaDVCRFlSN2taTEN0TWd3bk9Yb1F1QjhzYXh3WWdBZzRiaHB0ZVVQTnFRWnJJUUIzNA?oc=5",
-   "source": "Onlymyhealth",
-   "lang": "en",
-   "image": "",
-   "published": "2026-11-11T06:03:53+00:00",
-   "quiet": false,
-   "also": [],
-   "feeds": [
-    "weird:2"
-   ],
-   "important": false,
-   "multi": 1,
-   "ai_summary": "כתבה העוסקת בטיפים בריאותיים הקשורים לשימוש במטהרי אוויר בחדר השינה.",
-   "score": 2,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "77ccedd1df6c",
-   "tab": "sports",
-   "feed": "sports:0",
-   "title": "נהג הפורמולה 1 המפורסם תקף את ישראל: \"שלוש שנים מבצעת רצח עם\"",
-   "summary": "לואיס המילטון, שזכה באליפות הפורמולה 1 שבע פעמים, הגיע למעבר רפיח וביקר בחריפות את ישראל: \"זהו עוול. שלילת חירותם, ביטחונם וכבודם של בני אדם\"",
-   "link": "https://www.ynet.co.il/sport/article/hkb11j4grmx",
-   "source": "ynet ספורט",
-   "lang": "he",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/H111FySfCMl/H111FySfCMl_0_485_2250_1267_0_medium.jpg",
-   "published": "2026-11-11T19:19:47+00:00",
-   "quiet": false,
-   "also": [
-    "וואלה ספורט"
-   ],
-   "feeds": [
-    "sports:0",
-    "sports:1"
-   ],
-   "important": false,
-   "multi": 2,
-   "ai_summary": "נהג הפורמולה 1 המפורסם לואיס המילטון ביקר בחריפות את ישראל במהלך ביקור במעבר רפיח.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
-  },
-  {
-   "id": "9ff466484781",
-   "tab": "sports",
-   "feed": "sports:2",
-   "title": "הווידוי המטלטל של שחקן ה-NBA לשעבר: \"הצמדתי את האקדח לראש - ובכיתי\"",
-   "summary": "ג'ונטיי פורטר, שהורחק לצמיתות מה-NBA בעקבות פרשת ההימורים שבה היה מעורב, חשף בריאיון למגזין \"ניו יורקר\" כי שקל לשים קץ לחייו בעקבות העונש הכבד והביקורת התקשורתית שספג: \"מה שהחזיק אותי היה האמונה שלי ב ...",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/b1vqtalrze",
-   "source": "ynet",
-   "lang": "en",
-   "image": "https://www.bing.com/th?id=ONUT.knf7uBw1lo9PDHI5oscDGA&pid=News&w=700&h=394&c=7",
-   "published": "2026-11-10T09:17:00+00:00",
-   "quiet": false,
-   "also": [
-    "ynet ספורט"
-   ],
-   "feeds": [
-    "sports:2",
-    "sports:0"
-   ],
-   "important": false,
-   "multi": 2,
-   "ai_summary": "שחקן ה-NBA לשעבר ג'ונטיי פורטר חשף כי שקל לשים קץ לחייו בעקבות הרחקתו לצמיתות מליגת הכדורסל.",
-   "score": 3,
-   "first_seen": "2026-11-11T21:41:48+00:00"
   }
  ],
  "sources": [
@@ -6790,7 +6681,7 @@
    "name": "כאן חדשות",
    "ok": true,
    "via": "google",
-   "count": 99,
+   "count": 91,
    "error": null
   },
   {
@@ -6806,7 +6697,7 @@
    "name": "BBC",
    "ok": true,
    "via": "rss",
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
@@ -6854,7 +6745,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 10,
+   "count": 11,
    "error": null
   },
   {
@@ -6862,7 +6753,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 11,
+   "count": 10,
    "error": null
   },
   {
@@ -6878,7 +6769,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 5,
+   "count": 10,
    "error": null
   },
   {
@@ -6958,7 +6849,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 8,
+   "count": 9,
    "error": null
   },
   {
@@ -6982,7 +6873,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 10,
+   "count": 12,
    "error": null
   },
   {
@@ -7030,7 +6921,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 11,
+   "count": 10,
    "error": null
   },
   {
@@ -7038,7 +6929,7 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 3,
+   "count": 1,
    "error": null
   },
   {
@@ -7053,8 +6944,8 @@
    "tab": "weird",
    "name": "Bing News",
    "ok": true,
-   "via": "google",
-   "count": 31,
+   "via": "bing",
+   "count": 1,
    "error": null
   },
   {
@@ -7078,56 +6969,45 @@
    "name": "Bing News",
    "ok": true,
    "via": "bing",
-   "count": 10,
+   "count": 12,
    "error": null
   }
  ],
  "ai": {
   "used": true,
-  "model": "gemini-3.5-flash",
+  "model": "gemini-3.6-flash",
   "skipped_models": [
-   "gemini-flash-latest: ModelUnavailable",
-   "gemini-3.6-flash: ModelUnavailable"
+   "gemini-flash-latest: ModelUnavailable"
   ],
-  "batches": 3,
+  "batches": 4,
   "failed_batches": 0,
-  "removed": 25,
+  "removed": 15,
   "rescued": 0,
-  "summarized": 83,
+  "summarized": 99,
   "reason": null,
   "removed_titles": [
-   "ביידן נגד נתניהו: \"הבטיח דברים שלא התכוון לקיים, דאג לעצמו ולא לישראל\"",
-   "נתניהו קרא להיפגש ולדון באחדות; איזנקוט: \"זה עוד ספין\"",
-   "איזנקוט משיב לנתניהו: \"עוד ספין, הוא יודע שנקבעה פגישת מו\"מ למחר\"",
-   "נתניהו ביקש להיכנס לחדר - איזנקוט חושף מה קרה קודם: \"ניסיון יפה\"",
-   "נתניהו \"מככב\" בקמפיין הבחירות של ראש הממשלה האנטי-ישראלי: \"הם שולטים\"",
-   "\"סרח עודף\", \"פילגש\": נתן אשל במתקפה חריפה בעקבות דברי טיבי",
-   "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-   "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
-   "קבורים ביערות ומוסתרים במחסנים: כמעט 20 מיליון דולר אותרו בחקירה נגד שר לשעבר בהונגריה",
-   "הסקרים מדאיגים את מיליי: רוב הארגנטינאים נגדו, והאבטלה הפכה לדאגה המרכזית",
-   "Former SAS chief blames state for breaking 'moral contract' with soldiers",
-   "Trump says ‘we don’t need a deal with Iran’",
+   "ראש העיר פתח תקווה עודכן: תואשם בשוחד בכפוף לשימוע",
+   "האם אלוף ג'ודו אולימפי יכול להיות נשיא צרפת?",
+   "\"איזנקוט עשוי להיות נוקשה יותר\": בלבנון תוהים - הפלונטר ישפיע על המו\"מ?",
+   "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+   "Alex Jones claims Trump is slated to make 'emergency' announcement: Here's what we know so far",
+   "Trump says DC residents will receive 50% discount at Potomac golf course",
+   "Trump says he’s working with bipartisan senators on film industry legislation",
+   "Mamdani Announces Major SNAP Win After Conversation With Trump: ‘And He Agreed’",
    "״חשש לשחיתות״: מדינות המפרץ הוזהרו מפני חקירת העסקאות עם משפחת טראמפ",
+   "Donald Trump Teams Up With Adam Schiff to Save Hollywood",
    "שגריר ארה\"ב: \"כל בוקר אני בודק ברשתות החברתיות אם טראמפ פיטר אותי\"",
-   "היורש של טראמפ מהסס: ואנס שוקל לוותר על המרוץ לנשיאות",
    "Trump Truth Social post attempting to big up his accomplishments backfired instantly",
    "Aaron Rupar reacts to Trump's recent Truth Social posts, claims \"someone needs to take his phone away and sedate him\"",
-   "Trump Says No U.S. Soldiers Have Been Killed in Iran War in the Last 5 Months — Despite Multiple Deaths Since July",
    "Trump administration says it has issued over 290 executive orders since January 2025",
-   "The Latest: Supreme Court to consider Trump’s order suspending asylum access at southern border",
-   "Trump-Supporting Iran War Veteran Announces Run for Mississippi Governor",
-   "Trump zegt dat hij Obama ‘gemakkelijk’ zou verslaan in mogelijke strijd om het presidentschap",
-   "ממטוסי חיל האוויר ועד העמימות הגרעינית: התלות בארה\"ב היא הרבה מעבר לכספי הסיוע",
-   "הפילוג הפוליטי בפולין פוגע בהשפעתה בזירה הבינלאומית",
-   "4.5 טריליון דולר בסכנה? כך אירופה תרוויח מהמפלה של טראמפ"
+   "גזירת ציפורניים, ויאגרה ומשמרות של 80 שעות: השערורייה במרפאת הקונגרס"
   ]
  },
  "stats": {
-  "fetched": 938,
-  "too_old": 347,
-  "blocked": 11,
-  "allow_matched": 4,
+  "fetched": 906,
+  "too_old": 366,
+  "blocked": 19,
+  "allow_matched": 3,
   "images_filled": 0
  }
 }
